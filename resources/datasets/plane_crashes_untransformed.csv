@@ -1,0 +1,2566 @@
+Year,Operator,Location,AC Type,Passengers,Crew,Fatalities
+1970,Spantax,Stockholm,Convair CV-990-30A-5,7,3,5
+1970,Royal Hellenic Air Force,Villia Greece,Douglas C-47,22,5,23
+1970,Polynesian Airlines,Faleolo,Douglas DC-3,29,3,32
+1970,Faucett,Mt. Pumacona,Douglas DC-4,24,4,28
+1970,Royal Nepal Airlines,Delhi,Fokker F-27 Friendship 200,18,5,1
+1970,Charter - Federal Electricity Commission,Poza Rica,Convair CV-240-2,15,4,18
+1970,Aeroflot,Batagai,Antonov AN-24,28,6,34
+1970,TAG Airlines,Cleveland,De Havilland Dove,7,2,9
+1970,Aeroflot,Murmansk,Tupolev TU-124,32,6,11
+1970,Tarom,Apuseni mountains,Antonov AN-24V,18,4,21
+1970,Aerolineas Argentinas,Corrientes,Hawker Siddeley HS-748 1,33,4,37
+1970,Aeroflot,Samarkand,Ilyushin IL-18V,98,8,92
+1970,Pilgrim Airlines,Long Island Sound,de Havilland Canada DHC-6 Twin Otter 100,3,2,5
+1970,Lineas Aéreas La Urraca,Puerto Infrida,Douglas DC-3,8,4,12
+1970,Compania Dominicana de Aviacion,Santo Domingo,McDonnell Douglas DC-9-32,97,5,102
+1970,Air Congo,Congo,Douglas DC-3,14,3,17
+1970,Swissair,Zurich,Convair CV-990-30A-6,38,9,47
+1970,Bavaria Flug,St. Moritz,Handley Page Jetstream 1,9,2,11
+1970,Paraense Transportes Aereos,Belem Bay,Fairchild-Hiller FH-227B,35,5,38
+1970,U.S. Navy,Da Nang,Lockheed EC-121P,0,31,23
+1970,Grand Canyon Airlines,Colorado City,Piper PA-32,5,1,6
+1970,Royal Air Maroc,Casablanca,Aerospatiale Caravelle 3,76,6,61
+1970,Aeroflot,Novosibirsk,Antonov AN-24V,40,5,45
+1970,Aeroflot,Zaporozhye,Ilyushin IL-14P,30,5,7
+1970,Philippine Air Lines,Manila,Hawker Siddeley HS-748-209,32,4,36
+1970,Italian Air Force,Rivolto,Fairchild C-119G,12,7,17
+1970,Trans Australia Airlines,Kainatu,de Havilland Canada DHC-6 Twin Otter 100,9,2,8
+1970,Antillean Airlines,St. Croix,McDonnell Douglas DC-9-33CF,57,6,23
+1970,U.S. Air Force,Hamilton AFB,Convair CV-240,0,14,13
+1970,Somali Airlines,Mogadishu,Vickers 785D Viscount,26,4,5
+1970,Philippine Air Lines,Iligan,Fokker F-27 Friendship 100,29,4,1
+1970,Executive Jet Sales Inc.,Pellston,Gates Learjet 23,4,2,6
+1970,Aeroflot,Kishiniev,Antonov AN-10,0,11,11
+1970,Aeroservicios,Tegucigalpa,de Havilland DH-114 Heron 1B,4,2,6
+1970,Lehigh Acres Development Inc.,Chamblee,Martin 404,29,4,1
+1970,Ceskoslovenske Aerolinie,Tripoli,Tupolev TU-104A,10,3,13
+1970,Philippine Air Lines,Roxas,Fokker F-27 Friendship 100,40,4,1
+1970,LADE,Huaricanga,Fokker F-27 Friendship 400M,5,3,5
+1970,Dan Air Services,Arbucias,de Havilland Comet 4,105,7,112
+1970,Reeder Flying Service,McGrath,Douglas DC-3,25,2,5
+1970,Air Canada,Toronto,McDonnell Douglas DC-8-63,100,9,109
+1970,Soviet Air Force,North Atlantic Ocean,Antonov AN-22,15,8,23
+1970,Flying Tiger Line,Tokyo,McDonnell Douglas DC-8-63AF,0,4,4
+1970,United States Navy,Las Vegas,Lockheed P-3A Orion,0,10,10
+1970,Pakistan International Airlines,Islamabad,Fokker F-27 Friendship 200,26,4,30
+1970,Lineas Aereas Nacionales SA,Cuzco,Lockheed 188A Electra,91,9,99
+1970,China Airlines,Taipei,NAMC YS-11A-219,26,5,14
+1970,U.S. Army,Tam Ky,Boeing Vertol CH47B,0,30,30
+1970,Indian Airlines,Silchar,Fokker F-27 Friendship 400,34,5,39
+1970,Dutch Continental Airways,Haringvreter,Britten-Norman BN-2A Islander,9,1,3
+1970,Aeroflot,Dnepropetrovsk,Tupolev TU-124,0,37,37
+1970,Aeroflot,Lihovka,Tupolev Tu-124,32,5,37
+1970,Aeroflot,Leningrad,Yakovlev YAK-40,18,3,21
+1970,Trans International Airlines,New York,McDonnell Douglas DC-8-63CF,0,11,11
+1970,Icelandair,Vagar,Fokker F-27 Friendship 300,30,4,8
+1970,Air Vietnam,Da Nang,Douglas DC-3-DST,34,4,4
+1970,U.S. Air Force,Taipei,Lockheed C-130E,37,6,43
+1970,Charter,Mt. Trelease,Martin 404,37,3,32
+1970,Private,Mahaffey,Aero Commander 500-B,1,1,2
+1970,National Airways,Germiston,Douglas DC-3,9,2,3
+1970,Saturn Airways,Fort Dix,Lockheed L-100-20 Hercules,0,3,3
+1970,Aerocosta Colombia,Pointe-à-Pitre,Curtiss C-46D,1,3,2
+1970,Southern Airways,Huntington,McDonnell Douglas DC-9-31,71,4,75
+1970,U.S. Air Force,Nha Trang,Fairchild C-123K,73,6,79
+1970,Capitol Airlines,Anchorage,McDonnell Douglas DC-8-63CF,219,10,47
+1970,U.S. Air Force,Cam Ranh,Fairchild C-123K,39,5,42
+1970,Cargolux,Dhaka,Canadair CL-44J,4,4,8
+1970,Jamair,Delhi,Douglas DC-3,12,4,5
+1970,Tarom,Constanta,BAC One-Eleven 424EU,20,7,19
+1970,Trans Caribbean Airways,St. Thomas,Boeing B-727-2A7,48,7,2
+1970,Aeroflot,Leningrad,Ilyushin IL-18B,90,3,93
+1970,Pakistan International Airlines,Shemshernagar,Fokker F-27 Friendship 200,31,4,7
+1970,Rousseau Aviation,Algiers,Nord 262E,28,3,31
+1971,United Arab Airlines,Ben Gashir,de Havilland Comet 4C,8,8,16
+1971,American Airlines,Edison,Boeing B-707-323,14,7,2
+1971,Balkan Bulgarian Airlines,Zurich,Ilyushin IL-18,39,8,45
+1971,Fuerza Aérea del Peru,Pacae,Curtiss-Wright C-46,30,5,35
+1971,L'Armée de L'Air,Privas,Nord 262A-34,17,4,21
+1971,Aeroflot,Surgut,Antonov AN-12B,12,2,14
+1971,Korean Airlines,Sokcho,Fokker F-27 Friendship 500,55,5,2
+1971,Linea Aeropostal Venezolana,Merida,Vickers Viscount 749,43,4,13
+1971,Aeroflot,Voroshilovgrad,Antonov AN-10,6,1,7
+1971,Transportes Aereos Militares,Mt. Cunatineuta,Curtiss C-46,8,4,12
+1971,Jamair,Gauhati,Douglas DC-3,11,4,15
+1971,Aeroflot,Vorochilovgrad,Antonov An-10,57,8,65
+1971,Western Airlines,Ontario,Boeing B-720-047B,0,5,5
+1971,Philippine Air Force,San Jose,Douglas C-47A,36,4,39
+1971,New England Aviaiton,Manchester,Beechcraft C35,3,1,4
+1971,Aviateca,Guatemala City,Curtiss C-46A-55-CK,32,3,5
+1971,Aviogenex,Rijeka,Tupolev TU-134A,76,7,78
+1971,Aerolineas Flecha Austral - ALFA,Santiago,Curtiss C-46,2,2,4
+1971,Private,Roanoke,Aero Commander 680E,5,1,6
+1971,Hughes Airwest,Duarte,McDonnell Douglas DC-9-31 / F4-B,44,7,50
+1971,Allegheny Airlines,New Haven,Convair CV-580,28,3,28
+1971,U.S. Air Force,North Pacific Ocean,Boeing - EC-135N,20,4,24
+1971,SAVCO,Arica,Douglas DC-6,4,2,6
+1971,Shelter Cove Sea Park,Garberville,Douglas DC-3,21,3,17
+1971,Toa Domestic Airline,Hokkaido,NAMC YS-11A-227,64,4,68
+1971,Air Ivoire,Bamako,Douglas DC-3,4,2,6
+1971,Pan American World Airways,Manila,Boeing 707-321CF,0,4,4
+1971,Aeroflot,Irkutsk,Tupolev TU-104B,118,8,97
+1971,Pan American World Airways,San Francisco,Boeing B-747-121,197,21,37
+1971,All Nippon Airways,Morioko,Boeing B-727-281,155,9,163
+1971,French Air Force,Pau,Nord 2501 Noratlas,36,3,0
+1971,U.S. Army,Pegnitz,Boeing Vertol CH-47A,32,5,37
+1971,Downeast Airlines,Augusta,Piper PA-31,7,1,3
+1971,Malev Hungarian Airlines,Copenhagen,Ilyushin IL-18D,25,9,32
+1971,Alaska Airlines,Juneau,Boeing B-727-193,104,7,111
+1971,Pan International,Hasloh,BAC One-Eleven 515FB,115,6,22
+1971,Yemen Airlines,Presevo,Douglas DC-3,3,2,5
+1971,Malev Hungarian Airlines,Kiev,Tupolev TU-134A,41,8,49
+1971,Balkan Bulgarian Airlines,Rila mountain,Antonov An-14,7,2,9
+1971,Cruzeiro,Sena Madureira,Douglas DC-3,28,4,32
+1971,British European Airways,Aarsele,Vickers Vanguard 951,55,8,63
+1971,Aeroflot,Moscow,Tupolev TU-104B,18,7,25
+1971,Scenic Air Lines,Colorado City,Cessna 402,9,1,10
+1971,Aerolineas TAO,San Vicente del Caguan,Douglas C-47A,17,4,19
+1971,Chicago and Southern Airlines,Peoria,Beech E18S,14,2,16
+1971,Vietnamese Air Force,Qui Nhon,Douglas C-47,20,3,22
+1971,Monmouth Airways,Bath,Beechcraft B99,6,2,4
+1971,Royal Air Force,Livorno,Lockheed C-130K Hercules,46,6,52
+1971,Merpati Nusantara Airlines,Padang,Vickers Viscount 828,62,7,69
+1971,Aeroflot,Vinnitsa,Antonov AN-24,43,5,48
+1971,China Airlines,Penghu Island,Sud Aviation SE-210 Caravelle III,17,8,25
+1971,U.S. Army,Hue,Boeing Vertol CH-47C,29,5,34
+1971,Aeroflot,Saratov,Antonov AN-24,53,4,57
+1971,Eastern Air Lines,Raleigh,Douglas DC-9-31,24,5,2
+1971,Sudan Airways,Tikaka,Fokker F-27 Friendship 200,37,5,10
+1971,Indian Airlines,Chinnamanur,HAL-748-224 Srs.2,27,4,21
+1971,Balkan Bulgarian Airlines,Sofia,Ilyushin IL-18B,62,11,28
+1971,Lineas Aereas Nacionales SA,Puerto Inca,Lockheed 188A Electra,86,6,91
+1972,SAESA,Chetumal,Hawker Siddeley HS-748-230 Srs. 2A,18,5,23
+1972,Iberia Airlines,Sierra de Atalayasa,Sud-Aviation Caravelle VI-R,98,6,104
+1972,SATENA,Betania,Douglas C-47,36,3,39
+1972,Lineas Aéreas la Urraca,Funza,Vickers Viscount 837,15,5,20
+1972,JAT Yugoslav Airlines,Srbská Kamenice,McDonnell Douglas DC-9-32,23,5,27
+1972,Royal Air Laos,Tegal,Douglas DC-6,6,3,6
+1972,Air America,Pha Khao,de Havilland Canada C-7A Caribou,34,4,1
+1972,TAC Colombia,Valledupar,Fairchild F-27,15,4,19
+1972,Royal Air Lao,Vientiane,Douglas DC-4,17,6,23
+1972,Mohawk Airlines,Albany,Fairchild-Hiller FH-227-B,45,3,16
+1972,Sterling Airways,Al Fujayrah,Aerospatiale Caravelle Super 10B,106,6,112
+1972,Egyptair,Shamsam Mountains,McDonnell Douglas DC-9-32,13,9,22
+1972,VASP,Rio de Janeiro,NAMC YS-11A-211,21,4,25
+1972,Aero Transporti Italiani,Ardinello di Amaseno,Fokker F-27 Friendship 200,15,3,18
+1972,Helaire,New York,Bell 47J-2,2,1,3
+1972,East African Airways,Addis Ababa,BAC Super VC-10 1154,96,11,43
+1972,SATCO,Moyobamba,Douglas C-47D,2,4,6
+1972,Air America,Nyot Mo,Pilatus PC6CH2,9,1,4
+1972,Aeroflot,Bratsk,Yakovlev YAK-40,14,4,18
+1972,Alitalia,Carini,McDonnell Douglas DC-8-43,108,7,115
+1972,Aerotechnia,Venezuela,Douglas C-47B,5,2,7
+1972,U.S. Army,Gia Dinh,Boeing Vertol CH47A,32,2,34
+1972,Russian Navy,Svetlogorsk,Antonov An-26,0,9,9
+1972,Aeroflot,Kharkov,Antonov AN-10A,115,7,122
+1972,DTA Angola Airlines,Lobito,Fokker F-27 Friendship 200,19,6,22
+1972,General Air,Helgoland,de Havilland Canada DHC-6 Twin Otter,10,3,8
+1972,Petrolium,Dulac,Bell 205A,10,1,9
+1972,Amazonese Importacao e Exportacao,Cruzeiro do Sul Acre,Lockheed 049 Constellation,15,3,11
+1972,Delta Air Lines,Dallas,McDonnell Douglas DC-9-14,0,4,4
+1972,Air America,Pleiku,Curtiss C-46A,29,3,32
+1972,Vietnamese Air Force,an Loc,Boeing Vertol CH-47,0,47,47
+1972,Aerolineas Flecha Austral,Santiago,Curtiss C-46D,0,3,3
+1972,Japan Air Lines,New Delhi,McDonnell Douglas DC-8-53,76,11,82
+1972,Cathay Pacific Airways,Pleiku,Convair CV-880-22M-21,71,10,81
+1972,British European Airways,London Heathrow,Hawker Siddeley Trident 1C,112,6,118
+1972,Prinair,Ponce,de Havilland DH-114 Heron 2B,18,2,5
+1972,North Central Airlines,Appleton,Convair CV-580/De Hav. Twin Otter 100,8,5,13
+1972,Pacific Southwest Airlines,San Francisco,Boeing 737-200,79,7,3
+1972,Aviaco,Las Palmas,McDonnell Douglas DC-8-52,0,10,10
+1972,Royal Norwegian Air Force,Grytoya,de Havilland Canada DHC-6 Twin Otter 100,17,2,19
+1972,U.S. Marine Corps,Quang Tri,Sikorsky CH-53D,60,7,52
+1972,Charter,Corfu Island,Sud-Aviation SE210 Caravelle,0,1,1
+1972,Avianca,Villavicencio,Douglas DC-3,32,6,38
+1972,Indian Airlines,Delhi,Fokker F-27 Friendship 100,14,4,18
+1972,U.S. Air Force,Soc Trang,Lockheed C-130E,36,8,30
+1972,Interflug,Konigs Wusterausen,Ilyushin IL-62,148,8,156
+1972,Burma Airways,Sandoway,Douglas DC-3,27,4,26
+1972,Lineas Areas Venezolanas,Canaima,Douglas C-47-DL,31,3,34
+1972,Royal Australian Air Force,Papua,de Havilland Canada DHC-4 Caribou,26,3,25
+1972,Aeroflot,Magnitogorsk,Ilyushin IL-18,93,9,102
+1972,Ansett Airlines of Papua New Guinea,Mt. Giluwe,Shorts SC-7 Skyvan 3-300,3,1,4
+1972,Servicios Aereas Virgen de Copacabana,Trinidad,Curtiss C-46A-40-CU,6,2,1
+1972,Ethiopian Airlines,Gondar,Douglas DC-3,8,3,11
+1972,Royal Nepalese Air Force,Dhulikhel,Douglas C-47,27,4,31
+1972,Private,Sacramento,F-86 Sabrejet,0,1,0
+1972,Air Vietnam,Ben Cat,Douglas C-54D-1-DC,8,5,10
+1972,Aeroflot,Adler,Ilyushin IL-18B,108,8,108
+1972,Cambodia Air,Kampot,Douglas DC-3,7,2,9
+1972,Aeroflot,Moscow,Ilyushin IL-62,164,10,174
+1972,Uruguayan Air Force - TAMU,San Fernando,Fairchild-Hiller FH-227D/LCD,40,5,29
+1972,Private,the Alaska coast,Cessna 310C,3,1,4
+1972,Olympic Airways,Athens,NAMC YS-11A-202,49,4,37
+1972,Air Melanesie,Tanna,Britten-Norman BN-2A-6 Islander,7,1,1
+1972,Air Inter,Noiretable,Vickers Viscount 724,63,5,60
+1972,Aero Transporti Italiani,Poggiorsini,Fokker F-27 Friendship 200,24,3,27
+1972,U.S. Army,My Tho,Boeing Vertol CH-47,0,22,22
+1972,Balkan Bulgarian Airlines,Plovdiv,Ilyushin IL-14P,31,4,35
+1972,Metro Air Systems,Elkton,Beech G18S,10,1,11
+1972,Japan Air Lines,Moscow,McDonnell Douglas DC-8-62,61,15,62
+1972,Spantax,Tenerife,Convair CV-990-30A-5 Coronado,148,7,155
+1972,United Air Lines,Chicago,Boeing B-737-222,55,6,43
+1972,Pakistan International Airlines,Rawalpindi,Fokker F-27 Friendship 400,22,4,26
+1972,Delta Air Lines,Chicago,Convair CV-880,122,11,10
+1972,Air Guadeloupe,Antilles,de Havilland Canada DHC-6 Twin Otter 300,11,2,13
+1972,Braathens,Skaugum,Fokker F-28 Fellowship 1000,42,3,40
+1972,Eastern Air Lines,Everglades National Park,Lockheed L-1011 TriStar 1,163,13,103
+1972,American Express Leasing,San Juan,Douglas DC-7CF,2,3,5
+1973,Pacific Western Airlines,Edmonton,Boeing 707-321C,0,5,5
+1973,British European Airways,Glasgow,Vickers 802 Viscount,2,2,4
+1973,Aeroflot,Perm,Antonov An-24B,34,5,39
+1973,Alia Royal Jordanian Airlines,Kano,Boeing B-707-3D3C,193,9,176
+1973,TAN,Tegucigalpa,Douglas DC-6A,0,3,3
+1973,Egyptair,Kyrenia,Ilyushin IL-18D,30,7,37
+1973,Petrolium Helo Inc.,Morgan City,Bell 206B,4,1,5
+1973,Aeroflot,Prague,Tupolev TU-154,87,13,66
+1973,Libya Arab Airlines,Isma'iliya,Boeing B-727-224,104,9,108
+1973,Aerovias Urraca,Cerro Horqueta,Douglas DC-3,25,3,22
+1973,Aeroflot,Leningrad,Ilyushin IL-18,71,8,79
+1973,Aeroflot,Semipalatinsk,Yakovlev YAK-40,29,3,32
+1973,Merpati Nusantara Airlines,Nabire,de Havilland Canada DHC-6 Twin Otter 100,10,3,13
+1973,Balkan Bulgarian Airlines,Moscow,Ilyushin IL-18V,17,8,25
+1973,Lineas Aereas de Espana,Nantes,MD Douglas DC-9-32,166,16,68
+1973,Indian Airlines,Hyderabad,HAL-748-224,0,3,3
+1973,Air Vietnam,Ben Me Thuot,Douglas C-54D,57,5,62
+1973,Invicta International Airlines,Basel,Vickers Vanguard 952,139,6,108
+1973,U.S. Navy,Moffett AFB,Lockheed P-3C,0,17,16
+1973,Bakhtar Afghan Airlines,Bamiyan,de Havilland Canada DHC-6 Twin Otter 100,16,3,4
+1973,Aeroflot,Semipalatinsk,Ilyushin IL-18B,55,8,61
+1973,Aeroflot,Chita,Tupolev TU-104A,72,9,81
+1973,Cambodia Air,Svay Rieng,Douglas C-47A,9,2,11
+1973,Air Gaspé,Rimouski,Douglas DC-3,1,3,4
+1973,Indian Airlines,New Delhi,Boeing B-737-2A8,58,7,48
+1973,Cruzeiro,Sao Luis,Sud Aviation SE-210 Caravelle VIN,16,7,23
+1973,Aeroflot,Goussainville,Tupolev TU-144,0,6,6
+1973,Varig,Rio de Janeiro,Boeing 707-327C,0,4,2
+1973,Aeromexico,Puerto Vallarta,McDonnell Douglas DC-9-15,22,5,27
+1973,Aeroflot,Amman,Tupolev TU-134A,78,8,2
+1973,Aeroflot,Shakhtyorsk,Ilyushin IL-14,13,5,18
+1973,Aeroflot,NKuybyshev,Tupolev TU-124V,54,7,2
+1973,Varig,Paris,Boeing B-707-345C,117,17,123
+1973,Pan American World Airways,Papeete,Boeing B-707-321B,69,10,78
+1973,Ozark Air Lines,St. Louis,Fairchild-Hiller FH-227B,41,3,38
+1973,Air Hawaii,Honolulu,Volpar C45G,4,1,5
+1973,Delta Air Lines,Boston,McDonnell Douglas DC-9-31,83,6,89
+1973,Aviaco Condor,La Coruña,Sud-Aviation Caravelle 10-R,79,6,85
+1973,Private,Don Don,Norman BN-2A-6,9,1,10
+1973,Aeroflot,Baku,Antonov AN-24V,60,4,56
+1973,AVIANCA,El Yopal,Douglas DC-3,14,3,16
+1973,Aerocondor Colombia,Bogota,Lockheed L-188A Electra,36,6,42
+1973,Trans World Airlines,Los Angeles,Boeing B-707-331B,141,8,24
+1973,U.S. Air Force,Huete,Lockheed C-141A,17,8,1
+1973,World Airways,King Cove,McDonnell Douglas DC-8-63F,3,3,6
+1973,JAT Yugoslav Airlines,Moganik,Aerospatiale Caravelle 6N,35,6,41
+1973,Private Charter,Natchitoches,Beechcraft E18S,5,1,6
+1973,Texas International Airlines,Rich Mountain,Convair 600,8,3,11
+1973,Aeronorte,Miritituba,Douglas DC-3A,5,4,9
+1973,Aeroflot,Sverdlovsk,Tupolev TU-104B,100,8,108
+1973,Aeroflot,Magadan,Antonov AN-12V,8,2,10
+1973,Aeroflot,Domodedovo,Tupolev TU-104B,114,8,122
+1973,VASP,Guanabara Bay,NAMC YS-11A-211,60,5,8
+1973,Lineas Aéreas La Urraca,Villavicencio,Handley Page HPR-7 Herald 101,12,4,6
+1973,Pan American World Airways,Boston,Boeing B-707-321C,0,3,3
+1973,National Airlines,Albuquerque,McDonnell Douglas DC-10-10,116,12,1
+1973,Air Vietnam,Quang-Ngai,Douglas DC-3,24,3,27
+1973,Aeroflot,Moscow,Tupolev TU-104B,68,7,13
+1973,Aeroflot,Karacharovo,Tupolev TU-124,45,6,51
+1973,Pan American World Airways,Rome,Boeing B-707-321B,167,10,30
+1973,Vietnamese Air Force,Siagon,Boeing Vertol CH-47,0,20,20
+1973,Royal Air Maroc,Tetouan,Sud-Aviation Caravelle VI-N,99,7,106
+1973,Aeroflot,Lvov,Tupolev TU-124,11,6,17
+1973,Executive Funds,Durban,Douglas DC-3,22,3,1
+1974,Itavia,Turin,Fokker F-28 Fellowship 1000,38,4,38
+1974,Air East,Johnstown,Beechcraft 99A,15,2,12
+1974,Servicios Aéreos Boliviano,Unduavi,Curtiss C-46F,1,3,4
+1974,Aeroflot,Mukachevo,Antonov AN-24V,18,6,24
+1974,SATENA,Nevia,Hawker Siddeley HS 748-260,28,3,31
+1974,TAM,La Paz,Douglas C-54,21,3,24
+1974,Cessnyca,Cigorodo,Douglas DC-3A,11,3,14
+1974,Turkish Airlines,Izmir,Fokker F-28 Fellowship 1000,68,5,66
+1974,Pan American World Airways,Pago Pago,Boeing B-707-321B,91,10,97
+1974,Pan American World Airways,Honolulu,Boeing B-747,279,19,1
+1974,West German Air Force,Souda,Transall C-160D,35,5,35
+1974,Delta Air Lines,Baltimore,Mc Donnell Dougals DC-9,10,5,1
+1974,SAVCO,San Francisco de Moxos,Curtiss C-46A-45-CU,4,3,7
+1974,Turkish Airlines,Ermenonville,McDonnell Douglas DC-10-10,335,11,346
+1974,Pathet Lao Airlines,Hanoi,Antonov An-24,15,3,18
+1974,Sierra Pacific Airlines,Bishop,Convair CV-440,32,4,36
+1974,Sterling Airways,Tehran,Aerospatiale Caravelle 10B3,92,4,15
+1974,Wenela Air Services,Francistown,Douglas DC-4,80,4,78
+1974,Pan American World Airways,Grogak,Boeing B-707-321C,96,11,107
+1974,Aeroflot,Leningrad,Ilyushin IL-18B,102,7,109
+1974,Houston Metro Airlines,Galveston,Beechcraft 99,10,2,6
+1974,Aero Taxis Equatorianos,Banos,Douglas C-47,21,3,22
+1974,Fragtflug,Nurnberg,Douglas DC-6A,0,3,3
+1974,Saturn Airways,Springfield,Lockheed L-100-30 Hercules,1,2,3
+1974,Aeroflot,Kiev,Yakovlev YAK-40,25,4,29
+1974,Lambair,Rankin Inlet,Bristol 170 Freighter 31E,0,2,2
+1974,Aerolineas TAO,Monte San Isidro,Vickers Viscount 785D,38,6,44
+1974,Cambodia Air,Battambang,Boeing 307B-1 Stratoliner,33,6,19
+1974,Alaska - Air Taxi,Umiat,Fairchild Hiller FH1100,4,1,5
+1974,Aeronorte Colombia,Bogota,Douglas DC-4,0,3,3
+1974,Air Amercia,Moc Hoa,Fairchild C-123K,1,4,5
+1974,Laurentian Air Services,Mt. Apica,Douglas DC-3,8,3,5
+1974,Air Mali,Ouagadougou,Ilyushin IL-18B,50,10,47
+1974,AVIANCA,Cali,Douglas C-47-DL,24,3,27
+1974,Linea Aeropostal Venezolana,Margarita Island,Vickers Viscount 749,45,4,49
+1974,Zairean Air Force,Kisangani,Lockheed C-130H,24,7,31
+1974,Garuda Indonesia Airlines,Tandjung-karang,Fokker F-27 Friendship 600,36,3,36
+1974,Trans World Airlines,Kefallinia,Boeing B-707-331B,79,9,88
+1974,Eastern Air Lines,Charlotte,McDonnell Douglas DC-9-31,78,4,70
+1974,Air Vietnam,Phan Rang,Boeing B-727-121C,67,8,75
+1974,Mabuhay Airways,Calapan,Douglas DC-3,4,4,1
+1974,Alaska International Air,Old Man's Camp,Lockheed L-100 Hercules,0,4,4
+1974,Hlavka Aviation - Air Taxi,Pagosa Springs,Beechcraft 95-B55,1,1,2
+1974,Aeroflot,Surgut,Antonov An-2,32,6,38
+1974,Orient Air System and Integrated Services,Manila,Douglas C-47A-30,5,3,1
+1974,Ethiopian Airlines,Soddu,Douglas DC-3,21,3,2
+1974,Lufthansa,Nairobi,Boeing B-747-130,144,13,59
+1974,Alpa Servicios Aéreos,Barcelona,Cessna 500 Citation I,0,4,4
+1974,Northwest Orient Airlines,Bear Mountain,Boeing B-727-251,0,3,3
+1974,Trans World Airlines,Berryville,Boeing B-727-231,85,7,92
+1974,Martinair Holland NV,Maskeliya,McDonnell Douglas DC-8-55F,182,9,191
+1974,Aeroflot,Irkutsk,Antonov An-2,11,7,13
+1974,Kodiak Airways,Old Harbors,Grumman G-21,4,1,5
+1974,Vietnamese Air Force,Moc Hoa,Boeing Vertol CH-47,53,1,54
+1974,Aeroflot,Bukhara,Yakovlev 40,15,4,7
+1974,Aerovias Venezolanas SA,Maturin,McDonnell Douglas DC-9-14,71,6,77
+1974,Edwin Ortiz,Tikal,Lockheed 18 LodeStar,21,3,24
+1974,Tarom,Sibiu,Antonov AN-24RV,28,5,33
+1975,Air America,Nha Trang,Fairchild C-123K,6,3,9
+1975,SATENA,Doncello,Douglas DC-3,17,4,21
+1975,Golden West Airlines,Whittier,de Hav Can. DHC-6 Tw Otter 100,10,4,14
+1975,Malev Hungarian Airlines,Budapest,Ilyushin IL-18V,0,9,9
+1975,Aeroflot,Xam Neua,Antonov AN-12,14,2,16
+1975,Turkish Airlines,Istanbul,Fokker F-28 Fellowship 1000,38,4,42
+1975,Linea Aérea Nacional,Santo Domingo,Douglas DC-3-313,27,3,2
+1975,Horizon Properties,Houston,Douglas DC-3C,14,2,5
+1975,Philippine Air Lines,Manila,Hawker Siddeley HS-748 2,29,4,33
+1975,Deutsche Luftwaffe,Souda,Transall C-160,35,5,40
+1975,Pacific Alaska Airlines,Fairbanks,Douglas DC-6BF,0,3,3
+1975,Aerocondor,Medellin,Canadair CL-44,0,5,5
+1975,VASP,Sao Paulo,Embraer 110C Bandeirante,13,2,15
+1975,Air Vietnam,Pleiku,Douglas DC-4,20,6,26
+1975,Argentine Air Force,Barito,Fokker F-27 Friendship 400M,50,5,55
+1975,Aeroflot,Terney,Antonov An-2,10,2,7
+1975,Sudan Airways,Singa,de Havilland Canada DHC-6 Twin Otter 100,4,2,5
+1975,U.S. Air Force,Quilcene,Lockheed C-141A,12,4,16
+1975,U.S. Air Force,Saigon,Lockheed C-5A Galaxy,314,16,155
+1975,U.S. Air Force,Sakon Nakhon,Sikorsky CH-53C,19,4,23
+1975,Philippine Air Lines,Manila,BAC One-Eleven 524FF,59,5,1
+1975,Varig,Pedro Alfonso,Hawker Siddeley HS-748-235 Srs. 2A,11,4,1
+1975,Eastern Air Lines,New York,Boeing B-727-225,116,8,113
+1975,Hamilton Aviation,Toledo,Beechcraft E18S,1,1,2
+1975,Aerovias Condor,Bogota,Lockheed L-188AF Electra,0,4,2
+1975,Aeroflot,Batumi,Yakovlev YAK-40,35,5,40
+1975,Far Eastern Air Transport,Taipei,Vickers 837 Viscount,70,5,27
+1975,Alia Royal Jordanian Airlines,Immouzer,Boeing B-707-321C,181,7,188
+1975,Nicaraguan Air Force,Amapala,Douglas DC-47,17,3,20
+1975,Continental Airlines,Denver,Boeing B-727-224,124,7,0
+1975,Aeroflot,Bagdarin,Ilyushin IL-14M,6,5,11
+1975,Aeroflot,Krasnovodsk,Yakovlev YAK-40,34,4,23
+1975,Ceskoslovenske Aerolinie,Damascus,Ilyushin IL-62,117,11,126
+1975,Wien Air Alaska,Gambell,Fairchild F-27B,28,4,10
+1975,Interflug,Leipzig-Halle,Tupolev TU-134,28,6,27
+1975,Ethiopian Airlines,Bahar Dar,Douglas C-47-DL,6,3,1
+1975,Garuda Indonesia Airlines,Palembang,Fokker F-28 Fellowship 1000,57,4,25
+1975,AVIANCA,Barranquilla,Boeing 727-24C,0,4,4
+1975,Malev Hungarian Airlines,Beirut,Tupolev TU-154B,50,10,60
+1975,Aeroflot,Novgorod,Yakovlev Yak-40,2,4,6
+1975,Connair,Queensland,de Havilland DH114 Heron 2E,8,3,11
+1975,TAM,Tomonoco,Convair CV-440-12,63,4,67
+1975,Inex Adria Aviopromet,Prague,McDonnell Douglas DC-9-32,115,5,75
+1975,Petroleum,Gulf of Mexico,Bell 212,8,1,9
+1975,Aeroflot,Sukhumi,Antonov AN-24,33,5,38
+1975,Aviateca,Caoba,Douglas DC-3,18,4,15
+1975,Aeroflot,Kharkov,Antonov AN-24,46,4,19
+1975,Balkan Bulgarian Airlines,Sofia,Antonov AN-24B,45,3,3
+1975,Israel Air Force,Bir Lahfan,Lockheed C-130 Hercules,11,9,20
+1975,Private,Hertfordshire,Piper PA-23-250 Aztec,5,1,6
+1975,Star Aviation,Rollinsville,Mitsubishi MU-2B,8,1,9
+1976,Middle East Airlines,Al Qaysumah,Boeing B-720B-023B,67,15,82
+1976,Winship Air,Anchorage,Lear Jet 24A,4,2,6
+1976,Aeroflot,Moscow,Tupolev TU-124,56,5,61
+1976,Philippine Aerotransport,Mactan Island,Britten-Norman BN-2A-21 Islander,6,1,7
+1976,Frigorifico Maniqui,San Borja,Douglas C-47,7,3,7
+1976,TAME,Loja,Hawker Siddeley HS-748-246,36,6,34
+1976,CAAC,Shanghai,Antonov AN-24,36,4,40
+1976,Transbrasil,Chapeco,Embraer 110C Bandeirante,9,2,9
+1976,LAC Colombia,Santa Maria,Douglas DC-6A,0,3,3
+1976,Mercer Airlines,Van Nuys,Douglas DC-6,1,5,3
+1976,Aeroflot,Irkutsk,Tupolev TU-104A,104,10,24
+1976,Antilles Air,St. Croix,Grumman G-21A seaplane,10,1,5
+1976,Tarom,Sibiu,Ilyushin II-14P,5,4,6
+1976,TAM,Southeastern Bolivia,IAI Arava 201,18,4,19
+1976,Aeroflot,Voronezh,Ilyushin IL-18E,100,11,111
+1976,Kodiak Western Alaska Airlines,Igiugig,Cessna 207,3,1,4
+1976,SATENA,Puerto Asis,Douglas DC-3,14,2,5
+1976,Alaska Airlines,Ketchikan,Boeing B-727-81,45,5,1
+1976,Yacimientos Petroliferos Fiscales,Neuquen,Hawker Siddeley HS-748 2,31,3,34
+1976,Petroleum,Gulf of Mexico,Bell 205 A-1,11,1,12
+1976,American Airlines,St. Thomas,Boeing B-727-95,81,7,37
+1976,Philippine Aerotransport,Camuigan,Britten-Norman BN-2A-21 Islander,8,2,4
+1976,Imperial Iranian Air Force,Cuneca,Boeing B-747-131F,7,10,17
+1976,Aeroflot,Chernigov,Antonov AN-24,46,6,52
+1976,Philippine Air Lines,Zamboanga,BAC One-Eleven 527FK,77,10,14
+1976,Aeroflot,Nacias Nguema,Tupolev TU-154A,35,10,45
+1976,Air Manila,Agana,Lockheed 188A Electra,33,12,45
+1976,Sabah Air,Kota Kinabalu,GAF Nomad N-22B,10,1,11
+1976,Air France,Entebbe,Airbus A300,0,7,7
+1976,Burma Air Force,Daiku,Douglas C-47,0,17,17
+1976,Ceskoslovenske Aerolinie,Bratislava,Ilyushin IL-18L,73,6,76
+1976,Korean Airlines,Tehran,Boeing 707-373,0,5,5
+1976,Spanish Air Force,Moron AFB,Douglas C-54E,28,4,12
+1976,SAETA,Andes Mountains,Vickers Viscount 785D,55,4,59
+1976,Air France,Ho Chi Minh City,Sud Aviation SE 210 Caravelle III,15,5,1
+1976,U.S. Air Force,Thorney,Lockheed C-141A,4,14,18
+1976,Temsco - Air Taxi,Hawk Inlet,Hughes 369HS,3,1,3
+1976,Venezuelan Air Force,Lajes,Lockheed C-130H,58,10,68
+1976,Aeroflot,Adler,Antonov AN-24,55,9,64
+1976,Inex Adria Aviopromet,Gaj,McDonnell Douglas DC-9-31,162,14,176
+1976,Turkish Airlines,Karatepe Mountains,Boeing B-727-2F2,146,8,154
+1976,U.S. Air Force,Alpena,Boeing KC-135A,15,5,15
+1976,Emirates Air Transport,Nairobi,Douglas DC-7CF,0,4,4
+1976,Cubana de Aviacion,Bridgetown,McDonnell Douglas DC-8-43,48,25,73
+1976,Indian Airlines,Bombay,Sud-Aviation Caravelle VI-N,89,6,95
+1976,Lloyd Aéreo Boliviano,Santa Cruz,Boeing B-707-31,0,3,3
+1976,Nordeste Linhas Aéreas,Petrolia,Embraer 110C Bandeirante,5,2,2
+1976,Bali International Air Service,Banjarmasin,Fokker F-27 Friendship 100,33,5,29
+1976,Inair Panama,Atlantic Ocean,Douglas DC-3,0,2,2
+1976,Olympic Airways,Kozani,NAMC YS-11A-500,46,4,50
+1976,Aeroflot,Moscow,Tupolev TU-104B,67,6,73
+1976,Atlantic City Airlines,Cape May,de Havilland Canada DHC-6 Twin Otter 300,8,2,3
+1976,Aeroflot,Kiev,Antonov AN-24RV,50,5,48
+1976,Aeroflot,Ust-Kut,Yakovlev 40,4,3,7
+1976,Aeroflot,NYuzhno-Sakhalinsk,Ilyushin IL-14M,3,5,8
+1976,EgyptAir,Bangkok,Boeing B-707-366C,44,9,53
+1976,Faucett,Trujillo,Douglas C-54A-1-DO,14,5,19
+1977,Jet Avia Charter,Palm Springs,Gates Learjet 24B,2,2,4
+1977,Aeroflot,Alma Ata,Tupolev TU-104A,82,8,90
+1977,Japan Air Lines,Anchorage,Douglas DC-8,0,5,5
+1977,Northern Thunderbird Air Ltd.,Terrace,de Havilland Canada DHC-6 Twin Otter 300,9,3,12
+1977,Skyline Sweden,Kalvesta,Vickers Viscount 838,19,3,22
+1977,Ceskoslovenské Aerolinie,Bratislava,Avia 14T,2,3,4
+1977,Aeroflot,Mineralnye Vody,Ilyushin IL-18V,92,6,77
+1977,Survair,Saglouc,Douglas DC-3,7,3,4
+1977,Alyemda,Aden,Douglas DC-3,17,3,19
+1977,Italian Air Force,Cascina,Lockheed C-130H,38,6,44
+1977,Overseas National Airways,Niamey,McDonnell Douglas DC-8-63CF,0,4,2
+1977,Pan American World Airways,Tenerife,Boeing B-747-121,614,30,583
+1977,Merpati Nusantara Airlines,Bainaha Valley,de Havilland Canada DHC-6 Twin Otter 300,20,3,15
+1977,Aeroflot,Zhadanof,Yakovlev YAK-40,23,4,8
+1977,Southern Airways,New Hope,McDonnell Douglas DC-9-31,81,4,62
+1977,El Venado,Bogota,Douglas DC-3-3A,31,4,35
+1977,Soviet Air Force,Tapa AFB,Antonov An-24,15,6,21
+1977,Aviateca,Guatemala City,Convair CV-440,22,6,28
+1977,Israel Air Force,Jericho,Sikorsky CH-53D,50,4,54
+1977,LOT Polish Airlines,Beiruit,Antonov An-12BP,0,9,9
+1977,IAS Cargo,Lusaka,Boeing 707-321C,1,5,6
+1977,New York,New York,Sikorsky S61L,22,3,4
+1977,Aeroflot,Havana,Ilyushin IL-62M,59,10,67
+1977,Brazilian Air Force,Natal,Embraer C-95 Bandeirante,16,2,18
+1977,Fuerza Aérea Uruguaya,Salto-Nueva Hesperides,Embraer 110C Bandeirante,13,2,12
+1977,U.S. Navy,Wake Island,Lockheed EC-130Q,0,16,16
+1977,Fleming International Airways,Saint Louis,Lockheed L-188AF Electra,0,3,3
+1977,Aeroflot,Kirovograd,Antonov AN-24,0,6,6
+1977,Angolan Air Force,Cuangar,Antonov AN-26,25,5,30
+1977,Aeroflot,Vitim,Ilyushin IL-14M,34,6,40
+1977,Ethiopian Airlines,Jima,Douglas DC-3,2,3,5
+1977,Chilean Air Force,Puerto Montt,Douglas DC-6B,75,7,38
+1977,Honduran Air Force,Yoro,Douglas C-47,36,4,25
+1977,Private KNBC Los Angeles,Encino,Bell 206B JetRanger,1,1,2
+1977,Monarch Aviation,San Jose,Convair CV-880,0,3,3
+1977,Island Airways,Kona,Shorts SC-7 Skyvan 3-200,0,2,2
+1977,Transmeridian Air Cargo,Hong Kong,Canadair CL-44D4-2,0,4,4
+1977,Servicios Aereos Nacionales Airways,Cuenca,Vickers Viscount 764D,29,4,33
+1977,Alaska Aeronautical Industries,Mt. Iliamna,de Havilland Canada DHC-6 Twin Otter 200,11,2,13
+1977,Burma Airways,Mt. Loi Hsam Hsao,de Havilland Canada DHC-6 Twin Otter 300,16,3,19
+1977,Safe Air Cargo,Yakutat,Douglas DC-7BF,0,4,4
+1977,U.S. Air Force,Albuquerque,Boeing - EC-135K,0,20,20
+1977,Malev Hungarian Airlines,Bucharest,Tupolev TU-134,45,8,29
+1977,Japan Air Lines,Kuala Lumpur,McDonnell Douglas DC-8-62H,69,10,34
+1977,L & J Company,Gillsburg,Convair CV-300,24,2,6
+1977,U.S. Marine Corps,Mindoro,Sikorksky CH-53,33,4,24
+1977,Servicios Aereos Martinez Leon,San Cristobal de las Casas,Britten-Norman BN-2A-8 Trislander,12,1,13
+1977,Ethiopian Airlines,Rome,Boeing 707-360C,2,3,5
+1977,TAP,Funchal,Boeing B-727-282,156,8,131
+1977,Austral Lineas Aeras,Bariloche,BAC One-Eleven 420EL,74,5,46
+1977,French Air Force,Beziers,Nord 2501 Noratlas,28,4,32
+1977,Balkan Bulgarian Airlines,Al Bayda,Tupolev TU-154B,159,6,59
+1977,Malaysia Airlines,Kampung Ladang,Boeing B-737-2H6,93,7,100
+1977,Petroleum,Intracostal City,SNIAS SA330J,18,1,17
+1977,Aeroflot,Tarko-Saley,Antonov AN-24,18,5,17
+1977,U.S. Navy,Hierro,Lockheed P-3B Orion,0,13,13
+1977,National Jet Services Inc.,Evansville,Douglas DC-3,26,3,29
+1977,United Air Lines,Salt Lake City,Douglas DC-8-54F,0,3,3
+1977,SATA,Madeira,Aerospatiale Caravelle 10R,52,5,36
+1977,Vieques Air Link,Vieques,Britten-Norman BN-2A Islander,9,1,5
+1977,Valley Air Service,Willemstad,Piper PA-31-350 Navajo,8,2,10
+1977,Servicios Aereos Nacionales,Cuenca,Vickers Viscount 764 D,20,4,24
+1978,Air India,Bandra,Boeing B-747-237B,190,23,213
+1978,SADELCA,San Vincente,Douglas DC-3,10,4,14
+1978,TABA,Eirunepe,Embraer 110P Bandeirante,12,2,2
+1978,Uruguayan Air Force,Artigas,Douglas C-47A-DL,40,4,44
+1978,Columbia Pacific Airlines,Richland,Beechcraft 99,15,2,17
+1978,Pacific Western Airlines,Cranbrook,Boeing B-737-275,44,5,42
+1978,Security Air,Solvang,Aero Commander 500A,4,3,7
+1978,Continental Airlines,LAX,McDonnell Douglas DC-10-10,186,14,2
+1978,Nigeria Airways,Kano,Fokker F-28 Fellowship 1000,11,7,18
+1978,LAV - Linea Aeropostal Venezolana,Caracas,British Aerospace 748 2A,43,4,47
+1978,Balkan Bulgarian Airlines,Vrastsa,Tupolev TU-134,66,7,73
+1978,Lake Havasu Air,Riverside,Cessna T207A,5,1,6
+1978,Burma Airways,Okaraba,Fokker F-27 Friendship 200,44,4,48
+1978,Air Logistics,Galveston,Bell 212,4,2,3
+1978,Antilles Air,St. Thomas,Grumman G-21,7,2,2
+1978,Korean Airlines,Murmansk,Boeing B-707-321B,97,12,2
+1978,LAC Colombia,Bogota,Douglas C-118A,9,3,8
+1978,National Airlines,Pensacola,Boeing B-727-235,52,6,3
+1978,Aeroflot,Pochinok,Tupolev TU-154B,126,8,4
+1978,Gander Aviation,Saint John's,Beech Queen Air A80,8,2,10
+1978,Helikopter Service,Bergen,Sikorsky S-61N,16,2,18
+1978,Air Canada,Toronto,McDonnell Douglas DC-9-32,102,5,2
+1978,Aeropeca,Sogamoso,Curtiss C-46,15,3,18
+1978,Burma Airways,Papun,de Havilland Canada DHC-6 Twin Otter 300,11,3,14
+1978,Las Vegas Airlines,Las Vegas,Piper PA-31-350 Chieftain,9,1,10
+1978,Air Guinee,Conakry,Ilyushin IL-18,9,8,15
+1978,Air Rhodesia,Kariba,Vickers Viscount 782D,52,4,38
+1978,AirWest Airlines,Coal Harbour,de havilland Canada Twin Otter 200,11,2,11
+1978,Lineas Areas del Centro,Mexico City,de Havilland Canada DHC-6 Twin Otter 100,19,2,18
+1978,Temesco - Air Taxi,Wrangell,Soloy 12EJ3,2,1,3
+1978,Alaska Travel,Whittier,de Havilland DHC-2,5,1,6
+1978,Philippine Air Force,Paranaque,Fokker F-27 Friendship 200,24,4,21
+1978,Pacific Southwest Airlines,San Diego,Boeing B-727-214,128,9,137
+1978,Finish Air Force,Kuopio,Douglas C-47A-1-DK,12,3,15
+1978,Burma Airways,Mandalay,Fokker F-27 Friendship 600,40,4,2
+1978,US Navy,Santiago de Chile,Douglas R6D-1,0,18,18
+1978,Aeroflot,Sverdlovsk,Yakovlev YAK-40,34,4,38
+1978,Era - Air Taxi,Kenai,Bell 205-1,6,1,2
+1978,Solomon Islands Airlines,Bellona,Britten Norman BN-2A Trislander,0,11,11
+1978,Aeroflot,Gulf of Sivash,Antonov AN-24B,21,5,26
+1978,Nile Delta Air Services,Alexandria,Douglas DC-3,0,18,18
+1978,Loftleidir Icelandic Airlines,Katunayake,McDonnell Douglas DC-8-Super 63CF,249,13,183
+1978,Air Guadeloupe,Marie Galante Island,de Havilland Canada DHC-6 Twin Otter 300,19,1,15
+1978,Indian Air Force,Leh,Antonov An-12,70,7,77
+1978,Aereo el Venado,Rubio,Douglas C-47A,24,3,27
+1978,Tyee Airlines,Hydaburg,de Havilland DHC-2,4,1,5
+1978,Rocky Mountain Airways,Steamboat Springs,de Havilland Canada DHC-6 Twin Otter 300,20,2,2
+1978,Air 70,Selvapiana,Cessna 421 Golden Eagle,9,1,10
+1978,Indian Airlines,Hyderabad,Boeing B-737-2A8,126,6,1
+1978,Alitalia,Cinisi,McDonnell Douglas DC-9-32,124,5,108
+1978,United Air Lines,Portland,McDonnell Douglas DC-8-61,181,8,10
+1979,Aeroflot,Minsk,Antonov AN-24N,9,5,13
+1979,Air Algerie,Bechar,Nord 262A-44,20,3,14
+1979,Air Rouergue,Rodez,Fokker F-27 Friendship 500,4,2,5
+1979,Varig,Tokyo,Boeing B-707-326C,0,6,6
+1979,TAM Lineas Aéreas Regional,Agudos,Embraer 110C Bandeirante,16,2,18
+1979,Air Rhodesia,Kariba,Vickers Viscount 748D,54,5,59
+1979,Allegheny Airlines,Clarksburg,Nord 262,22,3,2
+1979,Air New Zealand,Manakau Harbor,Fokker F-27 Friendship 500,2,2,2
+1979,Ethiopian Airlines,Barentu,Douglas DC-3,2,3,5
+1979,Universal Airways,Gulfport,Beech BE-70,7,1,8
+1979,Swift Aire Lines Inc.,Marina del Rey,Aerospatiale Nord 262A-33,4,3,3
+1979,CAAC,Bejing,Hawker Siddeley Trident 2E,0,12,12
+1979,Alia Royal Jordanian Airlines,Doha Airport,Boeing B-727-2D3,49,15,45
+1979,Aeroflot,Moscow,Tupolev TU-104B,113,6,58
+1979,Interflug,Luanda,Ilyushin IL-18D,6,4,10
+1979,Quebecair,Ste. Foy,Fairchild F-27,21,3,17
+1979,Catalina Airlines,Avalon,Grumman G-21 Goose,10,1,1
+1979,New York Airways,Newark,Sikorsky S61-L,15,3,3
+1979,SAETA,Cuenca,Vickers Viscount 785D,52,5,57
+1979,Sea Airmotive,Bullen Point,de Havilland Canada DHC-4A Caribou,0,3,3
+1979,American Airlines,Chicago O'Hare,McDonnell Douglas DC-10-10,258,13,271
+1979,Mauritanian Air Force,Dakar,de Havilland Canada DHC-5D Buffalo,7,5,12
+1979,Downeast Airlines,Rockland,de Havilland DHC-6-200,16,2,17
+1979,Indian Air Force,Leh,Hindustan Aeronautics 748-2M,0,27,27
+1979,Air New England,Hyannis,de Havilland Canada DHC-6 Twin Otter 300,8,2,1
+1979,Garuda Indonesia Airlines,Medan Airfield,Fokker F-28 Fellowship 1000,57,4,61
+1979,Fiji Air Services,Bua,Britten Norman BN-2A Trislander,8,1,9
+1979,Soldotna Air Services,Anchorage,Cessna 402B,6,1,7
+1979,Trans Mediterranean Airways,Beirut,Boeing 707-327C,0,6,6
+1979,Prinair,St. Croix,de Havilland DH-114 Heron,19,2,8
+1979,Dan Air Services,Sumburgh,Hawker Siddeley HS-748-1,44,3,17
+1979,Private,Canton,Cessna 501 Citation,2,1,1
+1979,Aeroflot,Leningrad,LET 410M turbojet,12,2,14
+1979,Indian Airlines,Panvel,Hindustan Aeronautics 748 2-224,40,5,45
+1979,Aeroflot,Volgograd,Tupolev TU-134A,155,23,178
+1979,Aeroflot,Enisseysk,Antonov AN-12,10,6,11
+1979,Aeroflot,Kirsanov,Tupolev TU-124,58,5,63
+1979,Aeroflot,Andema,Antonov AN-24,37,7,40
+1979,China Airlines,Taipei,Boeing 707-324C,0,6,6
+1979,Aero Transporti Italiani,Sarroch,McDonnell Douglas DC-9-32,27,4,31
+1979,Butler Aviation Inc.,Klamath Falls,Douglas DC-7,10,2,12
+1979,Pacific Coastal Airlines,Blink Horn Point,Britten Norman BN-7A lslander,8,1,4
+1979,U.S. Air Force,Merced,Boeing KC-135A,0,5,5
+1979,West Coast Air,Porpoise Bay,de Havilland Canada DHC-6 Twin Otter 200,14,2,2
+1979,Swissair,Athens,McDonnell Douglas DC-8-62,145,11,14
+1979,Comair,Covington,Piper PA-31,7,1,8
+1979,Aeroflot,Lensk,Antonov An-2TP,10,2,3
+1979,Western Airlines,Mexico City,McDonnell Douglas DC-10-10,77,11,72
+1979,American Airlines,Chicago,Boeing B-727,72,6,0
+1979,Aeroflot,Vologda,Yakovlev YAK-40,0,5,3
+1979,Transamerica Airlines,Granger,Lockheed L-188CF Electra,0,3,3
+1979,Pakistan International Airlines,At Ta'if,Boeing B-707-340C,145,11,156
+1979,Air New Zealand,Mt. Erebus,McDonnell Douglas DC-10-30,237,20,257
+1979,Aerolineas La Gaviola,San Andres Island,Grumman G-21 Goose,7,2,9
+1979,Aeroflot,Cherskiy,Antonov AN-26,2,5,7
+1979,CAMBA,Apolo,Martin 404,0,10,10
+1979,SATENA,Cerro Toledo Mountain,Douglas DC-4,16,5,21
+1979,Fuerza Aérea del Peru,Puerto Esperanza,de Havilland Canada DHC-5 Buffalo,24,5,29
+1979,Douglas Airways,Menari,GAF Nomad 22B,14,2,16
+1979,Turkish Airlines,Ankara,Fokker F-28 Fellowship 1000,41,4,41
+1980,Haïti Air Inter,Haiti,Britten Norman BN Islander,8,1,9
+1980,Private charter,Over the Atlantic Ocean,Cessna 441 Conquest,1,1,2
+1980,Ambler Air Service,Shungnak,Cessna 185A,8,1,7
+1980,Iran Air,Elburz Mtns.,Boeing B-727-86,120,8,128
+1980,Pelita Air Service,Mt. Cemonyet,CASA 212 Aviocar 100,10,3,13
+1980,Union of Burma Air Force,Mandalay,Fairchild FH-227H,0,43,43
+1980,Cubana de Aviacon,Baracoa,Yakovlev YAK-40,33,4,1
+1980,Rotor Airs Inc - Air Taxi,Leeville,Sikorsky S-62A,6,1,6
+1980,Advance Airlines,Sydney,Beechcraft Super King Air 200,12,1,13
+1980,Indian Air Force,Agra,Fairchild C-119G,0,46,46
+1980,China Airlines,Manila,Boeing B-707-309C,124,11,2
+1980,LOT Polish Airlines,Warsaw,Ilyushin IL-62,77,10,87
+1980,U.S. Air Force,Yenice,Lockheed C-130H,12,6,18
+1980,Eagle Commuter,Houston,Piper PA-28-180,8,2,7
+1980,VOTEC,Macae,Sikorsky S-76,0,14,14
+1980,Transbrasil,Florianopolis,Boeing B-727-27C,50,8,55
+1980,Aeroflot,Krasnoyarsk,Antonov An-24B,49,4,2
+1980,U.S. Air Force,Posht-i-Badam,Lockheed EC-130E Hercules,0,7,5
+1980,Dan Air Services,Tenerife,Boeing B-727-64,138,8,146
+1980,Thai Airways,Don Muang,Hawker Siddeley HS-748-2,49,4,44
+1980,Lloyd Aereo Boliviano,Yachiba,Fairchild F-27J,10,3,13
+1980,Lineas Aereas de Angola,Matala,Yakovlev YAK-40,25,4,29
+1980,Aeroflot,Dushanbe,Yakovlev YAK-40,25,4,29
+1980,Air Wisconsin,Valley,Swearingen 226TC Metro II,13,2,13
+1980,Itavia,Ustica,McDonnell Douglas DC-9-15,77,4,81
+1980,Aeroflot,Alma-Ata,Tupolev TU-154B,156,10,166
+1980,Aeronaves del Peru,Cerro Lilio,Douglas DC-8-43F,0,7,3
+1980,Air Logistics,Houma,Bell 205A-1,12,1,13
+1980,Tarom,Nouadhibou,Tupolev TU-154B-1,152,16,1
+1980,Saudi Arabian Airlines,Riyadh,Lockheed 1011-200 TriStar,287,14,301
+1980,Bouraq Indonesia Airlines,Jakarta,Vickers Viscount 812,31,6,37
+1980,Kuwait Air Force,Montelimar,Lockheed L-100-20 Hercules,0,8,8
+1980,Aeronorte Colombia,Puerto Olaya,Douglas C-47,0,3,3
+1980,Florida Commuter Airlines,Freeport,Douglas DC-3,30,4,34
+1980,Force Aérienne Zaïroise,Kindu,Lockheed Hercules C-130,31,5,36
+1980,Royal Saudi Air Force,Medina,Lockheed C-130E,81,8,89
+1980,Zairean Air Force,Kindu,de Havilland DHC-5 Buffalo,34,2,36
+1980,Soviet Air Force,Badakshan,Antonov AN-12V,0,45,45
+1980,U.S. Air Force,Cairo,Lockheed C-141A,7,6,13
+1980,Korean Airlines,Seoul,Boeing B-747-2B5B,212,14,15
+1980,F.R. de la Direccion General de Ados,Medellin,Douglas C-47A-35-DL,3,17,20
+1980,Central Air Services,Pecos City,Douglas DC-7B,0,2,2
+1980,Tanzania Aviation,Dar es Salaam,Piper PA-42 Cheyenne,9,1,10
+1980,Transportes Aereos del Caribe,Rio Hacha,Aerospatiale Caravelle 6R,63,7,70
+1980,Saudi Arabian Airlines,Qatar,Lockheed L-1011-200,271,20,2
+1981,U.S. Air Force,Ramstein AFB,Lockheed C-130E Hercules,2,7,9
+1981,Cascade Airways,Spokane,Beechcraft 99A,7,2,7
+1981,Soviet Navy,Leningrad,Tupolev TU-104A,46,6,52
+1981,Private - Corporate,White Plains,Lockheed 1339,6,2,8
+1981,Helicopter - Air Taxi,Avalon,Sikorsky S-62A,7,1,2
+1981,VOTEC,Belem,Embraer 110P Bandeirante,12,2,11
+1981,U.S. Air Force,Tabones Island Philippines,Lockheed MC-130E-Y,15,9,23
+1981,French Naval Aviation,Moroni,Dassault-Breguet Atlantique,14,4,18
+1981,U.S. Air Force,Shemya AFB,Boeing RC-135S,0,6,6
+1981,LOT Polish Airlines,Redzikowo,Antonov AN-24B,47,5,1
+1981,Urcupina,Laguna Soliz,Douglas C-47A,4,3,7
+1981,Freedom International,Cincinnati,Learjet 23,0,2,1
+1981,Air US,Loveland,Hadley Page 137Jetstream I,15,4,15
+1981,Aeroflot,Batagay,Antonov An-2TP,10,2,12
+1981,Private - Airfast Indonesia,Pekanbaru,Douglas C-47A-5-DK,13,4,15
+1981,U.S. Air Force,Fredrick,Boeing EC-135N,3,18,21
+1981,Austral Lineas Aeras,Rio de la Plata,BAC One-Eleven 529FR,26,5,31
+1981,TAAG Angola Airlines,Menongue,Lockheed L-100-20 Hercules,0,4,4
+1981,Lineas Aereas,Pinarete Mountain,Convair CV-440-11,21,3,24
+1981,TAME,Zumba,de Havilland Canada DHC-6 Twin Otter 300,15,3,18
+1981,Egyptian Air Force,Cairo,Lockheed C-130H Hercules,11,6,17
+1981,Aeroflot,Ust-Barguzin,Ilyushin Il-14,44,4,48
+1981,Dan Air Services,Nailstone,Hawker Siddeley HS-748,0,3,3
+1981,TAR,Yerevan,Canadair CL-44D4-6,1,3,4
+1981,Somali Airlines,Mogadishu,Fokker F-27 Friendship 600RF,44,6,50
+1981,Air Madagascar,Madagascar,de Havilland Canada DHC-6 Twin Otter 300,17,2,19
+1981,Transamazonica,Caruru,Douglas C-53D-DO,5,4,5
+1981,Aeromexico,Chihuahua,McDonnell Douglas DC-9-32,60,6,32
+1981,Far Eastern Air Transport,Sanyi,Boeing B-737-222,104,6,110
+1981,Aeroflot,Zavitinsk,Antonov AN-24RV,27,5,31
+1981,Aeropesca Colombia,Mt. Elena,Vickers Viscount 745D,44,6,50
+1981,Aeroflot,Zeya,Yakovlev YAK-40,29,5,3
+1981,Aereo el Venado,Paipa,Embraer 110P1 Bandeirante,19,3,21
+1981,Aeroflot,Zeleznogorsk,Yakovlev YAK-40,29,11,40
+1981,U.S. Air Force,Nellis AFB,Lockheed C-130H Hercules,61,9,7
+1981,Turkish Air Force,Babaeski,Northrop F-5A,0,2,0
+1981,Iranian Air Force,Tehran,Lockheed C-130H,75,5,60
+1981,Sky Train Air,Casper,Learjet 24,1,2,3
+1981,NLM,Moerdijk,Fokker F-28 Fellowship 4000,13,4,17
+1981,Oefag Flugdienst,Kufstein,Cessna 404 Titan,0,9,9
+1981,Aerolineas Argo,St. Thomas,Lockheed L-749A Constellation,2,3,5
+1981,Cameroon Airlines,Bafoussam,de Havilland Canada DHC-6 Twin Otter 300,22,2,1
+1981,Aeromexico,Sierra de Guerro,McDonnell Douglas DC-9-32,12,6,18
+1981,Aeroflot,Norilsk,Tupolev TU-154B-2,160,7,99
+1981,Royal Nepal Airlines,Biratnagar,Pilatus PC-6/B2-H2 Turbo-Porter,9,1,10
+1981,Guyana Airways,Castries,Douglas DC-6A,0,3,3
+1981,Inex Adria Aviopromet,Mt. San Pietro,McDonnell Douglas MD-81,173,7,180
+1981,Private - Parajump air show,Honolulu,Beech C-45H,11,1,11
+1981,Bristows,Kuala Belait,Aerospatiale Puma,0,12,12
+1981,ACES Colombia,Covenas,de Havilland Canada DHC-6 Twin Otter 300,11,2,13
+1982,Aeroflot,Gelendzhik,LET 410M Turbojet,16,2,18
+1982,Air Florida,Washington,Boeing B-737-222,74,5,74
+1982,Ethiopian Air Force,Addis Ababa,Antonov AN-26,67,6,73
+1982,World Airways,Logan Airport,McDonnell Douglas DC-10-30CF,200,12,2
+1982,Tarom,Constanta,Antonov An-24RV,0,7,7
+1982,French Air Force,Djibouti,Nord 2501 Noratlas,30,5,35
+1982,Republic of South Korea Air Force,Island of Cheju,Fairchild C-123,47,6,53
+1982,Indian Air Force,Srinagar,Fairchild C-119G,18,5,23
+1982,Trans Air Services,Mt. Ipao,Douglas DC-3,29,3,3
+1982,Japan Air Lines,Tokyo,McDonnell Douglas DC-8-61,166,8,24
+1982,LAC Columbia,Cerro el Tablazo,Douglas DC-6BF,0,4,4
+1982,Pilgrim Airlines,Providence,de Havilland DHC -6-100,10,2,1
+1982,Wideroe's Flyveselksap,Mehamn,de Havilland Canada DHC-6 Twin Otter 300,13,2,15
+1982,U.S. Air Force,Woodstock,Boeing KC-135C,23,4,27
+1982,Private,Leesburg,Beechcraft Bonanza F35,2,1,3
+1982,Garuda Indonesia Airlines,Branti Airport,Fokker F-28 Fellowship 1000,23,4,27
+1982,Aeropesca Colombia,Queate,Vickers Viscount 745D,15,6,21
+1982,Air Taxi - Tundra Copters,Tanana,Hughes 369D,2,1,3
+1982,U.S. Air Force,Erzurum,Lockheed C-130H,19,8,27
+1982,CAAC,Yangshuo,Hawker Siddeley Trident 2E,104,8,112
+1982,Okanagans,Gulf of Thailand,Sikorsky S-76,0,13,13
+1982,Alyemda,Aden,de Havilland Canada DHC-7-103,45,4,47
+1982,U.S. Air Force,Judsonia,Lockheed C-130E Hercules,0,7,7
+1982,Royal British Navy,South Atlantic Ocean,Westland Sea King HC-4,0,21,21
+1982,VASP,Brazilia,Boeing B-737-200,112,6,2
+1982,Pelita Air Service,Natuma Island,Aerospatiale 330G Puma,0,10,10
+1982,Republic of South Korea Air Force,Songnam-si,Fairchild C-123,49,4,53
+1982,VASP,Pacatuba,Boeing B-727-212A,128,9,137
+1982,TABA,Tabatinga,Fairchild-Hiller FH-227B-LCD,40,4,44
+1982,Air India,Bombay,Boeing B-707-437,99,12,17
+1982,British Airways,Mount Galunggung,Boeing B-747,247,10,0
+1982,Aeroflot,Southern Belarus,Yakovlev YAK-42,124,8,132
+1982,Air Affaires Gabon,Oganda,Cessna 404 Titan,0,12,12
+1982,Aeroflot,Moscow,Ilyushin IL-62M,80,10,90
+1982,Pan American World Airways,Kenner,Boeing B-727-235,138,7,145
+1982,Philippine Air Lines,Jolo,Hawker Siddeley HS-748-209 Srs. 2,25,5,4
+1982,Western,Castaic,Bell UH-1B Huey,0,1,0
+1982,Pan American World Airways,Pacific Ocean,Boeing B-747-121,270,25,1
+1982,Burma Airways,Mindat,de Havilland Canada DHC-6 Twin Otter 300,5,3,8
+1982,Nicaraguan Air Force,Managua,Arava 201,18,2,20
+1982,Aeroflot,Sukhumi,Let 410UVP Turbojet,9,2,11
+1982,Aerolineas Condor,Valladolid,de Havilland Canada DHC-4A Caribou,41,3,44
+1982,Cia Brasiliera de Tratores,Rio Branco,Gates Learjet 25B,8,2,10
+1982,U.S. Army,Mannheim,Boeing Vertol CH-47C,42,4,46
+1982,Spantax,Malaga,McDonnell Douglas DC-10-30CF,381,13,50
+1982,Aeroflot,Luxembourg,Ilyushin IL-62M,66,11,7
+1982,Far Eastern Air Transport,Taiwan,Bell 212,0,15,15
+1982,Aerolineas Centrales de Colombia,Quetame,de Havilland Canada DHC-6 Twin Otter 310,20,2,22
+1982,TAAG Angola Airlines,Lubango,Antonov AN-26,9,6,15
+1982,Pioneer Airlines,Pueblo,Swearingen SA.227AC Metro III,0,2,2
+1982,Aeronor Chile,La Serena,Fairchild F-27J,42,4,46
+1982,Nicaraguan Air Force,San Andres de Bocay,Mil Mi-8,84,4,84
+1982,Aeroflot,Rostov-on-Don,Antonov AN-26,0,16,16
+1982,CAAC,Guangzhou,Ilyushin IL-18B,58,11,25
+1983,46826/109,Brainerd,Convair 580-11A,30,3,1
+1983,United Air Lines,Detroit,McDonnell Douglas DC-8-54F37,0,3,3
+1983,Turkish Airlines,Ankara,Boeing B-727-2F2,60,7,47
+1983,U.S. Air Force,Fayetteville,Lockheed C-130H Hercules,0,6,6
+1983,Aeroleo Taxi Aereo,Macae,Bell 212,0,11,11
+1983,Bakhtar Afghan Airlines,Shach Goan,de Havilland Canada DHC-6 Twin Otter 300,17,2,19
+1983,Avensa,Barquisimeto Venezuela,McDonnell Douglas DC-9-32,45,5,23
+1983,Central Airlines,Newark,Learjet 25,0,2,2
+1983,Munz Northern Airlines,Selawik,Britten-Norman BN-2A-8 Islander,2,1,2
+1983,Air Liberia,Khartoum,Hawker Siddeley HS-748-329 Srs. 2A,6,3,8
+1983,Aeroflot,Leninakan,Yakovlev YAK-40,17,4,21
+1983,Japan Air Self-Defence Force,Toba,Kawasaki C-1,0,14,14
+1983,Japan Maritime Self Defense Force,Iwakuni AB,Shin Meiwa PS-1,0,14,11
+1983,SAN Ecuador,Guayaquil,Sud Aviation SE-210 Caravelle VIR,94,6,8
+1983,United States Navy,Jacksonville,Convair CV-340,9,6,15
+1983,Eastern Air Lines,En route Miami,Lockheed L-1011,162,10,0
+1983,Royal Thai Air Force,Ban Ta Khli,Fairchild C-123K,24,6,30
+1983,Soviet Air Force,Klyuchi,Antonov An-26,31,6,33
+1983,Air Canada,Cincinnati International Airport,McDonnell Douglas DC-9-32,41,5,3
+1983,Garuda Indonesia Airlines,Tanjung Karang,Fokker F-28 Fellowship 3000RC,57,4,23
+1983,Republic of China Air Force,Quemoy,Fairchild C-199G,39,8,47
+1983,Reeve Aleutian Airways,Cold Bay,Lockheed L-188C Electra,10,5,0
+1983,U.S. Navy,Kauai,Lockheed P-3B Orion,0,14,14
+1983,Air Mali,Niela,de Havilland Canada DHC-6 Twin Otter 300,5,2,7
+1983,U.S. Air Force,Las Vegas,Lockheed C-130H Hercules,1,5,6
+1983,CAAK,Labe,Ilyushin IL-62M,0,23,23
+1983,TAME,Cuenca,Boeing B-737-2V2,111,8,119
+1983,British Airwayss,Scilly Islands,Sikorsky S-61N-II,23,3,20
+1983,Air Canada,Gimli,Boeing B-767-233ER,61,8,0
+1983,Las Vegas Airlines,Grand Canyon,Piper PA-31-350 Chieftain,9,1,10
+1983,Aeroflot,Alma-Ata,Tupolev TU-134A,84,6,90
+1983,Korean Airlines,Sakhalin Island,Boeing B-747-230B,246,23,269
+1983,Central Mountain Air Services,Cuenca,Britten-Norman BN-2A-21 Islander,0,9,9
+1983,CAAC,Guilin,Hawker Siddeley Trident 2E,100,6,11
+1983,Gulf Air,Mina Jebel Ali,Boeing B-737-2P6,107,5,112
+1983,Taiwan Airlines,Lanyu Island,Britten-Norman BN-2A-26 Trislander,9,1,10
+1983,TAM Lineas Aéreas Regional,Aracatuba,Embraer 110C Bandeirante,13,2,7
+1983,Burma Airways,Lonkin,de Havilland Canada DHC-6 Twin Otter 300,11,3,9
+1983,Air Illinois,Pinckneyville,Hawker Siddeley HS-748-FAA,7,3,10
+1983,Pennsylvania Airlines,Middletown,Shorts 330-200,27,3,1
+1983,TAAG Angola Airlines,Lubango,Boeing B-737-200,126,4,130
+1983,Austin Airways,Landsdowne House,de Havilland Canada DHC-6 Twin Otter 300,5,2,4
+1983,AVIANCA,Madrid-Barajas,Boeing B-747-283B,169,23,181
+1983,Nigeria Airways,Enugu,Fokker F-28 Fellowship 2000,66,6,53
+1983,Iberia Airlines,Madrid,Boeing B-727-200,120,15,93
+1983,TAMPA Colombia,Medellin,Boeing 707-373C,0,3,3
+1983,Inuvik Coastal Airways,Lubango,de Havilland Canada DHC-6 Twin Otter 200,10,2,2
+1983,Aeroflot,Leshukonskoye,Antonov AN-24,44,5,44
+1984,Royal Jordanian Air Force,Amman,CASA 212-A3 Aviocar 100,0,13,13
+1984,Aeroflot,Novoagansk,Mi-6,71,5,38
+1984,Skycraft Air Transport,Saint Louis,Douglas DC-3,0,2,1
+1984,Balkan Bulgarian Airlines,Sofia,Tupolev TU-134A,45,5,50
+1984,North East Bolivian Airways,Cochabamba,Douglas EC-54U,0,3,1
+1984,Aeroflot,Izhevsk,Antonov An-24RV,47,4,4
+1984,Britt Airways,Terre Haute,Swearingen SA.226TC Metro II,1,2,3
+1984,Ethiopian Air Force,Debre Zelt,Antonov AN-12,33,5,26
+1984,Salvadoran Air Force,San Gerardo,Bell UH-1H,0,28,28
+1984,Scandinavian Airlines,JFK Airport,McDonnell Douglas DC-10-30,163,14,0
+1984,Aerosucre Colombia,Barranquilla,Curtiss C-46A,2,4,4
+1984,Lloyd Aereo Boliviano,San Borja,Fairchild F-27M,20,3,23
+1984,U.S. Marine Corps,Hunghae,Sikorsky CH-53D,0,29,29
+1984,Frigorifico Reyes,Rurrenabaque,Douglas C-54,2,3,5
+1984,State Airlines,Bimini,Cessna 402B,5,1,6
+1984,VOTEC,Imperatriz,Embraer 110EJ Band,31,4,19
+1984,Egyptian Air Force,Elbet Beni Salama,McDonnel F-4E Phantom II,0,2,2
+1984,Zantop International Airlines,Chalkhill,Lockheed L-188AF Electra,1,3,4
+1984,Air Continental,Windsor Locks,Learjet 23A,1,2,3
+1984,Air Taxi - Racos Corp.,Island Beach,Aerospeciale AS-350D,1,2,3
+1984,TAM Lineas Aéreas Regional,Sao Pedro d' Aldeia,Embraer 110C Bandeirante,16,2,18
+1984,Philippine Air Force,Buenavista,Bell UH-1H,0,30,30
+1984,U.S. Air Force,Sigonella AFB,Lockheed C-141B,1,8,9
+1984,South Pacific Island Airways,Tau Island,de Havilland Canada DHC-6 Twin Otter 300,11,3,1
+1984,Vieques Air Link,Vieques,Britten-Norman BN-2A Islander,8,1,9
+1984,Aeroflot,Nawabshah,Antonov AN-12BP,15,9,24
+1984,Bangladesh Biman,Dacca,Fokker F-27 Friendship 600,45,4,49
+1984,Aviation Enterprises,Memphis,Douglas DC-3,1,2,3
+1984,Airfast Indonesia,Wamena,Douglas C-47A,1,2,2
+1984,Wings West Airlines,San Luis Obispo,Beechcraft C99,13,4,17
+1984,Cameroon Airlines,Douala,Boeing B-737-2H7C,109,7,2
+1984,Talair,New York,Britten-Norman BN-2A-20 Islander,9,2,9
+1984,Provincetown - Boston Airlines,Naples,Cessna 402C,5,1,1
+1984,MMM Aero Services,the Kwango River,Handley Page Dart Herald 202,25,5,30
+1984,APRL,Opole,Antonov An-2T,22,3,11
+1984,AECA Cargo,Quito,McDonnell Douglas DC-8F-55,0,4,4
+1984,Russian Air Force,Sarakchar,Antonov AN-12,45,5,50
+1984,Nahanni Air Services,Fort Franklin,de Havilland Canada DHC-6 Twin Otter 100,6,1,7
+1984,Labradore Airways,Goose Bay,de Havilland Canada DHC-6 Twin Otter 100,2,2,4
+1984,Aeroflot,Omsk,Tupolev TU-154B,170,9,174
+1984,Soviet Air Force,Kabul,Ilyushin IL-76M,7,4,11
+1984,Village Airways,Davao,Douglas C-47B,0,4,4
+1984,TAME,Loja,de Havilland Canada DHC-6 Twin Otter 300,12,2,14
+1984,Aeroflot,Kostroma,LET 410 M,15,2,17
+1984,Provincetown - Boston Airlines,Jacksonville,Embraer 110P1 Bandeirante,11,2,13
+1984,Fuerza Aérea del Peru,Jaen,de Havilland Canada DHC-6 Twin Otter 300,18,3,21
+1984,Royal Nepal Airlines,Bhojpur,de Havilland Canada DHC-6 Twin Otter 300,20,3,15
+1984,Aeroflot,Kranoyarsk,Tupolev TU-154B-2,104,7,110
+1985,Eastern Air Lines,La Paz,Boeing B-727-225 Adv,19,10,29
+1985,TPI International Airways,Kansas City,Lockheed L-188AF Electra,0,3,3
+1985,CAAC,Jinan,Antonov AN-24B,34,7,38
+1985,Cubana de Aviacion,Havana,Ilyushin IL-18D,33,5,38
+1985,Air Taxi - EMS,Carson,Bell 206 L-1,2,1,3
+1985,Galaxy Airlines,Reno,Lockheed L-188A Electra,65,6,70
+1985,U.S. Air Force,Puerto Castilla,Lockheed C-130A,16,5,21
+1985,AIRES Colombia,Buga,Embraer 110P1 Bandeirante,15,2,17
+1985,Aerolineas Centrales de Colombia,Cerro el Plateado,de Havilland Canada DHC-6 Twin Otter 300,21,2,23
+1985,Aeroflot,Minsk,Tupolev TU-134A,74,6,58
+1985,North Pacific Airlines,Soldotna,Beech Queen Air 65-A80,8,1,9
+1985,Iberia Airlines,Minsk,Boeing B-727-256,141,7,0
+1985,China Airlines,San Francisco,Boeing B-747-SP-09,251,23,148
+1985,Air Mali,Timbuktu,Antonov AN-24V,49,2,50
+1985,U.S. Air Force,Valdez,Boeing RC-135T,0,3,3
+1985,U.S. Air Force,Fort Hood,Lockheed C-130E Hercules,0,6,6
+1985,SATENA,Florencia,Fokker F-28 Fellowship 3000,40,6,46
+1985,YPF,Salta,HS-125-700B,5,2,7
+1985,Thai Airways,Phuket,Boeing B-737-200,4,7,11
+1985,American Airlines,Las Cruces,Boeing B-727-227,81,8,0
+1985,Carga Aereo Transportada,Santa Rosa,Convair CV-440,1,3,4
+1985,Aeronica,Kulusuk,Fokker F-27 Friendship 100,0,5,2
+1985,Aeroflot,L'vov,Tupolev TU-134A,73,3,76
+1985,U.S. Marine Corps,Tanegashima,CH-53D,15,2,17
+1985,Avensa,Cabimas,Convair CV-580,8,5,2
+1985,General Aviation Inc.,Nashville,Grumman G-159 Gulfstream I,0,2,2
+1985,Trans World Airlines,Athens,Boeing B-727-231,145,8,1
+1985,TABA,Juara,Embraer 110P Bandeirante,15,2,17
+1985,Air India,Ireland,Boeing B-747-237B,307,22,329
+1985,Aeroflot,Uchuduk,Tupolev TU-154B-2,191,9,200
+1985,Fuerza Aérea Colombiana,Leticia,Douglas DC-6B,76,4,80
+1985,Delta Air Lines,Ft. Worth-Dallas,Lockheed L-1011-1 TriStar,152,11,134
+1985,Merpati Nusantara Airlines,Mulia,de Havilland Canada DHC-6 Twin Otter 300,16,3,8
+1985,Japan Air Lines,Mt. Osutaka,Boeing B-747-SR46,509,15,520
+1985,Alyemda Airlines,Aden,Boeing 707-336C,65,8,3
+1985,British Airtours,Manchester,Boeing B-737-236,131,6,55
+1985,Bar Harbor Airlines,Auburn,Beechcraft 99,6,2,8
+1985,U.S. Air Force,Beale AFB,Boeing KC-135A,0,7,7
+1985,Ariana Afghan Airlines,Kandahar,Antonov AN-26,47,5,52
+1985,Midwest Express,Milwaukee,McDonnell Douglas DC-9-14,27,4,31
+1985,Soviet Air Force,Afghanistan,Antonov AN-12,22,4,26
+1985,MAP,Kharkov,Antonov An-12,4,5,9
+1985,Air Carriers Express Services Inc,Jenkinsburg,Cessna 208 Caravan I,16,1,17
+1985,Nordeste Linhas Aéreas,Vitória da Conquista,Embraer 110C Bandeirante,0,2,2
+1985,Pel Air,South Head,IAI 1124 Westwind,0,2,2
+1985,Sabeni,Beni,Curtiss C-46D,0,2,2
+1985,Mountain Air Cargo,Homer City,de Havilland Canada DHC-6 Twin Otter 200,0,1,1
+1985,Aeroflot,Kutayissi,Yakovlev YAK-40,10,4,14
+1985,Burma Airways,Putao,Fokker F-27 Friendship 600,2,2,4
+1985,U.S. Air Force,Dothan,Convair CV-340,0,4,4
+1985,Indonesian Air Force,Sibyak,Lockheed C-130H Hercules,0,11,11
+1985,EgyptAir,Luqa,Boeing B-737-266,97,6,60
+1985,Angolan Air Force,Luassingua,Antonov AN-26,0,22,22
+1985,Arrow Airways,Gander,McDonnell Douglas DC-8 Super 63PF,248,8,256
+1985,Royal Nepalese Air Force,Dhangadhi,Short SC7- Skyvan,22,3,25
+1985,Private,De Kalb,Douglas DC-3,7,2,7
+1986,Aerovias de Guatemala SA,Peten,Sud-Aviation Caravelle VI-N,88,6,94
+1986,Air Taxi,Ellendale,Bell 296B,2,1,3
+1986,VASP,Sao Paulo,Boeing B-737-2A1,67,5,1
+1986,Aerocalifornia,Las Lomitas,Douglas DC-3A-178,18,3,21
+1986,GLM Aviation,Kasongo,Lockheed L-188AF Electra,10,4,2
+1986,China Airlines,Makung,Boeing B-737-281,6,7,13
+1986,Aeroflot,Bugulma,Antonov AN-24B,34,4,38
+1986,Simmons Airlines,Alpena,Embraer 110P1 Bandeirante,7,2,3
+1986,Merpati Nusantara Airlines,Naha,CASA 212 Aviocar 100,14,2,2
+1986,Goose Bay Air Services,Goose Bay,de Havilland Canada DHC-3 Otter,4,1,4
+1986,Ministerstvo Obshchestvo Mashinostroyeniya,Omsk,Antonov An-12AP,3,6,9
+1986,French Air Force,Bangui,Sepecat Jaguar A,0,2,0
+1986,Mozambique Air Force,Pemba,Antonov AN-26,51,3,49
+1986,Mexicana,Maravatio,Boeing B-727-264,159,8,167
+1986,Trans World Airlines,Athens,Boeing B-727,114,7,4
+1986,U.S. Air Force,Magdalena,Lockheed HC-130P Hercules,0,11,11
+1986,ACES Colombia,Saravena,de Havilland Canada DHC-6 Twin Otter 300,11,2,13
+1986,El Salvador Air Force,San Salvador,Douglas DC-6,33,4,37
+1986,Republic of China Air Force,Taipei,Bell UH-1H,0,22,22
+1986,Air Lanka,Colombo,Lockheed L-1011-100,128,22,22
+1986,French Naval Aviation,Djibouti,Dassault Breguet Atlantique,14,5,19
+1986,Armée de l'Air Malgache,Antananarivo,Douglas C-47,0,13,13
+1986,EgyptAir,Cairo,Fokker F-27 Friendship 500,21,5,23
+1986,Loganair,Port Ellen,de Havilland Canada DHC-6 Twin Otter 300,14,2,1
+1986,Grand Canyon Airlines,Grand Canyon,de Havilland Can. DHC-6 -300/ Bell 206B,22,3,25
+1986,Aeroflot,Syktyvar,Tupolev TU-134A,86,6,54
+1986,Zimbabwe Air Force,Maputo,Douglas C-47A,13,4,17
+1986,Leeward Islands Air Transport,St. Vincent,de Havilland Canada DHC-6 Twin Otter 300,11,2,13
+1986,Honduran Air Force,Wampusirpi,Lockheed C130D,53,6,59
+1986,Sudan Airways,Malakal,Fokker F-27 Friendship 400M,57,3,60
+1986,Southwest Airlift,Texarkana,Howard 250,0,2,2
+1986,Aeromexico,Cerritos,MD Douglas DC-9-32,58,9,67
+1986,Pan American World Airways,Karachi,Boeing B-747-121,364,20,16
+1986,U.S. Air Force,Hopkinsville,Lockheed C-130A Hercules,0,4,3
+1986,Atlantic Southeast Airlines,Mantiqueira,Embraer 120RT Brasilia,3,2,5
+1986,Eastindo,Manado,Short SC-7 Skyvan Variant,10,3,13
+1986,Southern Air Transport,San Antonio,Lockheed L-100-30 Hercules,0,3,3
+1986,Aeroflot,Ust-Maya,LET 410MT Turbojet,12,2,14
+1986,Iran Air,Chiraz,Boeing 737-286,75,5,3
+1986,Government of Mozambique,Komatipoot,Tupolev TU-134A,35,9,34
+1986,Aeroflot,Kuybyshev,Tupolev TU-134A,85,8,70
+1986,Private - WNBC,Manhattan,Enstrom F-28F,1,1,2
+1986,Pakistan International Airlines,Peshawar,Fokker F-27 Friendship 600,49,5,13
+1986,Nicaraguan Air Force,Managua,Mil Mi-17,20,3,21
+1986,Iranian Air Force,Zahedan,Lockheed C-130,96,7,103
+1986,British Internationals,Sumburgh Head,Boeing-Vertol Chinook,45,2,45
+1986,Afghan Republican Air Force,Sarowbi,Ilyushin IL-18,35,5,40
+1986,Aeroflot,Berlin,Tupolev TU-134A,73,9,72
+1986,CAAC,Lanzhou,Antonov AN-24RV,37,7,6
+1986,Iraqi Airways,Arar,Boeing B-737-270C,91,15,63
+1986,Sunflower Airlines,Nasaso,de Havilland DH-114 Heron 2B,12,2,11
+1987,Spanish Air Force.,Bata,CASA 212-100,19,3,22
+1987,Varig,Abidjan,Boeing B-707-379C,39,12,50
+1987,Ethiopian Air Force,Asmara,Antonov AN-12,49,5,54
+1987,Skywest Airlines,Salt Lake City,Swearingen SA-226TC,8,2,10
+1987,Aeroflot,Tashkent,Yakovlev YAK-40,5,4,9
+1987,Talair,Papua,Embraer 110P2 Bandeirante,15,2,14
+1987,Afghan Republican Air Force,Khost,Antonov AN-26,30,6,36
+1987,Northwest Airlink,Detroit,CASA 212 Aviocar 200,20,2,9
+1987,Aeroflot,Almaty,Antonov An-26,4,5,9
+1987,U.S. Air Force,Spokane,Boeing KC-135,0,6,6
+1987,California Air National Guard,Mount San Gorgonio,F-4C Phantom jet fighter,0,2,2
+1987,Afghan Republican Air Force,Parachinar,Antonov AN-26,36,4,40
+1987,Garuda Indonesia Airlines,Medan-Polonia,McDonnell Douglas DC-9-32,37,8,27
+1987,Burlington Air Express,Kansas City,Boeing 707-351C,1,3,4
+1987,Air-Lift Commuter,Wilmington,Swearingen SA-26TC Metro II,0,2,2
+1987,Sasco Air Lines,Malakal,Cessna 404 Titan II,12,2,14
+1987,American Eagle,Mayaguez,CASA 212 Aviocar 200,4,2,2
+1987,LOT Polish Airlines,Warsaw,Ilyushin IL-62M,172,11,183
+1987,Air Manitoba,Pickle Lake,Douglas C-47B,0,2,2
+1987,YPFB Transportes Aereos,Santa Cruz,de Havilland Canada DHC-6 Twin Otter 300,13,3,14
+1987,Merpati Nusantara Airlines,Ruteng,de Havilland Canada DHC-6 Twin Otter 300,6,2,8
+1987,Missionary Aviation Fellowship,Ilaga,de Havilland Canada DHC-6 Twin Otter 100,29,1,7
+1987,Bakhtar Afghan Airlines,Khost,Antonov AN-26,48,5,53
+1987,Peruvian Air Force,Montelillo,Antonov AN-26,40,6,46
+1987,Aeroflot,Berdiansk,Yakovlev YAK-40,24,5,8
+1987,Burma Airways,Heho,Fokker F-27 Friendship 200,41,4,45
+1987,Philippine Air Lines,Baguio,Hawker Siddeley HS-748-209 Srs. 2,46,4,50
+1987,U.S. Air Force,Fort Bragg AFB,Lockheed C-130E Hercules,0,6,4
+1987,Air Afrique,Geneva,McDonnell Douglas DC-10-30,0,1,1
+1987,Belize Air International Ltd.,Mexico City,Boeing B-377 Stratofreighter,10,2,5
+1987,LAN,Calama,Boeing B-737-2A1,30,3,2
+1987,Northwest Airlines,Romulus,McDonnell Douglas MD-82,149,6,154
+1987,Thai Airways,Ko Phuket,Boeing B-737-2P5,74,9,83
+1987,Brazilian Air Force,Carajas,Hawker Siddeley HS-125-403B,7,2,9
+1987,Aeroflot,Kunduz,Antonov AN-26,13,2,15
+1987,EgyptAir,Luxor,Airbus A.300B4-203,0,5,5
+1987,Aeroejecutivos Colombia,El Poleo,de Havilland Canada DHC-6 Twin Otter 310,7,2,2
+1987,Burma Airways,Pagan,Fokker F-27 Friendship 500,45,4,49
+1987,Aero Transporti Italiani,Mt. Crezzo,Aerospatiale Alenia ATR-42-312,34,3,37
+1987,MAP,Komsomolsk-on-Amur,Antonov An-12B,2,7,9
+1987,U.S. Air Force,Indianapolis,A-7D Corsair,0,11,10
+1987,Air Malawi,Ulongue,Shorts SC-7 Skyvan 3-100,8,2,10
+1987,Continental Airlines,Denver,McDonnell Douglas DC-9-14,77,5,28
+1987,Ryan Air Services,Homer,Beechcraft 1900C,19,2,18
+1987,South African Airways,Mauritius,Boeing B-747-244B Combi,140,19,159
+1987,Korean Airlines,Over the Andaman Sea,Boeing B-707-3B5C,104,11,115
+1987,Cooper Skybird Air Charters,Kishwati,Cessna 404 Titan,13,1,14
+1987,Pacific Southwest Airlines,San Luis Obispo,British Aerospace BAe-146-200A,38,5,43
+1987,Peruvian Naval Aviation,Lima,Fokker F-27 Friendship 400M,37,6,42
+1987,Philippine Air Lines,Iligan,Shorts 360-300,11,4,15
+1987,Philippine Air Lines,Iligan,Shorts 360-300,11,4,15
+1987,Air Littoral,Bordeaux,Embraer 120 Brasilia,13,3,16
+1987,Air Taxi - Petroleums Inc.,Eugene Island,Aerospatiale SA-330J,13,2,15
+1987,Merpati Nasantara Airlines,Pacific Ocean,de Havilland Canada DHC-6 Twin Otter 300,14,3,17
+1988,Condor Flugdienst,Izmir,Boeing B-737-230A,11,5,16
+1988,China Southwest Airlines,Chungking,Ilyushin IL-18D,98,10,9
+1988,Aeroflot,Krosnovodsk,Tupolev TU 154B-2,137,6,108
+1988,ETA - Empresa Transportes Aéreos,Mt. Colorado,Curtiss C-46A-55,6,3,9
+1988,Trans Colorado AL,Bayfield,Swearingen SA.227AC Metro,15,2,11
+1988,Taiwan Airlines,Green Island,Britten-Norman BN-2A-26 Trislander,10,1,10
+1988,Aeroflot,Nizhnevartovsk,Yakovlev YAK-40,27,4,27
+1988,Fuerza Aérea Panamena,Panama,CASA 212 Aviocar 200,14,2,16
+1988,NFD - Nurnberger Flugdienst,Mulheim,Swearingen SA.227AC Metro III,19,2,21
+1988,AV Air,Cary,Swearingen SA227-AC,10,2,12
+1988,Talia Airways,Ercan,Boeing B-727-2H9A,9,6,15
+1988,Aeroflot,Surgut,Tupolev TU-134A,45,6,20
+1988,Commercial Airways,Johannesburg,Embraer 110P1 Bandeirante,15,2,17
+1988,Transport Arien Transregional,Fontainebleau,Fairchild FH-227B,20,3,23
+1988,U.S. Army,Clarksville,Sikorsky UH-60A,0,17,17
+1988,AVIANCA,Santander,Boeing B-727-21,136,7,143
+1988,Arax Airlines,Cairo,Douglas DC-8-55F,0,4,4
+1988,Kuwait Airways,Combi,Boeing B-747-200,0,2,2
+1988,Afghan Republican Air Force,Mazâr-e Charif,Antonov AN-26,26,3,29
+1988,United Airways,Hennenman,Douglas DC-3C,21,3,24
+1988,Aeroflot,Bagdarin,Let 410UVP Turolet,15,2,17
+1988,Cuban Air Force,Tchamulate,Antonov AN-26,26,3,29
+1988,Aloha Airlines,Maui,Boeing B-737-297,90,5,1
+1988,Wideroe's Flyveselksap,Broennoysund,de Havilland Canada DHC-7-102,33,3,36
+1988,TACA,New Orleans,Boeing B-737-3T0,38,7,0
+1988,Starair,Hannover,Fokker F-27 Friendship 600,0,2,2
+1988,Aeronica,Puerto Limon,Douglas DC-6,0,6,6
+1988,Austral Lineas Aeras,Posadas,McDonnell Douglas MD-81,16,6,22
+1988,Mozambique Air Force,Central Mozambique,Mil Mi-8,0,21,21
+1988,Air France,Habsheim,Airbus A320-111,130,6,3
+1988,Iran Air,Bandar Abbas,Airbus A300B2-203,278,12,290
+1988,Lineas Aéreas Suramericanas,Barranquilla,Canadair CL-44J,0,8,8
+1988,TACA,Golden Meadow,Douglas C-118A,0,3,3
+1988,Angola Air Charter,Lagos,Boeing 707-328C,0,6,6
+1988,Balkan Bulgarian Airlines,Sofia,Yakovlev YAK-40,33,4,29
+1988,Afghan Republican Air Force,Northern Afghanistan,Antonov AN-22,35,4,39
+1988,Pakistan Air Force,Bahawalpur,Lockheed C-130B Hercules,0,30,30
+1988,Aeroflot,Irkutsk,Let 410MU,2,2,4
+1988,CAAC,Kowloon Bay,Hawker Siddeley HS-121 Trident 2E,78,11,1
+1988,Transporte Aereo Federal,Cerro de la Calera,Embraer 110P1 Bandeirante,18,2,7
+1988,Aerocaribe,Merida,Convair CV-240,0,14,14
+1988,Delta Air Lines,Dallas,Boeing B-727-232 Adv,101,7,20
+1988,Hang Khong,Bangkok,Tupolev TU-134A,84,6,76
+1988,TAME Ecuador,Lago Agrio,Lockheed L-188A Electra,1,6,7
+1988,Ethiopian Airlines,Bahar Dar,Boeing B-737-230,98,6,35
+1988,Afghan Republican Air Force,Miram,Antonov AN-26,0,34,34
+1988,Aramar,Sao Pedro da Aldeia,Beech King Air F90,7,1,8
+1988,Aeroflot,Batagay,Antonov 12BP,0,6,6
+1988,Shanxi Airlines,Linfen,Ilyushin IL-14P,44,4,44
+1988,U.S. Air Force,Wurtsmith AFB,Boeing KC-135A,0,17,6
+1988,Uganda Airlines,Rome,Boeing B-707-338C,45,7,33
+1988,Indian Airlines,Ahmedabad,Boeing B-737-2A8,124,5,124
+1988,Vayudoot,Gauhati,Fokker F-27 Friendship 100,31,3,34
+1988,Aero Peru,Juliaca,Fokker F-28 Fellowship 1000,65,4,12
+1988,LOT Polish Airlines,Rzeszow,Antonov AN-24B,25,4,1
+1988,Wasa Wings,Ilmajoki,Embraer 110P1 Bandeirante,10,2,6
+1988,Air Littoral,Montluçon,Swearingen SA-226TC Metro II,2,2,4
+1988,Aero Club Libya,Hamada al Hambra,de Havilland Canada DHC-6 Twin Otter 300,12,2,14
+1988,Aeroflot,Kodinsk,Let 410UVP,12,2,6
+1988,T & G Aviation,Bîr Mogreïn,Douglas DC-7CF,0,5,5
+1988,Afghan Republican Air Force,Afghanistan,Antonov AN-32,0,25,25
+1988,Russian Air Force,Leninakan,Ilyushin IL-76,74,9,77
+1988,GAS Air,Luxor,Boeing B-707-321C,5,3,8
+1988,Pan American World Airways,Lockerbie,Boeing B-747-121A,243,16,259
+1989,British Midland Airways,Leicestershire,Boeing B-737-4Y0,118,8,47
+1989,U.S. Air Force,Abilene,Boeing KC-135A,12,7,19
+1989,Burma Airways,Rangoon,Fokker F-27 Friendship 600,25,4,26
+1989,RAM,Marseille,Vickers 952F Vanguard,0,3,3
+1989,Independent Air Inc.,Santa Maria,Boeing B-707-331B,137,7,144
+1989,Flying Tiger Line,Kuala Lumpur,Boeing 747-249F,0,4,4
+1989,United Air Lines,Honolulu,Boeing B-747-122,338,18,9
+1989,Transfair,Quebec City,Douglas C-47A,0,2,2
+1989,Air Ontario,Dryden,Fokker F-28 Fellowship 1000,65,4,24
+1989,Aero Condor,Lima,Britten Norman BN-2A Trislander,9,1,10
+1989,Mid Pacific Air,West Lafayette,NAMC YS-11A-300F,0,2,2
+1989,Evergreen International Airlines,Carswell AFB,McDonnell Douglas DC-9-33RC,0,2,2
+1989,U.S. Marine Corps,Pohang,Sikorsky CH-53D,30,4,19
+1989,Transbrasil,Guarulhos,Boeing B-707-349C,0,3,3
+1989,Europe Aero Service EAS,Col de Tourniol,Fairchild FH-227B,19,3,22
+1989,SATENA,Cucuta,Pilatus PC-6 Turbo Porter,10,1,11
+1989,Aerosucre Colombia,Baranquilla,Aérospatiale SE-210 Caravelle,2,3,5
+1989,Aero Cozumel,Cancun,Britten Norman BN-2A Trislander II,17,2,6
+1989,Holmstoem Air,Oskarshamn,Beechcraft 99,14,2,16
+1989,Aero Asahi,Tainjin,Bell 412,0,10,10
+1989,Surinam Airways,Paramaribo,McDonnell Douglas DC-8 Super 62,178,9,176
+1989,Aerotaca,Vereda el Salitre,de Havilland Canada DHC-6 Twin Otter 300,20,2,6
+1989,Interflug,Berlin,Ilyushin IL-62MK,103,10,20
+1989,Ariana Afghan Airlines,Zabol,Antonov AN-26,35,4,6
+1989,Fuerza Aérea del Peru,Tarma,de Havilland Canada DHC-5D Buffalo,57,5,62
+1989,Formosa Airlines,Kaohsiung,Cessna 404 Titan Courier II,11,2,12
+1989,Somali Airlines,Borana,Fokker F-27 Friendship 600RF,24,6,3
+1989,Cameroon Airlines,Yaounde,Hawker Siddeley HS-748-435 Srs. 2,45,2,30
+1989,Calair,Cartersville,Dassault Falcon 20,0,2,2
+1989,United Air Lines,Sioux City,McDonnell Douglas DC-10-10,287,11,112
+1989,Air Taxi - Centre Airlines Inc.,Glen Burnie,Beech E18S,4,1,2
+1989,Aeroflot,Talourow Island,Antonov AN-26,6,4,10
+1989,Philippine Air Lines,Manila,BAC One-Eleven 516FP,91,7,3
+1989,Talair,Porgera,de Havilland Canada DHC-6 Twin Otter 300,20,2,1
+1989,Afghan Republican Air Force,Jalalabad,Mil Mi-8,0,30,30
+1989,Angolan Air Force,Chana,Antonov AN-26,44,4,42
+1989,Universal Airlines,Ullung Do,Sikorsky S-58T,0,13,13
+1989,Korean Airlines,Tripoli,McDonnell Douglas DC-10-30,181,18,75
+1989,Air Freight New Zealand,Auckland,Convair CV-580,0,3,3
+1989,Olympic Aviation,Samos,Shorts 330-200,31,3,34
+1989,RRC Air Service,Gambela,de Havilland DHC-6 Twin Otter 300,13,3,16
+1989,Aspring Air,Midford Sound,Britten-Norman BN-2A-26 Trislander,9,1,10
+1989,Private,Janice,Cessna 177RG,1,1,2
+1989,China Eastern Airlines,Shanghai,Antonov AN-24RV,34,6,34
+1989,Pakistan International Airlines,Gilgit,Fokker F-27 Friendship 200,49,5,54
+1989,Varig,Sao Jose do Xingu,Boeing B-737-241,48,6,13
+1989,Cubana de Aviacion,Havana,Ilyushin IL-62M,115,11,126
+1989,Partnair,Skagerrak,Convair CV-580,50,5,55
+1989,Merpati Nusantara Airlines,Bentuni,de Havilland Canada DHC-6 Twin Otter 300,19,3,22
+1989,Wehite Cap Aviation,Mayfield,Beech King Air B100,5,1,6
+1989,Union des Transportes Aeriens,Bilma,McDonnell Douglas DC-10-30,156,15,171
+1989,USAir,New York,Boeing B-737-401,57,6,2
+1989,Boeing KC-135E,Fairbanks,U.S. Air Force,0,2,2
+1989,Afghan Republican Air Force,Centeral Afghanistan,Mil Mi-8,0,26,26
+1989,Afghan Republican Air Force,Baghran,Mil Mi-17,0,24,24
+1989,Vayudoot,Ujani Dam,Dornier Do-288-201,8,3,11
+1989,Skylink Airlines,Terrace,Swearingen SA.227AC Metro III,5,2,7
+1989,Grand Canyon Airlines,Tusayan,de Havilland Canada DHC-6 Twin Otter 300,19,2,10
+1989,MAP,Semyonovka,Antonov An-32,4,5,9
+1989,U.S. Air Force,Perth,Boeing KC-135A,0,4,4
+1989,Winchester Air,Uncertain,Cessna 208 Caravan I,3,2,5
+1989,Air Taxi - Paramount Aviation Corp.,Lacey Township,Agusta A109A MK II,4,1,5
+1989,TAUSA,Urpay,Cessna 402C Utililiner,11,1,12
+1989,Russian Air Force,Nasosny,Ilyushin IL-76MD,50,7,57
+1989,Aeroflot,Leninakan,Ilyushin IL-76TD,10,5,15
+1989,TAN,Tegucigalpa,Boeing B-727-224,138,8,127
+1989,Soviet Air Force,Petropavlovsk,Antonov AN-26,30,6,36
+1989,China Airlines,Hualien,Boeing B-737-209,47,7,54
+1989,Aloha Island Air,Halawa Point,de Havilland DHC-6 Twin Otter 300,18,2,20
+1989,Weasua Air Ttansport,Monrovia,Britten-Norman BN-2A Islander,9,1,2
+1989,Royal Lesotho Defence Force,Maluti Mountains,Casa 212 Aviocar,16,2,18
+1989,Aeroflot,Tyumem,Antonov AN-24,36,6,34
+1989,Peoples Air Force,Albania,Mil Mi-4,0,24,24
+1989,Korean Airlines,Seoul,Fokker F-28 Fellowship 4000,46,6,1
+1989,AVIANCA,Bogota,Boeing B-727-21,101,6,107
+1989,Tepper Aviation,Jamba,Lockheed L-100-20 Hercules,0,5,5
+1989,Lineas Aéreas Cave,Charallave,Cessna 402,5,2,3
+1989,New England Airlines,Block Island,Britten-Norman BN-2A Islander,7,1,8
+1989,U.S. Army,Patuxent,CASA 212 Aviocar 200,0,5,5
+1989,Bolivian Air Force,Guayaramerin,Lockheed C-130A,18,24,24
+1989,United Express,Pasco,British Aerospace 3101 Jetstream 31,4,2,6
+1989,Tarom,Visina,Antonov An-24RV,1,6,7
+1989,Air Fiordland,Milford Sound,Cessna 207,4,1,5
+1990,Pelita Air Service,Java Sea,CASA 212 Aviocar 200,13,3,9
+1990,Aeroflot,Pervouralsk,Tupolev TU-134A,65,6,27
+1990,SANSA,Pico Blanco,CASA 212 Aviocar 200,20,3,23
+1990,Federal Express,Leadville,Cessna 208A Caravan I Cargomaster,0,1,1
+1990,Venezuelan Navy,Caracas,CASA 212-200 Aviocar,22,3,25
+1990,AVIANCA,Cove Neck,Boeing B-707-321B,149,9,73
+1990,Airfast Services,Mt Rijani,Hawker Siddeley HS-748-2A,16,3,19
+1990,MIAT - Mongolian Airlines,Zavkhan,Antonov AN-26V,25,5,30
+1990,Congolese Air Force,Kinkala,Nord 262C-66,23,5,28
+1990,Airborne Express,Burlington,Cessna 208B Caravan I,1,1,2
+1990,Wiggins Airways,Plattsburgh,Cessna 208B Caravan I Super Cargomaster,0,1,1
+1990,Helicopteros Nacionales de Colombia,Ibague,Grumman G-159 Gulfstream I,11,4,15
+1990,TAM,Bauru,Fokker 27 Friendship 200,36,4,2
+1990,Indian Airlines,Bangalore,Airbus A320-231,139,7,92
+1990,Zambian Air Force,Ngwerere,DHC-5 Buffalo,24,5,29
+1990,Federal Express,Denver,Cessna 208A Caravan I Cargomaster,0,1,1
+1990,Indian Air Force,Meerut,MiG-23,0,1,0
+1990,Helicsa,Freetown,Sikorsky S-58ET,0,11,11
+1990,TAN Honduras,Las Mesitas,Lockheed L-188CF Electra,0,3,3
+1990,Cubana de Aviacion,Santiago de Cuba,Antonov AN-26,41,5,25
+1990,Aeroflot,Kabul,Ilyushin IL-76MD,2,9,4
+1990,Angolan Air Force,Kuito,CASA 212 Aviocar 300,20,5,11
+1990,Wideroe's Flyveselksap,Vaeroy,de Havilland Canada DHC-6 Twin Otter 300,3,2,5
+1990,Aeroperlas,Contadora,de Havilland Canada DHC-6 Twin Otter 200,19,3,20
+1990,Zairean Air Force,Kinshasa,Lockheed C-130H,18,6,20
+1990,MATS - Manila Aero Transport System,Manila,Douglas DC-3,22,2,7
+1990,Royal Air Force,Tarbert,Avro Shackleton AEW-2,0,10,10
+1990,Frontier Air,Ship Sands Island,Beechcraft C99,2,2,1
+1990,Aerial Transit Company,Guatamala City,Douglas DC-6BF,0,3,3
+1990,Avicsa,Tuxtla-Gutierrez,Fairchild F-27,35,5,20
+1990,Luftwaffe,Wurzburg,Transall C-160D,0,10,10
+1990,Philippine Air Lines,Manila,Boeing B-737-3Y0,113,6,8
+1990,Aerolift Philippines,Manila,Beechcraft 1900C-1,19,2,21
+1990,TABA,Altamira,Fairchild FH-227B,39,3,23
+1990,Ptarmigan Airways,Thistle Lake,de Havilland Canada DHC-6 Twin Otter 300,0,2,2
+1990,British Airways,Oxfordshire,BAC One-Eleven 528FL,81,6,0
+1990,Douglas Airways,Port Morseby,Britten-Norman 2B-21 Islander,11,1,8
+1990,Afghan Republican Air Force,Maymaneh,Mil Mi-8,25,5,30
+1990,Servicio Expresso Nacional,Huanuco,Beech King Air B90,8,1,9
+1990,Aeroflot,Stepanakert,Yakovlev YAK-40,43,4,47
+1990,Afghan Republican Air Force,Shindand,Antonov AN-12,78,5,83
+1990,Private - Omniflights,Elkhorn,Bell BHT-206-B,4,1,5
+1990,U.S. Air Force,Kaiserslautern,Lockheed C-5A,9,8,13
+1990,Frontier Flying Service,Kaltag,Piper PA-31-325 Navajo,9,1,3
+1990,Faucett,Newfoundland,Boeing B-727-247,15,3,18
+1990,Nuna Air,Sondre Stromfjord,Cessna 441 Conquest II,6,2,8
+1990,Aeroflot,Koltsovo,Yakovlev YAK-42,122,6,4
+1990,SUDENE,Fernando de Noronha,Embraer 110P1 Bandeirante,10,2,12
+1990,HiTechs,San Luis Obispo,Cessna 501 Citation,2,2,4
+1990,China Southern Airlines,Guangzhou,Boeing B-737-247,205,21,128
+1990,Eastern Air Lines,Cape Canaveral,McDonnell Douglas DC-9-31,91,6,1
+1990,BAFIN,Bella Vista,Douglas C-47B-40-DK,2,2,4
+1990,Cubana de Aviacion,Santiago de Cuba,Yakovlev YAK-40,24,7,11
+1990,Alitalia,Stadelberg,McDonnell Douglas DC-9-32,40,6,46
+1990,SATENA,Medellin,CASA 212 Aviocar 200,12,4,16
+1990,Aeroflot,Ashkhabad,Mil Mi-8T,13,2,15
+1990,Bangkok Airways,Koh Samui,de Havilland Canada DHC-8-103,33,5,38
+1990,Eitos,Ravenna,Aerospatiale 330J Puma,12,1,13
+1990,Northwest Airlines,Romulus,Boeing B-727-251,186,12,8
+1990,Sudania Air Cargo,Nairobi,Boeing B-707-320F,7,3,10
+1990,Pelita Air Service,Matak,IPTN 332C Super Puma,0,10,10
+1991,Venezuelan Navy,Paramo Mucuti,CASA 212 Aviocar 200,19,3,21
+1991,Merpati Nusantara Airlines,Jalaludin,CASA 212 Aviocar 200,18,3,1
+1991,Lockheed AC-130H Hercules,Ras Al Khafji,U.S. Air Force,0,14,14
+1991,Skywest Airlines,Los Angeles,Boeing B-737-300,93,8,34
+1991,Hellenic Air Force,Nea Ankhialos,Lockheed C-130H,59,4,63
+1991,Ecuadorean Air Force,Taisha,de Havilland Canada DHC-6 Twin Otter 300,19,3,22
+1991,Ryan International Airlines,Cleveland,McDonnell Douglas DC-9-15RC,0,2,2
+1991,LAN,Puerto Williams,British Aerospace BAE-146-200A,65,7,20
+1991,Fuerza Area Angolaise,Cazombo,Antonov AN-26,43,4,47
+1991,United Air Lines,Colorado Springs,Boeing B-737-291,20,5,25
+1991,Linea Aeropostal Venezolana,La Puerta,McDonnell Douglas DC-9-32,40,5,45
+1991,Duncan Aircraft Sales,San Diego,Hawker-Siddeley,8,2,10
+1991,Transafrik,Malanje,Lockheed L-100-30 Hercules,6,3,9
+1991,U.S. Navy,San Diego,Lockheed P-3C,0,98,98
+1991,Royal Saudi Air Force,Ras-al-Mishab,Lockheed C-130H,92,6,27
+1991,Aeroflot,Navoi,Antonov AN-24B,59,4,34
+1991,Indian Air Force,Bangalore,Hindustan Aeronautics 748-2,25,3,28
+1991,Private,Marion,Piper Aerostar 601,4,1,5
+1991,Central Mountain Air Services,Lake Thutade,Douglas C-47B-15-DK,4,3,6
+1991,Atlantic Southeast Airlines,Brunswick,Embraer 120RT- Brasilia,20,3,23
+1991,Air Tahiti,Nuka Hiva,Dornier Do-228-212,19,3,11
+1991,Merpati Nusantara Airlines,Sulawesi,Fokker F-27 Friendship 600,8,5,13
+1991,Air Taxi - Air Grand Canyon Inc.,Grand Canyon,Cessna 207A,6,1,7
+1991,ADES Colombia,La Poyatta,Douglas C-47B,11,3,13
+1991,Aeroflot,Leningrad,Tupolev TU-154B-1,174,7,13
+1991,Metro Cargo,Bakhtaran,Ilyushin 76TD,0,10,4
+1991,Lauda Air,Ban Nong Rong,Boeing B-767-3Z9ER,213,10,223
+1991,Agape Flight Inc.,Matthewtown,GAF Nomad N24A,2,1,2
+1991,Carib Air Transport,Luanda,Lockheed L-382B Hercules,4,3,7
+1991,Aerosucre Colombia,Malambo,Douglas DC-6BF,15,3,2
+1991,Okada Air,Sokotu,BAC One-Eleven 402AP,48,5,10
+1991,AKF Polet,Finland,Antonov AN-24,4,6,4
+1991,Helicol Colombia,El Yopal,de Havilland Canada DHC-6 Twin Otter 300,1,2,3
+1991,Aerochasqui,Bellavista Airport,CASA 212 Aviocar 200,13,2,15
+1991,L'Express Airlines,Birmingham,Beechcraft BE-99-C99,13,2,13
+1991,Nationair,Jeddah,McDonnell Douglas DC-8 Super 61,247,14,261
+1991,Vanair,Espiritu Santos,Britten-Norman BN-2A-6 Islander,8,1,9
+1991,Avalki Air,Rarotonga,Britten-Norman BN-2A-6 Islander,8,2,6
+1991,Tarom,Uricani,Ilyushin IL-18V,4,5,9
+1991,Indian Airlines,Imphal,Boeing B-737-2A8,63,6,69
+1991,Temsco Airlines,Ketchikan,Britten-Norman BN-2A-6 Islander,3,1,4
+1991,Air Taxi - Bohemia Inc.,Walton,Aerospatiale 350B1,2,1,3
+1991,Dirgantara Air Services,Sampit,Britten-Norman BN-2A-21,8,2,3
+1991,Airtech Rajawaldi Udara,Long Seridan,Shorts SC-7 Skyvan 3-100,18,2,14
+1991,Continental Express,Eagle Lake,Embraer 120RT Brasilia,11,3,14
+1991,Aeroflot,Petropavlosk,Antonov AN-72,7,6,13
+1991,Ethiopian Airlines,Djibouti City,Lockheed L-100-30 Hercules,0,4,4
+1991,Canair Cargo,Belvedere Center,Convair CV-580,0,2,2
+1991,Aeroflot,Khatanga,Antonov 12BP,9,7,1
+1991,Aeroflot,St. Petersburg,Antonov AN-26,7,3,10
+1991,Solomon Islands Airlines,Guadalcanal Island,de Havilland Canada DHC-6 Twin Otter 300,13,2,15
+1991,CORAL Colombia,Villavicencio,Curtiss C-46A,6,4,1
+1991,Indonesian Air Force,Jakarta,Lockheed C-130H-30,129,5,134
+1991,EDELCA,Aponguao Falls,Bell 214 ST,9,3,12
+1991,Corporate Mobility Inc. - Private,Vallejo,Bell 206B,2,1,3
+1991,Bali International Air Service,Tumbang Miri,Britten-Norman BN2A-III-2 Trislander,16,1,17
+1991,Royal Canadian Air Force,Point Alert,Lockheed CC-130E,13,5,5
+1991,Azerbaijan Air Force,Karakent,Mil Mi-8,0,40,40
+1991,Aeroflot,Makhackala,Yakovlev YAK-40,47,4,51
+1991,Nordeste Linhas Aereas,Recife,Embraer 110P1 Bandeirante,12,3,15
+1991,Aeroflot,Anderma,Antonov AN-12V,14,6,20
+1991,Soviet Air Force,Nagoro-Karabak,Mil Mi-8,20,3,23
+1991,Air Taxi - Airiss Inc.,Davis,Bell 206B,2,1,3
+1991,STASA,Sena,Douglas C-47B-DK,0,3,1
+1991,Tartarstan Airlines,Bugulma,Antonov AN-24,37,4,41
+1991,Força Aérea Brasileira,Guaratingueta AB,Embraer C-95C Bandeirante,13,3,16
+1991,Classic Wings,Heidelberg,Douglas DC-3A,27,3,27
+1991,Scandinavian Airlines,Stockholm,Mc Donnell Douglas MD-81,123,6,0
+1991,China Airlines,Wanli,Boeing B-747-2R7F,0,5,5
+1992,Air Inter,Strasbourg,Airbus A320-111,90,6,87
+1992,Azerbaijan Air Force,Stepanakert,Mil Mi-8,0,47,47
+1992,Nordeste Linhas Aéreas,Caetite,Embraer 110C Bandeirante,10,2,12
+1992,US Air Force,Evansville,Lockheed C-130B Hercules,0,5,5
+1992,Gambcrest,Kafountine,Convair CV- 640,50,6,30
+1992,ATI,Toledo,McDonnell Douglas DC-8-63F,0,4,3
+1992,Aerolineas Argentinas,En route from Argentina to California,Boeing B-747,0,1,1
+1992,Frigorifico Santa Rita,Beni,Curtiss C-46T,2,3,5
+1992,Lina Congo,Etsouali,de Havilland Canada DHC-6 Twin Otter 300,5,3,3
+1992,USAir,New York,Fokker F-28 Fellowship 4000,47,4,27
+1992,Golden Star Air Cargo,Athens,Boeing 707-321C,4,3,7
+1992,Kamchatavia,Baikov,Let 410UVP,10,2,1
+1992,Air Bissau,Sarra,Antonov AN-24RV,10,3,3
+1992,Taiwan Airlines,Orchid Island,Britten Norman BN-2A-26 Trislander,8,2,7
+1992,Kenyan Air Force,Nairobi,de Havilland DHC-5 Buffalo,42,4,46
+1992,Talair,Goroka,Embraer 110P1 Bandeirante,13,2,11
+1992,Perris Valley Aviation,Perris Valley,de Havilland Canada DHC-6 Twin Otter 200,20,2,16
+1992,Scenic Air Tours,Mt. Haleakala,Beechcraft E18S,8,1,9
+1992,Saha Airline Services,Saveh,Fokker F-27 Friendship 400M,35,4,39
+1992,COPA,Tucuti,Boeing B-737-204,40,7,47
+1992,American Eagle,Mayaguez,CASA 212 Aviocar 200,3,2,5
+1992,VASP,Cruzeiro do Sul,Boeing 737-2A1C,1,2,3
+1992,Krasnoyarsk Airlines,Norlisk,Antonov AN-12,7,5,10
+1992,Sri Lanka Air Force,Iyakochchi,Shaanxi Y-8D,13,6,19
+1992,Arctic Circle Air Service,Bethel,Shorts SC-7 Skyvan 3A-200,0,1,1
+1992,Russian Air Force,Nakhichevan,Antonov AN-12V,27,7,29
+1992,Unified Yemen Air Force,Bir Fadl,Antonov An-12,50,7,57
+1992,Georgian Air,Tbilisi,Tupolev TU-154B,16,8,24
+1992,Volga-Dnepr Airlines,Skopje,Antonov 12BK,2,6,8
+1992,Mandala Airlines,Mt. Lalaboy,Vickers Viscount 816,63,7,70
+1992,Aero Eslava,Mexico City,Vickers 798D Viscount,2,2,4
+1992,Trans World Airlines,New York,Lockheed L-1011,280,12,0
+1992,Thai Airways,Kathmandu,Airbus A310-304,99,14,113
+1992,China General Aviation Corporation,Nanjing,Yakovlev YAK-42D,116,10,108
+1992,Servicios Aereos Santa Ana,Colorado,Convair CV-440-80,7,3,10
+1992,Lone Star Airlines,Hot Springs,Swearingen SA-227AC Metro III,0,3,3
+1992,Peruvian Air Force - TANS,Iquitos,de Havilland Canada DHC-6 Twin Otter 300,38,3,8
+1992,Aeroflot,Ivanovo,Tupolev TU-134A,77,7,84
+1992,NewCal Aviation,Gimli,de Havilland Canada DHC-4T Caribou,0,3,3
+1992,Professional Aviation Services,Jamba,Douglas DC-3,14,3,8
+1992,Expresso Aéreo,Bellavista,Fokker F-27 Friendship 500,36,7,1
+1992,Kamchatka Airlines,Kozyrevsk,Mil Mi-8,13,3,9
+1992,Air Taxi - Hawaiis Inc.,Hana,Aerospatiale AS-350B,6,1,7
+1992,Aero Ejecutivos,Curacao,Douglas C-118A,0,3,3
+1992,Avesca Colombia,Bogota,Curtiss C-46F-1-CU,9,2,11
+1992,Yakutavia,Kular,Mil Mi-8,7,3,10
+1992,Federal Nigerian Air Force,Lagos,Lockheed C-130H,154,4,158
+1992,Pakistan International Airlines,Kathmandu,Airbus A300B4-203,155,12,167
+1992,El Al,Amsterdam,Boeing B-747-258F,1,3,4
+1992,Miltiary - U.S. Airforce,Berkeley Springs,Lockheed C-130E Hercules,0,6,6
+1992,Wuhan Airlines,Dingxi,Avia 14M-40,28,7,14
+1992,Kiev Production Association,Mogadiscio,Antonov 32,7,6,1
+1992,Merpati Nusantara Airlines,Garut,CASA 235-10,27,4,31
+1992,Syktyvkar Avia,Usti Nem,Antonov AN-28,14,2,15
+1992,Peruvian Air Force,Lake Caballochoa,de Havilland Canada DHC-6 Twin Otter 300,8,3,8
+1992,Aeroflot,Chita,Antonov AN-8,9,5,13
+1992,Indian Air Force,Bombay,Mil Mi-8,0,20,20
+1992,Russian Air Force,Tver,Antonov AN-22A,26,7,33
+1992,Vietnam Airlines,Nha Trang,Yakovlev YAK-40,25,6,30
+1992,Aerocaribbean - Charter,Porto Plata,Ilyushin IL-18D,28,6,34
+1992,China Southern Airlines,Guilin,Boeing B-737-3Y0,133,8,141
+1992,U.S. Air Force,Harlem,Lockheed C-141B,0,13,13
+1992,Aero Sudpacifico,Uruapan,Britten-Norman BN-2B-27 Islander,8,1,9
+1992,Scibe Airlift Cargo Zaire,Goma,Fokker F-27 Friendship 400M,31,6,37
+1992,Russian Air Force,Lata,Mil Mi 8T,0,61,61
+1992,c Holland NV,Faro,McDonnell Douglas DC-10-30CF,327,13,56
+1992,Libya Arab Airlines,Tripoli,Boeing B-727-2L5,147,10,157
+1993,Air Taxi - South Coasts Inc.,Ogden,Bell 206B3,3,1,4
+1993,Lufthansa Cityline,Paris,de Havilland Canada DHC-8-301,19,4,4
+1993,Bouraq Indonesia Airlines,Surabaya,Hawker Siddeley HS-748-234,39,5,17
+1993,Titan Airways,Sellafield,Embraer 110P1 Bandeirante,0,2,2
+1993,Central Mountain Air Services,Bronson Creek,Douglas C-47A,0,2,2
+1993,Trans Service Airlift,Kinshasa,Nord 262A-44,18,3,3
+1993,Pan Malaysian Air Transport,Sumatra,Shorts SC-7 Skyvan 3-100,11,5,16
+1993,Iran Air Tours,Tehran,Tupolev TU-154M,119,14,133
+1993,Afghan Republican Air Force,Daraim,Mil Mi-8,0,30,30
+1993,Cargo Three Panama,Bogota,Convair CV-440,0,2,2
+1993,Formosa Airlines,Green Island,Dornier 228-201,4,2,6
+1993,Palair Macedonian,Skopje,Fokker 100,92,5,83
+1993,Oeste Linhas Aereas,Tangara de Serra,Embraer EMB-110 Bandeirante,4,2,6
+1993,Japan Air Lines,Anchorage,Boeing B-747-466,2,3,0
+1993,Private,Blountville,Fairchild SA227-TT,3,1,4
+1993,Linea Aeropostal Venezolana,Margarita Island,McDonnell Douglas DC-9-15,8,3,11
+1993,China Eastern Airlines,Shemya,McDonnell Douglas MD-11,248,16,2
+1993,Private,Zwingle,Mitsubishi MU-2B-60,6,2,8
+1993,MIAT - Mongolian Airlines,Zavnah,Antonov AN-26B,34,6,32
+1993,Indian Airlines,Aurangabad,Boeing B-737-2A8,112,6,55
+1993,Zambian Air Force,Libreville,de Havilland Canada DHC-5D Buffalo,25,5,30
+1993,Afghan Republican Air Force,Kholm,Antonov AN-32,71,5,76
+1993,Fiji Air,Suva,Britten-Norman BN-2A-6 Islander,0,2,2
+1993,Carga del Caribe,Cancun,Douglas DC-6BF,0,5,3
+1993,SAM Colombia,Medellin,Boeing B-727-46,125,7,132
+1993,Aerotaca,El Yopal,de Havilland Canada DHC-6 Twin Otter 300,0,2,2
+1993,Southwest Air,Gulgubip,Britten-Norman BN-2A-20 Trislander,10,1,9
+1993,Merpati Nasantara Airlines,Nabire,de Havilland Canada DHC-6 Twin Otter 300,0,3,1
+1993,Tajikistan Airlines,Tbilisi,Antonov AN-26,36,5,41
+1993,Merpati Nusantara Airlines,Sorong,Fokker F-28 Fellowship 3000,39,4,41
+1993,Georgian Air Force,Ochamchire,Mil Mi-8,0,23,23
+1993,Private,Talladega,Hughes 369HS,1,1,1
+1993,China Northwest Airlines,Yinchuan,British Aerospace 146-300,108,5,55
+1993,Asiana Airlines,Haenam,Boeing B-737-5L9,104,6,68
+1993,Hornbill Airways,Serawak,Shorts SC-7 Skyvan 3-100,15,2,1
+1993,Everest Air,Devghat,Dornier Do-228-101,16,3,19
+1993,American International Airways,Leeward Point Airfield,McDonnell Douglas DC-8-61,0,3,0
+1993,Sakha Airlines,Aldan,Let 410UVP-E,22,2,24
+1993,Tajikistan Airlines,Khorag,Yakovlev YAK-40,81,5,82
+1993,Lufthansa,Warsaw,Airbus A320-211,64,6,2
+1993,Transair Georgia Airlines,Sukhumi,Tupolev TU-134A,22,5,27
+1993,Transair Georgia Airlines,Sukhumi,Tupolev TU-154B,120,12,108
+1993,Georgian Air Force,Svanetia,Mil Mi-8,0,60,60
+1993,Hibiscus Air,Franz Josef Glacier,GAF Nomad N-22,6,3,9
+1993,China Eastern Airlines,Fuzhou,McDonnell Douglas MD-82,71,9,2
+1993,Wideroe's Flyveselksap,Namsos,de Havilland Canada DHC-6 Twin Otter 300,17,3,7
+1993,Air Manitoba,Sandy Lake,Hawker Siddeley HS-748-234 Srs. 2A,4,3,7
+1993,China Northern Airlines,Urumqi,McDonnell Douglas MD-82,92,10,12
+1993,Magistralnye Avialinii,Kerman,Antonov AN-124,14,3,17
+1993,Aviaimpex,Ohrid,Yakovlev YAK-42D,108,8,116
+1993,Express Airlines - Northwest Airlink,Hibbing,British Aerospace Jetstream BA-3100,16,2,18
+1993,Arctic Wings & Rotors,Tuktoyaktuk,Britten Norman BN-2A Trislander7,6,1,7
+1993,Air Senegal,Dakar,DHC-6 Twin Otter 300,2,1,3
+1993,Lao Aviation,Phonesavanh,Yunshuji Y-12-II,16,2,18
+1993,Philippine Air Force,Naga,Lockheed C-130H,23,6,29
+1993,Kuban Airlines,Gyumri,Antonov AN-26,31,5,36
+1994,Baikal Air,Mamony,Tupolev TU-154M,115,9,124
+1994,Atlantic Coast Airlines,Columbus,British Aerospace Jetstream 4101,3,5,5
+1994,North Western Air Transport,Nalchik,Antonov AN-12V,7,6,13
+1994,British World Airways,East Midlands,Vickers 813 Viscount,0,2,1
+1994,Expresso Aéreo,Carpish,Yakovlev YAK-40,26,5,31
+1994,Continental Airlines,New York,McDonnell Douglas MD-82,110,6,0
+1994,Sahara,New Delhi,Boeing 737-2R4C,0,4,4
+1994,U.S. Air Force,Malindi,Lockheed C-130H Hercules,0,8,8
+1994,Iranian Air Force,Nag,Lockheed Hercules C-130,19,13,32
+1994,Chalk's International Airlines,Key West,Grumman G-73T Turbo Mallard,0,2,2
+1994,Salair,Spokane,Douglas DC-3C,0,2,2
+1994,Aurukun Air Services,Weipa,Britten-Norman BN-2A-21 Trislander,5,1,6
+1994,Aeroflot Russian International Airways,Mezhdurechensk,Airbus A310-304,63,12,75
+1994,Air Taxi - El Aero Services Inc.,Lamoille,Bell 206B3,4,1,5
+1994,KLM Cityhopper,Amsterdam,Saab 340B,21,3,3
+1994,Rwanda Government,Kigali,Dassault Falcon 50,9,3,12
+1994,TAME,Ambato,de Havilland Canada DHC-6 Twin Otter 300,14,3,17
+1994,U.S. Army,Northern Iraq,Sikorsky UH-60,0,26,26
+1994,Dirgantara Air Services,Nanga Pinoh,Britten Norman BN-2A-21 Trislander,10,1,11
+1994,China Airlines,Komaki,Airbus A300B4-622R,256,15,264
+1994,Rico Taxi Aero,Sao Gabriel,Embraer 110 Bandeirante,14,2,8
+1994,Arall,Loma Linda,Pilatus Britten-Norman BN-2B-27 Islander,9,2,4
+1994,Transoriente Colombia,Villavicencio,Douglas DC-3,26,3,7
+1994,Royal Air Force,Campbeltown,Boeing Vertol Chinook HC-2,25,4,29
+1994,China Northwest Airlines,Xi'an,Tupolev TU-154M,146,14,160
+1994,Aerolineas Cuahonte,Uruapan,Swearingen SA.226TC Metro II,7,2,9
+1994,Merpati Nusantara Airlines,Mt. Kalora,Fokker F-27 Friendship 500F,7,5,12
+1994,TAESA,Chantilly,Learjet 25D,10,2,12
+1994,Air Ivorie,Abidjan,Fokker F-27 Friendship 400M,14,3,17
+1994,Dostum-Galboddin Militia,Logar,Antonov AN-32,0,50,50
+1994,Airbus Industrie,Toulouse-Blagnac,Airbus A330-321,4,3,7
+1994,Air Mauritanie,Tidjika,Fokker F-28 Fellowship 4000,89,4,80
+1994,USAir,Charlotte,McDonnell Douglas DC-9-30,52,5,37
+1994,Air Taxi - Papillions Ltd.,Hanalei,Aerospatiale AS350D,6,1,3
+1994,Air Martinique,Fort de France,Britten-Norman BN-2B-26 Islander,5,1,6
+1994,Sankuru Air Service,Boma,Yakovlev 40D,5,4,5
+1994,Alas Chiricanas,Colon,Embraer 110P1 Bandeirante,18,3,21
+1994,Airfast Services,East Kalimantan,Sikorsky S-58ET,16,2,18
+1994,Russian Air Force,Boda,Antonov AN-12,41,6,47
+1994,Air Taxi - Uyak Air Services Inc.,Kodiak,de Havilland DHC-2,6,1,6
+1994,Korean Airlines,Cheju,Airbus A300B4-622R,152,8,0
+1994,Air Taxi - Talon Air Services Inc.,Alsworth,de Havilland DHC-2,2,1,3
+1994,Air Taxi - Nationals,Whiting,Bell 206L-4,2,1,3
+1994,Royal Air Maroc,Agadir,Aerospatiale ATR-42-300,40,4,44
+1994,USAir,Aliquippa,Boeing B-737-3B7,127,5,132
+1994,Aerocontroctors - Charter,Abuja,de Havilland Canada DHC-6 Twin Otter 300,3,2,3
+1994,Pacific Coastal Airlines,Fish Egg Inlet,de Havilland Canada DHC-6 Twin Otter 100,2,2,3
+1994,Oriental Airlines,Tamanrasset,BAC One-Eleven 515FB,32,7,5
+1994,Heavylift Cargo Airlines,Kowloon Bay,Lockheed L-100-30 Hercules,6,6,6
+1994,Cheremshanka Airlines,Vanavera,Yakovlev YAK-40,24,4,28
+1994,TAM Paraguay,Bahia Negra,Douglas C-47D,25,2,1
+1994,Arsenyev Aviation Production Association,Chaibukha,Antonov AN-8,13,7,8
+1994,SELVA,Mitu,Antonov AN-32B,5,5,10
+1994,Iran Asseman Airlines,Komaki,Fokker F-28 Fellowship 1000,59,7,66
+1994,Brazilian Air Force,Formoso do Aragala,Lockheed C-130E,15,6,21
+1994,Angolan Air Force,Cuito,Mil Mi-8MTV,0,22,22
+1994,Yakutavia,Batagaj,Antonov AN-2,17,2,7
+1994,Aeronica,Ust'-Ilimsk,Antonov AN-12A,16,7,23
+1994,American Eagle,Roselawn,ATR-72-212,64,4,68
+1994,Transportes Aereos Pegaso,Cozumel,Bell 212,13,1,14
+1994,Trigana Air Service,Nabire,de Havilland Canada DHC-6 Twin Otter 100,2,2,4
+1994,SA Amazonica,Saposa,Yakovlev YAK-40,26,4,6
+1994,Ameriflight,Avenal,Beechcraft C99,0,1,1
+1994,Southwest Air,Papua New Guinea,Britten Norman BN-2A Trislander,6,1,7
+1994,Trans World Airlines,Bridgeton,McDonnell Douglas DC-9-82,132,10,2
+1994,Angolan Air Force,Cuito,Mil Mi-17,0,22,22
+1994,Philippine Air Lines,Pacific Ocean,Boeing B-747-200,273,20,1
+1994,American Eagle,Morrisville,British Aerospace Jetstream 3201,18,2,15
+1994,SL Aviation Services,Lobito,Douglas DC-3,0,2,2
+1994,Servivensa,Cerro Aicha,Douglas C-47A-10-DK,6,3,7
+1994,Missionary Aviation Fellowship,Papua,de Havilland Canada DHC-6 Twin Otter 200,26,2,28
+1994,Phoenix Aviation,Coventry,Boeing 737-2D6C,0,5,5
+1994,Air France,Algiers Airport,Airbus A300B2-1C,227,12,3
+1994,Turkish Airlines,Van,Boeing B-737-4Y0,69,7,57
+1995,Iranian Air Force,Isfahan,Lockheed 1329 Jetstar 8,6,6,12
+1995,Merpati Nusantara Airlines,Flores Island,de Havilland Canada DHC-6 Twin Otter 300,10,4,14
+1995,Intercontinental de Aviacion,Cartagena,McDonnell Douglas DC-9-14,47,5,51
+1995,Air Taxi - Wolfe Air Aviation Ltd.,Los Angeles,Bell 206B,3,1,2
+1995,Royal Nepal Airlines,Kathmandu,de Havilland Canada DHC-6 Twin Otter 300,21,3,2
+1995,Abakan Airlines,Krasnoyarsk,Let 410UVP,17,2,3
+1995,Leadair - Charter,Le Bourget,Dassault Falcon 20E,7,3,10
+1995,ATI,Kansas City,McDonnell Douglas DC-8-63F,0,3,3
+1995,Aeroflot,Ossora,Antonov 26B,4,6,9
+1995,Tarom,Balotesti,Airbus A310-324,49,11,60
+1995,Bristows,Lagos,de Havilland Canada DHC-6 Twin Otter 300,7,2,1
+1995,Sri Lanka Air Force,Palaly AFB,Hawker Siddeley HS-748-357/2B SCD,49,3,52
+1995,Bearskin Airlines,Sioux Falls,Swear. SA-227CC Metro 23/Piper Navajo,5,3,8
+1995,American Jet,Quito,Grumman Gulfstream II,5,2,7
+1995,ADES Colombia,Cerro San Jeronimo,Curtiss C-46F,5,4,9
+1995,U.S. Air Force,Boise,Lockheed C-130E Hercules,0,6,6
+1995,Knight Air,Leeds,Embraer 110 P1 Bandeirante,9,3,12
+1995,LACOL,Miraflores,Douglas DC-3C,9,2,2
+1995,Senegalair,Mbour,Piper PA-31-310 Navajo,8,2,6
+1995,Ansett New Zealand,Palmerston North,de Havilland Canada DHC-8-102,18,3,5
+1995,Volga Air,Volgograd,Antonov 2R,0,12,12
+1995,Aeroflot,Herputchi,Antonov AN-2,12,2,13
+1995,Angolan Air Force,Cuvela,CASA 212-200 Aviocar,45,3,48
+1995,Harka Air Services,Lagos,Tupolev TU-134A,74,6,16
+1995,Salair,La Romana,Convair CV-440,0,2,2
+1995,Garamut Aviation,Kiunga,de Havilland Canada C-7A Caribou,1,2,3
+1995,Milne Bay Air,Gumey,de Havilland Canada DHC-6 Twin Otter 300,13,2,15
+1995,Merpati Nusantara Airlines,Bintuni,de Havilland Canada DHC-6 Twin Otter 300,16,2,1
+1995,Madagascar Air Force,Antananivo,Douglas C-47A,29,5,34
+1995,Transniugini Airways,Karamui,Britten-Norman BN-2A Islander,1,1,2
+1995,Aero Air,Johannesburg,Antonov An-2R,0,3,3
+1995,Bourag Indonesia Airlines,Kaimana,Hawker Siddeley HS-748 2A,6,4,10
+1995,Aviateca,Mt. Chichontepec,Boeing B-737-2H6,58,7,65
+1995,AIRES Colombia,Nevada del Huila,Embraer 110P1 Bandeirante,8,2,10
+1995,Atlantic Southeast Airlines,Carrollton,Embraer 120-RT Brasilia,26,3,10
+1995,North Star Air Cargo,Farewell,Shorts SC-7 Skyvan,0,1,1
+1995,Adventure Airlines,Beaver Dam,Cessna 421C Golden Eagle,7,1,8
+1995,Royal Air Force,Toronto,British Aerospace Nimrod MR-2P,0,7,7
+1995,SAETA,La Macarena,CASA 212 Aviocar 200,18,4,21
+1995,Ariana Afghan Airlines,Jalalabad,Antonov AN-26B,44,7,3
+1995,Sri Lanka Air Force,Colombo,Antonov AN-32,76,5,81
+1995,Malaysia Airlines,Tawau,Fokker 50,49,4,34
+1995,MIAT - Mongolian Airlines,Moron,Antonov AN-24RV,37,6,42
+1995,U.S. Air Force,Anchorage,Boeing B-707,20,4,24
+1995,Norilsk Flight Company,Sterligov Cape,Mil Mi-8T,10,5,15
+1995,Western Straits Air,Campbell River,De Havilland Dash-3,9,1,8
+1995,Sabang Merauke Raya Air Charter,Gunung Antara,CASA 212,12,2,1
+1995,Kirghizia Aba Zaoldoru,Barskoon,Mil Mi-8MTV-1,12,3,15
+1995,Argentine Air Force,Luyaba,Fokker F-27 Friendship 500,48,5,53
+1995,American Airlines,East Granby,McDonnell Douglas MD-83,73,5,0
+1995,Nigeria Airways,Kaduna,Boeing B-737-2F9,129,8,9
+1995,Sri Lanka Air Force,Jaffna Peninsula,Antonov AN-32,57,6,63
+1995,Sabah Air,Labuan,Bell 412,8,2,10
+1995,Azerbaijan Airlines,Baku,Boeing 707-323C,0,6,2
+1995,Cameroon Airlines,Douala,Boeing B-737-2K9,72,6,72
+1995,Azerbaijani Airlines,Nakhichevan,Tupolev TU-134B-3,76,6,54
+1995,Far East Aviation,Grossevichi,Tupolev TU-154B,90,8,98
+1995,Romanian Banat Air,Verona - Villafranca,Antonov AN-24B,41,8,49
+1995,Trans Service Airlift,Cahungula,Lockheed L-188C Electra,139,5,141
+1995,American Airlines,Buga,Boeing B-757-223,156,8,160
+1995,Island Airways,Bagasin,Britten Norman BN-2A-21 Trislander,11,1,2
+1996,Mustique Airways,Bridgetown,Britten-Norman BN-2A-27 Islander,9,1,1
+1996,African Air,Kinshasa,Antonov AN-32B,0,6,2
+1996,Nigerian Air Force,Kano,British Aerospace BAe-125-700B,10,4,14
+1996,Sri Lanka Air Force,Point Pedro,Mil Mi-17,0,39,39
+1996,Lineas Aereas del Caribe,Asuncion,McDonnell Douglas DC-8-55F,1,3,4
+1996,Business Air Connection,St. Johns,ConvairCV-440,2,2,4
+1996,Alas Nacionales,Puerto Plata,Boeing B-757-225,176,13,189
+1996,Hati Express,Port-au-Prince,GAF Nomad N-24A,13,2,11
+1996,Sudanese Air Force,Jabal Awliya,Lockheed C-130H,85,6,91
+1996,Aero Tropical,Lukapa,Antonov 12BP,3,5,8
+1996,Compania de Aviacion Faucett SA,Arequipa,Boeing B-737-222,117,6,123
+1996,Peruvian Army Aviation,Mesones Muro,Mil Mi-17,0,23,23
+1996,Akhal Air,Karabogazgol Bay,Mil Mi-8T,9,3,12
+1996,U.S. Air Force,Dubrovnik,Boeing B-737-T43,29,6,35
+1996,Formosa Airlines,Matsu Island,Dornier 228-212,15,2,6
+1996,Krasnoyarskie Avialinii,Petropavlovsk,Ilyushin IL-76TD,11,9,20
+1996,Private,Cheyenne,Cessna 177B,2,1,3
+1996,Federal Airlines,Haj Yousif,Antonov AN-24,48,5,53
+1996,Buffalo Narrows Airways,Terrace,de Havilland Canada DHC-3 Otter,0,2,2
+1996,Aeroservicios Empresariales de Durango,Otaez,de Havilland Canada DHC-6 Twin Otter 200,17,2,16
+1996,ValuJet,Everglades,McDonnell Douglas DC-9-32,105,5,110
+1996,Milne Bay Air,Oumba,Britten Norman BN-2A-20 Trislander,9,1,1
+1996,Loganair,Griesta,Britten-Norman BN-2A-26 Islander,2,1,3
+1996,Hoseba,Kinshasa,Ilyushin 76MD,2,8,10
+1996,Iran Air,Rasht,Boeing 727-286,0,7,7
+1996,Australian Army Aviation,Rollingstone,Sikorsky S-70,0,18,18
+1996,Garuda Indonesia Airlines,Fukuoka,McDonnell Douglas DC-10-30,260,15,3
+1996,China Flying Dragon Aviation,Shanghai,Harbin Yunshuji Y-12-II,9,3,2
+1996,Delta Air Lines,Pensacola,McDonnell Douglas MD-88,137,5,2
+1996,Milne Bay Air,Papua,de Havilland Canada DHC-6 Twin Otter 300,19,1,20
+1996,Archana Airlines,Kanda,Let 410,6,3,9
+1996,Belgian Air Force,Eindhoven,Lockheed C-130H,37,4,34
+1996,Trans World Airlines,East Moriches,Boeing B-747-131,212,18,230
+1996,Aerolatino,Playa del Carmen,de Havilland Canada DHC-6 Twin Otter 300,16,2,1
+1996,Northern Air Cargo,Russian Mission,Douglas DC-6A,1,3,4
+1996,Myanmar Airways,Mergui,Fokker F-27 Friendship 600,44,5,8
+1996,First Air,Markham Bay,de Havilland Canada DHC-6 Twin Otter 300,0,2,2
+1996,Air North,Bronson Creek,Douglas DC-4,0,3,1
+1996,U.S. Air Force,Jackson Hole,Lockheed C-130H Hercules,1,8,9
+1996,Harbour Air,Alliford Bay,de Havilland Canada DHC-3 Turbo Otter,2,1,3
+1996,Spair Air Transport,Belgrade,Ilyushin IL-76T,2,10,12
+1996,Vnokovo Airlines,Longyearbyen,Tupolev TU-154M,129,12,141
+1996,Dutch Dakota Association,Waddenzee,Douglas DC-3C,26,6,32
+1996,Aeroperu,Pasamayo,Boeing B-757-200,61,9,70
+1996,Malu Aviation,Kahemba,de Havilland Canada DHC-6 Twin Otter 200,19,2,6
+1996,Savanair,Lukapa,Antonov 12B,13,6,6
+1996,Aeroflot,San Francesco al Campo,Antonov An-124,0,23,2
+1996,Million Air,Manta,Boeing B-707-323C,0,4,4
+1996,Tyumen Aviatrans,Khanty,Yakovlev YAK-40,30,4,5
+1996,TAM,Sao Paolo,Fokker 100,89,6,95
+1996,Transported Areos Profesionales - TAPSA,Tikal,Embraer 110P1 Bandeirante,14,2,16
+1996,Jetcom S.A.,Aubusson,Cessna 421C Golden Eagle,7,1,8
+1996,Aviation Development Corporation,Lagos,Boeing B-727-231,134,9,143
+1996,Saudi Arabian Airlines,Charkhi Dadri,Boeing B-747-168B,316,33,349
+1996,Komi Avia,Bolchaïa Pyssa,Antonov AN-2,13,2,14
+1996,United Express,Quincy,Beechcraft 1900-C,10,4,14
+1996,U.S. Air Force,Cape Mendocino,Lockheed HC-130P Hercules,0,11,10
+1996,Ethiopian Airlines,Mitsamiouli,Boeing B-767-260ER,163,12,127
+1996,Russian Air Force,Abakan,Ilyushin IL-76MD,19,4,23
+1996,ACES Colombia,Medellin,de Havilland Canada DHC-6 Twin Otter 300,13,2,14
+1996,Dirgantara Air Services,Banjarmasin,CASA 212 Aviocar 100,15,2,16
+1996,Emery Worldwide,Boise,Douglas C-47A,0,2,2
+1996,Russian Air Force,Tver,Antonov AN-12,11,7,18
+1996,SELVA,Rio Negro,Antonov An-32B,1,3,4
+1996,Airborne Express,Narrows,McDonnell Douglas DC-8-63F,3,3,6
+1996,Indian Air Force,Nellore,Hindustan Aeronautics 748-2,17,5,22
+1996,Aircraft Charter Group Inc,Dorchester,Learjet 35A,0,2,2
+1997,Polynesian Airlines,Moamoa,de Havilland Canada DHC-6 Twin Otter 300,3,2,3
+1997,Comair,Monroe,Embraer 120RT Brasilia,26,3,29
+1997,Southcentral Air,Sparrevohn,de Havilland Canada DHC-4A Caribou,0,2,1
+1997,Skypower Express Airways,Yola,Embraer 110P1A Bandeirante,13,3,5
+1997,Air Senegal,Tambacoumba,Hawker Siddeley HS-748-353 Srs.2a,49,3,25
+1997,Force Area Populaire de Angola,Quiangala,CASA 212 Aviocar 200,33,4,37
+1997,Israel Air Force,Northern Israel,Sikorsky CH53D,0,73,73
+1997,Varig,Carajas,Boeing B-737-2C3,46,6,1
+1997,Transpolar,Guatemala City,IAI 1124 Westwind,4,1,5
+1997,ALADA,Lucapa,Antonov AN-12B,12,4,16
+1997,Iranian Air Force,Mashhad,Lockheed C-130HF,80,8,88
+1997,Stavropol Airlines,Cherkessk,Antonov AN-24RV,44,6,50
+1997,U.S. Air Force,Tegucigalpa,Lockheed C-130H Hercules,0,3,3
+1997,Custom Air Service,Griffin,Aviation Traders ATL-98 Carvair,0,2,2
+1997,Hageland Aviation Services,Wainwright,Cessna 208B Caravan I,4,1,5
+1997,TAAG Angola Airlines,Brazzaville,Fokker F-27 Friendship 600,4,3,3
+1997,Azerbaijan Airlines,Gyandzha,Yakovlev 40,0,6,6
+1997,Niger Air Force,Sorei,Lockheed C-130H Hercules,0,14,14
+1997,Merpati Nusantara Airlines,Tanjung Pandan,British Aerospace ATP,48,5,15
+1997,Afghan Republican Air Force,Konduz,Antonov AN-26,0,36,36
+1997,China Southern Airlines,Huangtian,Boeing B-737-31B,65,9,35
+1997,Bazair,Irumu,Vickers Viscount 781D,20,7,27
+1997,MIAT - Mongolian Airlines,Mandalgobi,Harbin Yunshuji Y-12 II,10,2,7
+1997,Elbee Airlines,Madh Island,Fokker F-27 Friendship 200,0,2,2
+1997,Colombian Army,Saravena,Mil Mi-17,25,4,25
+1997,TAM,Suzano,Fokker 100,55,5,1
+1997,Cubana de Aviacion,Santiago de Cuba,Antonov AN-24,39,5,44
+1997,Sempati Air,Bandung,Fokker F-27 Friendship 600,45,5,30
+1997,Goroka Air Services,Goroka,de Havilland Canada DHC-6 Twin Otter 300,3,1,2
+1997,ADC Airlines,Calabar,BAC One-Eleven 203AE,49,6,1
+1997,Air Littoral,Florence,Aerospatiale ATR-42-512,14,3,1
+1997,Korean Airlines,Agana,Boeing B-747-300,231,23,228
+1997,Fine Air,Miami,McDonnell Douglas DC-8-61F,1,3,4
+1997,Formosa Airlines,Matsu Island,Dornier DO-228-212,14,2,16
+1997,SATENA,Puerto Inirida,Pilatus PC-6 Turbo Porter,10,2,12
+1997,Vietnam Airlines,Phnom Penh,Tupolev TU-134,60,6,65
+1997,Borneo Airways,Miri,Dornier 228-212,8,2,10
+1997,TMK Air Commuter,Uvira,de Havilland Canada DHC-6 Twin Otter 300,21,1,22
+1997,Luftwaffe,Namibia,Tupolev TU-154M,23,10,33
+1997,Garuda Indonesia Airlines,Buah Nabar,Airbus A300-B4-200,222,12,234
+1997,Scenic Airlines,Montrose,Cessna 208B Caravan I,8,1,9
+1997,Austral Lineas Aeras,Nuevo Berlin,McDonnell Douglas DC-9-32,69,5,74
+1997,Republic of China Air Force,Taipei,Lockheed C-130H Hercules,0,5,5
+1997,Private,Monterey Bay,Rutan Long EZ,0,1,1
+1997,Ariana Afghan Airlines,Jalal-Abad,Yakovlev YAK-40,20,6,2
+1997,Hageland Aviation Services,Barrow,Cessna 208B Caravan I,7,1,8
+1997,Russian Air Force,Irkutsk-2,Antonov AN-124-100,17,6,23
+1997,Sowind Air,Little Grand Rapids,Embraer 110P1 Bandeirante,15,2,4
+1997,STAP,La Veriente,Swearingen SA-226T Metro II,17,2,10
+1997,Tajikistan Airlines,Sharjah,Tupolev TU-154,77,9,85
+1997,Aerosweet Airlines,Fotina,Yakovlev YAK-42,62,8,70
+1997,SilkAir,Palembang,Boeing B-737-300,97,7,104
+1997,Greek Air Force,Tanagra,Lockheed C-130H Hercules,0,5,5
+1997,Renan Airways,Angola,Antonov An-72,0,5,5
+1997,United Air Lines,Over the Pacific Ocean,Boeing B-747-122,374,19,1
+1997,Parsa,Rio Sidra,Britten Norman BN-2A Trislander,9,1,10
+1998,Ariana Afghan Airlines,Tor Kach,Antonov AN-12BP,45,6,51
+1998,Aeroservice International,Brno,Let 410UVP,0,2,2
+1998,Myanmar Airways,Yangon,Fokker F-27 Friendship 600,41,4,16
+1998,Cebu Pacific Air,Cagyan de Oro,McDonnell Douglas DC-9-32,99,5,104
+1998,U.S. Marine Corps,Cavalese,Grummand EA-6B,0,2,0
+1998,Air Luxor,Terceira,Antonov 12BP,0,7,7
+1998,Spanish Air Force,Navafria,CASA 212-S1 Aviocar 100,0,5,5
+1998,Sudan Air Force,Nasir,Antonov AN-32,50,7,27
+1998,China Airlines,Taipei,Airbus A300-622R,182,14,196
+1998,Air Memphis,Mombasa,Boeing 707-336C,0,6,6
+1998,Formosa Airlines,Hsinchu,Saab340B,8,5,13
+1998,Ariana Afghan Airlines,Charasyab,Boeing B-727-228,32,13,45
+1998,Philippine Air Lines,Bacolod,Airbus A.320-214,121,6,0
+1998,Fuerza Aérea del Peru,Piura,Antonov AN-32,50,5,22
+1998,Linea Aérea Mexicana de Carga,Mexico City,Convair CV-240-53,0,4,2
+1998,Air France,Bogota,Boeing B-727-230,43,10,53
+1998,Fuerza Aérea del Peru,Andoas,Boeing B-737-282,81,7,75
+1998,Mauritanian Air Force,Nema,Xian Yunshuji Y-7-100C,35,7,39
+1998,Air Taxi - USs Inc.,Indian Trail,Bell 206L-3,4,1,5
+1998,Lao People's Liberation Army Air Force,Longtiang,Yakovlev YAK-40,20,6,26
+1998,MIAT - Mongolian Airlines,Erdenet,Harbin Yunshuji Y-12 II,26,2,28
+1998,Propair,Montreal,Swearingen SA-226TC Metroliner II,9,2,11
+1998,Air Taxi - Ohana Tours,Mt. Waialeale,Eurocopter AS-350-BA,4,2,6
+1998,ATI Aircompany,Rasal,Ilyushin 76MD,0,8,8
+1998,Alas del Sur,Córdoba,Rockwell Sabreliner 60,1,2,3
+1998,Ukraine Aviation Transport Company,Asmara,Ilyushin II-76,1,9,10
+1998,Mexican Air Force,Pico de Orizaba,Shorts SC-7 Skyvan 3-100,0,4,4
+1998,Plane Sailing,Southhampton,Consolidated PBY-5A Catalina,14,4,4
+1998,Swifair,Barcelona,Swearingen SA.227AC Metro III,0,2,2
+1998,Selva Taxi Aero,Manacapuru River,Embraer 110 Bandeirante,22,2,5
+1998,Alliance Airlines,Kochi,Dornier 228-201,3,3,6
+1998,Proteus Air,Quiberon,Beechcraft 1900D,12,3,15
+1998,Harbour Air Seaplanes Ltd.,Kincolith,de Havilland Dash-2 Beaver,4,1,5
+1998,Alada,Saurimo,Antonov An-12BP,6,7,1
+1998,Vincent Aviation,Foveaux Strait,Cessna 402C,9,1,5
+1998,Lumbini Airways,Ghorepani,de Havilland Canada DHC-6 Twin Otter 300,15,3,18
+1998,Speed Service Couriers,Pretoria,DC-3-65TP,0,2,1
+1998,Myanmar Airways,Manibagi,Fokker F-27 Friendship 600,40,4,44
+1998,Cubana de Aviacion,Quito,Tupolev TU-154M,77,14,70
+1998,Permaviatrans,Angola,Antonov AN-26,20,4,24
+1998,Swissair,Peggy's Cove,McDonnell Douglas MD-11,215,14,229
+1998,Rusts Flying Service Inc.,Port Alsworth,de Havilland Dash-2 float plane,4,1,5
+1998,Pakistan Air Force,Islamabad,Lockheed C-130B Hercules,0,5,5
+1998,Paukn Air,Nador,British Aerospace BAe-146-100,34,4,38
+1998,Cabo Verde Airlines,Praia,de Havilland Canada DHC-6 Twin Otter 300,20,2,1
+1998,Lionair,Mannar,Antonov AN-24RV,48,7,55
+1998,Servivensa,Canaima,Douglas DC-3C,24,3,1
+1998,Congo Airline,Kindu,Boeing B-727-30,38,3,41
+1998,Ararat Avia,Yerevan,Yakovlev YAK-40,33,4,0
+1998,TanaMana Aviation,Rwenzori mountains,Britten-Norman BN-2A-3 Islander,10,1,4
+1998,Living Water Teaching Ministries Charter,Quetzaltenango,Douglas DC-3C,16,2,11
+1998,Sakha Airlines,Krasnoyarsk,Antonov AN-12,7,6,13
+1998,Private,Edgewater,Burgess RV-6 experimental,0,1,1
+1998,Air Satellite,Baie-Comeau,Britten-Norman Trislander,8,2,7
+1998,Thai Airways,Surat Thani,Airbus A-310-204,132,14,102
+1998,Khors Aircompany,Cuito,Antonov AN-12BP,6,5,11
+1998,Zanex,Saurimo,Antonov 12,2,8,1
+1998,SELVA,Medellín,Antonov 32B,2,3,5
+1998,Transafrik,Vila Nova,Lockheed Martin L-100-30 Hercules,10,4,14
+1999,Transafrik - United Nations Charter,Huambo,Lockheed L-100-30 Hercules,5,4,9
+1999,Channel Express,Guernsey,Fokker F-27 Friendship 600,0,2,2
+1999,Kelowna Flightcraft Air Charter,Mayne Island,Douglas DC-3C,0,2,2
+1999,German Air National Guard,Geilenkirchen,Boeing KC-135E,0,4,4
+1999,Uzu Air,Coconut Island,Britten Norman BN-2A-26,3,1,3
+1999,Fuerza Aérea Nicaragua,Bluefields,Antonov AN-26,21,7,28
+1999,Savannair,Luanda,Antonov AN-12,10,4,14
+1999,Airlink,Hoskins,Britten Norman BN-2A Trislander,10,1,11
+1999,Air Karibu,Kinshasa,Lockheed L-188A Electra,0,7,7
+1999,China Southwest Airlines,Rui'an,Tupolev TU-154,50,11,61
+1999,Minerva Airlines,Genoa,Dornier 328-110,27,4,4
+1999,Indian Air Force,New Delhi,Antonov AN-32 Transport,15,4,19
+1999,ALIANSA Colombia,Tame,Douglas DC-3C,5,3,8
+1999,Provincial Airlines,Davis Inlet,de Havilland Canada DHC-6 Twin Otter 300,0,2,1
+1999,Turkish Airlines,Ceyhan,Boeing 737-4Q8,0,6,6
+1999,Manacá Táxi Aéreo,Ribeirao Preto,Learjet 24D,0,5,5
+1999,Aerotaca,Malaga,de Havilland Canada DHC-6 Twin Otter 300,3,2,5
+1999,Korean Air,Shanghi,McDonnell Douglas MD-11,0,3,3
+1999,Vanair,Port Vila,de Havilland Canada DHC-6 Twin Otter 300,11,1,7
+1999,Malaysian Air Force,Kuching,de Havilland Canada DHC-4A,0,5,5
+1999,Malindi Air Services,Ol Kiombo,Let 410UVP-E,0,2,2
+1999,American Airlines,Little Rock,McDonnell Douglas MD-82,139,6,11
+1999,Sudan Air Force,Khartoum,Antonov 32,44,6,50
+1999,Pacific Airways,Coron,Britten-Norman BN-2A-21 Islander,0,1,1
+1999,Air Taxi - Coastals Inc.,Juneau,Eurocopter AS-350BA,6,1,7
+1999,Airlink,Goroka,Embraer 110P2 Bandeirante,15,2,17
+1999,Blue Water Aviation Services,Long Haul Lake,de Havilland Canada DHC-3 Otter,0,2,1
+1999,Savanair,Luzamba,Antonov 12B,0,5,1
+1999,Myanmar Airways,Sittwe,Fokker F-27 Friendship 600,4,4,8
+1999,LANC Colombia,Villavicencio,Douglas DC-6A,12,6,5
+1999,Lufthansa Cargo Airlines,Kathmandu,Boeing 727-243F,0,5,5
+1999,Aero Jet Express,Toluca,Hawker Siddeley HS-125,2,2,4
+1999,Private,Martha's Vineyard,Piper PA-32-R301 Saratoga II HP,2,1,3
+1999,All Nippon Airways,Tokyo,Boeing B-747,503,14,1
+1999,U.S. Army,Orito,de Havilland Canada DHC-7-102,0,7,7
+1999,Air Fiji,Nasevou Village,Embraer 110P1 Bandeirante,15,2,17
+1999,TACV-Cabo Verde Airlines,Santo Antao,Dornier 228-201,16,2,18
+1999,China Airlines,Hong Kong,McDonnell Douglas MD-11,300,15,3
+1999,Uni Air,Hualian,McDonnell Douglas MD-90-30,90,6,1
+1999,Uzbekistan Airways,Turtkul,Yakovlev YAK-40,29,4,2
+1999,LAPA,Buenos Aires,Boeing B-737-204C,98,5,63
+1999,Necon Air,Kathmandu,Hawker Siddeley HS-748-501 Super 2B,10,5,15
+1999,Greek Government,Bucharest,Dassault Falcon 900B,10,3,7
+1999,Britannia Airways,Girona,Boeing 757-204,236,9,2
+1999,Norte Jet Táxi Aéreo,Belelm,Embraer 110 Bandeirante,0,2,1
+1999,Mexican Air Force,Mt. Hidalgo,Lockheed C-130A Hercules,0,5,5
+1999,Aramco Associated Company,Dhahran,Bell 214ST,18,2,12
+1999,Venezuelan Army,San Carlos,Arava 201,3,3,6
+1999,Private charter,Aberdeen,Gates Learjet 35,4,2,6
+1999,EgyptAir,Nantucket Island,Boeing B-767-366ER,202,15,217
+1999,TAESA,Uruapan,McDonnell Douglas DC-9-31,13,5,18
+1999,Si Fly - U.N. charter,Pristina,Aerospatiale Alenia ATR-42,21,3,24
+1999,Tashkent Aircraft Production Corporation,Moscow,Ilyushin 114T,0,7,5
+1999,Asian Spirit,Bayombang,Let 410UVP,15,2,17
+1999,U.S. Air Force,Kuwait City,Lockheed C-130H,86,8,3
+1999,SATA,Sao Jorge,British Aerospace APT,31,4,35
+1999,Cubana de Aviacon,Guatemala City,McDonnell Douglas DC-10-30,296,18,16
+1999,Korean Air,Great Hallingbury,Boeing 747-2B5F,0,4,4
+1999,Indian Airlines,Amritsar,Airbus A300B2-101,174,15,1
+1999,Skyline Airways,Simara,de Havilland Canada DHC-6 Twin Otter,7,3,10
+1999,Cubana de Aviacion,Bejuma,Yakovlev YAK-42D,12,10,22
+1999,Ecuato Guineana de Aviacion,Zonguldak,Antonov 28,4,2,6
+2000,Skypower Express Airways,Abuja,Embraer 110P1A Bandeirante,13,3,1
+2000,Crossair,Niederhasli,Saab 340B,7,3,10
+2000,Avisto,Marsa el-Brega,Shorts 360-300,38,3,22
+2000,TACA,San Jose,Let 410UVP-E,17,3,5
+2000,Kenya Airways,Abidjan,AirbusA310-304,169,10,169
+2000,Alaska Airlines,Point Mugu,McDonnell Douglas MD-83,83,5,88
+2000,Islamic Republic of Iran Air Force,Tehran,Lockheed C-130 Hercules,0,8,8
+2000,Emery Worldwide,Sacramento,McDonnell Douglas DC-8-71F,0,3,3
+2000,Southwest Airlines,Burbank,Boeing B-737-3T5,137,5,0
+2000,Vologodskiye Airlines,Moscow,Yakovlev YAK-40,4,5,9
+2000,Points North Air Services,Ennadai Lake,Douglas C-47A-5-DK,0,2,2
+2000,Aeroperlas,Kuna Yala,de Havilland Canada DHC-6 Twin Otter 300,8,2,10
+2000,Ejército del Aire,Herreira,CASA 212-DE Aviocar 200,0,7,7
+2000,Sky Cabs,Kadirana,Antonov AN-12,0,8,6
+2000,Uralex,Huambo,Antonov AN-32,29,4,3
+2000,Sri Lankan Air Force,Anuradhapura,Antonov An-26,36,4,40
+2000,Bankair,Marianna,Learjet 35A,0,3,3
+2000,Air Philippines,Samal Island,Boeing B-737-2H4,124,7,131
+2000,Centrafricain Airlines,Pepa,Antonov AN-8,20,4,24
+2000,North Coast Aviation,Bapi,Britten-Norman BN-2A-20 Islander,1,3,4
+2000,Northern Executive Aviation,Lyon Satolas,Learjet 35A,3,2,2
+2000,Trans Guyana Airways,Kurupung,Britten-Norman BN-2A-9 Islander,0,1,1
+2000,Price Aircraft Company,Kaunakakai,Rockwell Sabreliner 65,4,2,6
+2000,Avirex,Moanda,Beechcraft 1900C-1,8,2,3
+2000,Executive Airlines,Wilkes-Barre,BAe Jetstream 3101-31,17,2,19
+2000,Philippine Air Lines,Manila,Airbus A.330-301,284,14,1
+2000,Whyalla Airlines,Whyalla,Piper PA-31-350 Navajo,1,7,8
+2000,Ghana Airlink,Accra,Fokker F-27 Friendship 600,48,4,7
+2000,Wuhan Airlines,Shitai,Xian Yunshuji Y-7-100C,40,4,44
+2000,Universal Jet Aviation,Boca Raton,Learjet 55,1,2,3
+2000,Japanese Air Self-Defence Force,Shimano,Kawasaki C-1A,0,5,5
+2000,Philippine Air Force,Cagayancillo,GAF Nomad N-22C,11,4,14
+2000,Aerocaribe,Villahermosa,British Aerospace BAe Jetstream 32EP,17,2,19
+2000,CORAL Colombia,Villavicencio,Curtiss C-46A-60-CS,15,4,13
+2000,Win Win Aviation,Raleigh,de Havilland Canada DHC-6 Twin Otter 200,2,1,1
+2000,Indian Airlines,Patna,Boeing B-737-2A8 Advanced,52,6,55
+2000,Airwave Transport,Linneus,Grumman G-159 Gulfstream I,0,2,2
+2000,Allied Air Freight,Nassau,Douglas C-47A-10-DK,0,2,2
+2000,Blue Hawaiians,Maui,Aerospatiale AS355-F1,6,1,7
+2000,Air France,Gonesse,Aerospatiale BAe Concorde 101,100,9,109
+2000,Royal Jordanian Air Force,Mafraq,Lockheed C-130H Hercules,0,13,13
+2000,Royal Nepal Airlines,Jodhura,de Havilland Canada DHC-6 Twin Otter 300,22,3,25
+2000,Air taxi - Lider Air Taxi,Cubatao,Sikorsky S-76,5,1,6
+2000,Fuerza Aérea de Chile,Puerto Montt,Casa 212-AB10 Aviocar,10,4,14
+2000,Patuxent Airways,Burlington Township,Piper Navajo PA-31,8,3,11
+2000,Staer Air,Tshikapa,Antonov AN-26B,21,6,27
+2000,Gulf Air,Manama,Airbus A320-212,135,8,143
+2000,Fuerza Aérea Colombiana,Mount Montezuma,Douglas C-47,0,7,7
+2000,Charter - Central Air,Burketown,Beechcraft SKA 200,7,1,8
+2000,Sri Lanka Air Force,Kumarapura,Mil Mi-17,12,2,14
+2000,Aeromexico,Reynosa,McDonnell Douglas DC-9-31,83,5,0
+2000,Summit Air Charters,Port Radium,Shorts SC.7 Skyvan 3-100,1,2,3
+2000,Bombardier Aerospace,Wichita,Canadair CL-600-2B16 Challenger 604,0,3,2
+2000,Private,Hillsboro,Cessna 335,2,1,3
+2000,Lao Aviation,Sam Neua,Harbin Yunshuji Y-12-II,15,2,8
+2000,Russian Air Force,Batumi,Ilyushin IL-18D,75,11,86
+2000,Singapore Airlines,Taipei,Boeing B-747-412,159,20,83
+2000,Aca-Ancargo,Monaquimbundo,Antonov AN-26,39,5,44
+2000,Malu Aviation,Luabo,Antonov 32B,5,6,2
+2000,Superior Aviation,Fort Wayne,Swearingen SA.226TC Metro II,0,1,1
+2000,Asa Pesada,Luanda,Antonov AN-26,52,5,57
+2000,American Airlines,Miami,Airbus A300-600R,105,9,1
+2000,Servicio Aereo Manchupo,Sumacal,Cessna 206,5,1,6
+2001,People's Liberation Army,Zheng Zou AB,Shaanxi Yunshuji,0,16,16
+2001,Tentara Nasional Indonesia Navy,Silimo,CASA 212-MP Aviocar 200,0,9,9
+2001,Majestic Air Cargo,Eider Point,Douglas C-47A-30-DK,0,2,2
+2001,Rutaca Airlines,Ciudad Bolivar,Douglas DC-3C,20,4,24
+2001,North Bay Charter,Byers,Beech King Air 200 Catpass,8,2,10
+2001,Lineas Aereas Suramericanas,El Yopal,Sud Aviation SE-210 Caravelle 10R,3,3,3
+2001,Northern Illinois Flight Center,Beaver Island,Swearingen SA.227AT Merlin IVC,4,2,3
+2001,E.A.S. Aeroservizi,Nurnberg,Learjet 35A,1,2,2
+2001,Gum Air Charter,Jakobkondre,GAF Nomad N24A,9,1,10
+2001,Loganair,Granton Harbour,Shorts 360-100,0,2,2
+2001,Thai Airways,Bangkok,Boeing B-737-4D7,0,5,1
+2001,Florida Army National Guard,Unadilla,Short 360,18,3,21
+2001,Vnukovo Airlines,Medina,Tupolev 154M,162,12,3
+2001,Air Caraibes,Gustavia,de Havilland Canada DHC-6 Twin Otter,17,2,19
+2001,Merpati Nusantara Airlines,Jadura,Fokker F-27 Friendship 500F,0,3,3
+2001,Jetwingsco Inc. - Private Charter,Aspen,Grummand Gulfstream III,15,3,18
+2001,Sudan Air Force,Adar Yeil,Antonov AN-24,0,14,14
+2001,SFC Vietnam - Charter - Full Account,Thanh Tranh Village,Mil Mi-18,13,3,16
+2001,Private - Techint group,Roque Perez,Cessna 208B Grand Caravan,8,2,10
+2001,Turkish Air Force,Malatya,CASA CN-235M-10,28,6,34
+2001,Faraz Qeshm Airlines,Sari,Yakovlev YAK-40,25,5,30
+2001,Fuerza Aérea Argentina,Mendoza,Fokker F-27 Friendship 400M,0,5,5
+2001,Russian Air Force,Myakotino,Antonov 12MGA,0,7,7
+2001,Manunggal Air,Jayapura,Transall C-160NG,16,3,1
+2001,Vladivostokavia,Irkutsk,Tupolev TU-154M,136,9,145
+2001,Private - Daewoo Shipbuilding,Chinhae,Sikorsky S-76B,9,3,8
+2001,Private - Overtec Company,Puerto Cabello,Antonov AN-28 PZL-Mielec M-28 Sky Truck,10,3,13
+2001,Russ Air Transport Company,Moscow,Ilyushin IL-76,0,10,10
+2001,Naske Air,Reykjavík,Dassault Falcon 20C,1,2,3
+2001,Papillon Grand Canyons of Las Vegas,Meadview,Aerospatiale AS350 Eurocopter helicoper,6,1,6
+2001,Victoria Airlines,Mugogo,Antonov 28,9,2,4
+2001,Ameristar Jet Charter,Ithaca,Learjet 25,0,2,2
+2001,Air Transat,Lajes,Airbus A-330-243,291,13,0
+2001,Binter Mediterráneo,Malaga,CASA CN-235-200,44,3,4
+2001,American Airlines,Arlington,Boeing B-757-223,58,6,64
+2001,American Airlines,New York City,Boeing 767-223ER,81,11,92
+2001,United Air Lines,New York City,Boeing B-767-222,56,9,65
+2001,United Air Lines,Shanksville,Boeing B-757-222,37,7,44
+2001,Aero Ferinco Charter,Chichen Itza,LET 410UVP,17,2,19
+2001,TAM,Belo Horizonte,Fokker 100,77,5,1
+2001,Atlantic Airlines,Guatemala City,LET 410UVP-E,11,2,9
+2001,Sibir Airlines,Sochi,Tupolev Tu-154M,66,12,78
+2001,Scandinavian Airlines,Milan,MD-87,106,8,114
+2001,Air Saint Maurice Inc.,Mollet Lake,de Havilland DHC-2 Mk 1 Beaver,6,1,3
+2001,PenAir,Dillingham,Cessna 208 Caravan,9,1,10
+2001,Flightline,Valencia,Swearingen SA-226AT Merlin IV,8,2,10
+2001,Perimeter Airlines,Shamattawa,Swearingen SA.226TC Metro I,1,2,2
+2001,ERA Aviation - Air Taxi,Anchorage,Bell 206L,4,1,3
+2001,American Airlines,Belle Harbor,Airbus A-300-605R,251,9,260
+2001,Charter - IRS Aero,Kalyazin,Ilyushin 18V,18,9,27
+2001,Universal Jet Aviation,Pittsburgh,Learjet 25B,0,2,2
+2001,ELK Aviation Co.,Palade,Antonov AN-28,14,3,2
+2001,Crossair,Birchwil,BAE Avro RJ100,28,5,24
+2001,MK Airlines,Port Harcourt,Boeing 747-246F,0,13,1
+2001,Russian,Novaya Inya,Ilyushin IL- 76TD,9,9,18
+2001,Eagle Air,Geti,Let 410A,4,2,6
+2001,Heliandes,Medellin,Let 410UVP-E,14,2,16
+2001,BAL Bremerhaven Airline,Bremerhaven,Britten Norman BN-2B Trislander,8,1,8
+2002,Agco Corp,Birmingham,Canadair CL-604,3,2,5
+2002,U.S. Air Force,Shamsi AFB,Lockheed Hercules KC-130R,0,7,7
+2002,Ibertrans Aérea,Bilbao,Embraer EMB-120 Brasilia,0,3,3
+2002,Procuraduría General de la República,Chilpancingo,de Havilland DHC-6 Twin Otter 300,15,2,5
+2002,Garuda Indonesia Airlines,Solo,Boeing B-737-3Q8,54,8,1
+2002,Petroproducción,La Bonita,Fairchild FH-227E,21,5,26
+2002,Angolan Air Force,Luena,Antonov AN-12,34,6,5
+2002,TAME,Ipiales,Boeing B-727-134,83,9,92
+2002,Iran Air Tours,Khorramabed,Tupolev TU-154,108,9,117
+2002,Tiramavia,Monrovia,Antonov 12BP,3,7,1
+2002,Russian Navy,Lakhta,Antonov AN-26,12,8,17
+2002,U.S. Army,Dumaguete,MH-47 Chinook,4,6,10
+2002,Svedijos Prekés,Monte Rotondo,Antonov 2TP,1,2,3
+2002,Charter - Aerotaxi,Placetas,Antonov AN-2,15,2,17
+2002,Djibouti Airlines,Djibouti,Let 410UVP-E,0,4,4
+2002,Tadair,Palma de Mallorca,Swearingen SA.227AC Metro III,0,2,2
+2002,Air China,Busan,Boeing B-767-200ER,155,11,128
+2002,SELVA Colombia,Popayán,Antonov AN-32A,5,3,3
+2002,Private,Abakan,Mi-8,17,3,8
+2002,EAS Airlines,Kano,BAC One-Eleven 525FT,69,8,74
+2002,China Northern Airlines,Dalian,McDonnell Douglas MD-82,103,9,112
+2002,EgyptAir,Tunis,Boeing B-737-566,56,6,14
+2002,Sky Executive Air Services,Calabar,LET 410UVP,0,5,5
+2002,Trigana Air Service,Nabire,de Havilland Canada DHC-6 Twin Otter 300,2,4,6
+2002,China Airlines,Penghu Island,Boeing B-747-209B,206,19,225
+2002,Airquarius Aviation - Charter,George,Hawker Siddeley HS-748-372,1,2,3
+2002,Angolan Armed Forces,Ndalatando,Mi-17,23,2,20
+2002,U.S. Air Force,Gardez,Lockheed MC-130H Hercules,2,8,3
+2002,Bashkirian Airlines,Uberlingen,Tupolev TU-154M,57,14,71
+2002,Prestige Airlines Charter,Bangui,Boeing B-707-123B,19,8,27
+2002,Bristows,Cromer,Sikorsky S-76A,9,2,11
+2002,Sabang Merauke Raya Air Charter,Long Barai,Britten-Norman BN-2A Islander,8,2,10
+2002,Skyline Airways,Surkhet,de Havilland Canada DHC-6 Twin Otter 300,2,2,4
+2002,Ukraine Air Force,Lviv,Sukhoi Su-27,0,2,0
+2002,Pulkovo Aviation Enterprise,Moscow,Iluyshin Il-86,0,16,14
+2002,U.S. Air Force,Caguas,Lockheed MC-130H Hercules,3,7,10
+2002,Sri Lanka Air Force,Kadjuduwa Watta,Yunshuji Y-8D,0,5,5
+2002,Russian Air Force,Khankala,Mil Mi-26,142,5,121
+2002,Shangri La Air,Pokhara,de Havilland Canada DHC-6-300 Twin Otter,15,3,18
+2002,Vostok Aviakompania,Ayan,Antonov AN-28,14,2,16
+2002,Rico Taxi Aéreo,Rio Branco,Embraer 120ER Brasilia,28,3,23
+2002,Total Air Lines,Paranapanema,ATR 42-300,0,2,2
+2002,Deraps Aviation,Natashquan,de Havilland Canada DHC-3 Otter,3,1,3
+2002,Indian Navy,Vasco,Ilyushin IL-38,0,12,12
+2002,Luxair,Niederanven,Fokker 50,19,3,20
+2002,Dirgantara Air Services,Tarakan,Britten-Norman BN-2A-21,9,1,7
+2002,Richmor Aviation,Taos,IAI 1124A Westwind,0,2,2
+2002,Laoag International Airlines,Manila,Fokker F27 Friendship 100,29,5,19
+2002,Eagle Aviation,Masai Mara Game Reserve,Let 410UVP-E20,18,2,1
+2002,Island Airways Ltd.,Gohu Airstrip,Britten-Norman BN-2A-26 Islander,7,1,8
+2002,Planemasters,Rockford,Cessna 208B Caravan I Super Cargomaster,0,1,1
+2002,Transasia Airways,Pachao Tao,Aeritalia ATR-72-202,0,2,2
+2002,Aeromist-Kharkiv,Isfanan,Antonov AN-140,38,6,44
+2002,Brazilian Air Force,Curitiba,Embraer-110 C-95B Bandeirante,13,3,3
+2002,Ocean Airlines,Anjouan,Let 410UVP,14,2,1
+2003,Turkish Airlines,Diyarbakir,BAe Avro RJ-100,75,5,75
+2003,US Air Express,Charlotte,Beech BE-1900D,19,2,21
+2003,TANS Airlines,Chachapoyas,Fokker 28 Fellowship 1000,42,4,46
+2003,Aerocom,Ndjolé,Antonov 24B,5,2,7
+2003,African Commuter Services,Busia,Grumman G-159 Gulfstream I,11,2,3
+2003,Euro Asia Aviation,Baucau,Ilyushin II-76TD,2,4,6
+2003,Volare Aviation Enterprise,Agadir,Antonov 12BP,0,8,8
+2003,Enimex,Tallinn,Antonov AN-28,0,3,2
+2003,Air Taxi - Great Northern Aircraft Co.,Ferguson,Cessna 421,6,1,3
+2003,Islamic Revolution's Guards Corps,Shahdad,Ilyushin Il-76MD,257,18,275
+2003,Pakistan Air Force,Kohat,Fokker F-27 Friendship 200,9,8,17
+2003,Private - Kabanov - skydiving,Barki,Let L-410UVP,23,2,11
+2003,Air Algerie,Tamanrasset,Boeing B-737-2T4,97,6,102
+2003,PT Air Regional,Mulia,de Havilland Canada DHC-6 Twin Otter,14,2,4
+2003,Morris Hancock Flying Club - Charter,New Vienna,Beech A36,2,1,3
+2003,Ukrainian Cargo Airlines - Congolese Army Charter,Kinshasa,Illyushin 76,0,129,129
+2003,Ukranian-Mediterranean Airlines,Macka,Yakovlev 42D,62,13,75
+2003,McKinley Air Service - Air Taxi,Talkeetna,Cessna 185,3,1,4
+2003,Eurojet Italila,Milan,Gates Learjet 45,0,2,2
+2003,Air Taxi - Marco Zero Air Taxi,Oiapoque,EMB 721C Sertanejo,4,1,5
+2003,Charter - Air Adventures New Zealand Ltd,Christchurch,Piper PA-31-350 Navajo Chieftain,9,1,8
+2003,Astro Air Taxi,Belo Horizonte,Embraer 820C Navajo,2,2,4
+2003,Paradise Tours,Volcano,McDonnell Douglas 369D,3,1,4
+2003,Brit Air,Brest,Canadair CRJ-100ER,21,3,1
+2003,Hallo Bay Air - Air Taxi,Anchor Point,Cessna 180H,2,1,3
+2003,Islamic Republic of Iran Air Force,Rudshour,Lockheed C-130 Hercules,0,7,7
+2003,Comvac Aviation,Rooisand Desert Ranch,Cessna 208B Grand Caravan,3,1,4
+2003,Algerian Air Force,Blida,Lockheed C-130H Hercules,0,4,4
+2003,Heringer Air Taxi,Belem,Mitsubishi MU 2B 35,2,2,4
+2003,Brazilian Services,Macaé,Sikorsky S 76 A,3,2,5
+2003,Sudan Airways,Port Sudan,Boeing 737-2J8C,106,11,117
+2003,Ruiban & Duran Compania Aérea,San Cristobal,Let 410UVP-E,8,2,2
+2003,Air Sunshine,Treasure Cay,Cessna 402C,9,1,4
+2003,Ryan Blake Air Charter,Mount Kenya,Swearingen SA-226T Metro II,12,2,14
+2003,Jack Harters,Waialeale,Bell 206B,4,1,5
+2003,Jet Pro,Groton,Gates Learjet 35A,0,2,2
+2003,Servicios Aeronauticos Sucre,Tocomita,Cessna 208B Grand Caravan,14,2,1
+2003,Hageland Aviation Services Inc.,Barrow,Reims Aviation 406,1,1,2
+2003,Khalatyrka,Kamchatka Peninsula,Mi-8,19,1,20
+2003,Tropical Airways,Cap Haitien,Let 420UVP-E,19,2,21
+2003,US Airways Express,Hyannis,Beechcraft 1900D,0,2,2
+2003,Wasaya Airways,Summer Beaver,Cessna 208B Grand Caravan,7,1,8
+2003,Ameristar Jet Charter,Del Rio,Learjet 25B,0,2,1
+2003,Mexican Air Force,La Quemada,Lockheed C-130A Hercules,0,6,6
+2003,Sundances,Meadview,Aerospatiale AS350BA,6,1,7
+2003,Les Ailes de Gaspé Inc.,Gaspé,Piper PA31-310,2,1,3
+2003,Air Freight New Zealand,Waikanae,Convair CV-580F,0,2,2
+2003,Air taxi - Rumo Notre Air Taxi,Sao Gabriel de Cachoeria,EMB 721C Sertanejo,3,1,4
+2003,Transmandu,Uriman,Antonov AN-2TP,0,2,1
+2003,CATA Linea Aerea,Buenos Aires,Fairchild Hiller FH-227B,0,5,5
+2003,Aeroextra,Tampico,Hawker 800A,0,3,3
+2003,FedEx,Cody,Cessna 208B Caravan I Super Cargomaster,0,1,1
+2003,U.S. Army,Hasi,CH-47 Chinook,34,2,15
+2003,Heliwork WA Pty Ltd. - Air Taxi,Derby,Robertson R44,3,1,4
+2003,Trans Guyana Airways,Ogle,Shorts SC-7 Skyvan 3M Variant 100,4,3,2
+2003,U.S. Army,Mosul,UH-60 Black Hawk,18,4,17
+2003,Congolese Air Force,Boende,Antonov AN-26,18,6,20
+2003,Ameriflight,Spokane,Swearingen SA227AT Merlin IVC,0,1,1
+2003,Huron Air,Jellicoe,de Havilland DHC-3 Otter,2,1,2
+2003,Líneas Aéreas Suramericanas,Mitu,Douglas DC-9-15F,0,3,3
+2003,Pavair,Helendale,Gates Learjet 24B,0,2,2
+2003,Union des Transports Aeriens de Guinee,Cotonou,Boeing B-727-223,151,10,140
+2004,Flash Air,Sharm el Sheikh,Boeing B-737-3Q8,135,13,148
+2004,Uzbekistan Airways,Tashkent,Yakovlev YAK-40,32,5,37
+2004,Government of Macedonia,Bitonja,Beechcraft Super King Air 200,7,2,9
+2004,Kish Airlines,Sharjah,Fokker F-50,40,6,43
+2004,Azov Avia Airlines,Bakou,Ilyushin II-76,0,7,3
+2004,United States Air Force,Tonopah,Beechcraft 1900C,4,1,5
+2004,Air Ambulance - Med-Trans Corp.,Pyote,Bell 407,4,1,4
+2004,Procuradoria General de la Republica,Milpillas,Rockwell Gulfstream Jetprop 840,5,2,7
+2004,Aerotransportes Petroleros,Carepa,Swearingen SA227AC Metro III,5,2,3
+2004,Charter - Air Cush,Jiech,Let 410UVP,8,2,6
+2004,El Magal Aviation,Dalang,Antonov AN-12,0,7,7
+2004,Rico Linhas Aereas,Manaus,Embraer 120ER Brasilia,30,3,33
+2004,Aray-Avia,Bozoy,PZL-Mielec AN-2R,10,2,7
+2004,AZAL Cargo Company,Urumqi,Ilyushin II-76TD,0,7,1
+2004,Blue Bird Aviation,Mwingi,Let 410UVP,0,2,2
+2004,Yeti Airlines,Lukla,de Havilland DHC-6 Twin Otter 300,0,3,3
+2004,Gabon Express,Libreville,BAe HS-748-232 Srs 2A,26,4,19
+2004,United Nations - UTair Charter,Yengema,Mi-8MTV-1,21,3,24
+2004,Dodita Air Cargo,Beef Island,Convair CV-440,0,2,1
+2004,Brazilian Service Air Taxi,Macaé,Sikorsky S 76,9,2,6
+2004,Airlines of PNG,Ononge,de Havilland DHC-6 Twin Otter 300,0,3,2
+2004,Air Taroma,Cincinnati,Convair CV-580,0,2,1
+2004,Venezuelan Air Force,Maracay,Shorts 360,22,3,25
+2004,Sibir Airlines,Rostov-on-Don,Tupolev 154B-2,38,8,46
+2004,Volga-Avia Express,Toula,Tupolev 134A-3,34,7,41
+2004,Mavrik Aire Transport,Mc Grath,de Havilland DHC-3 Otter,2,1,1
+2004,Jett Paqueteria SA,Villahermosa,Rockwell CT-39A Sabreliner,0,2,2
+2004,Greek Army,Mount Athos,CH-47D Chinook,13,4,17
+2004,Air Flamence,Tortuguero lagoon,Pilatus-Britten Norman BN-2A-27 Islander,0,1,1
+2004,Sarit Airlines,Kaduqli,Antonov AN-12,0,4,4
+2004,MK Airlines,Halifax,Boeing 747-244B-SF,0,7,7
+2004,Pinnacle Airlines,Jefferson City,Canadair CRJ200LR RegionalJet,0,2,2
+2004,Aerovanguardia,Medellin,Douglas DC-3C,0,3,3
+2004,Pacific Air,Coron Island,Pilatus Britten-Norman BN-2A-21 Islander,0,2,2
+2004,Corporate Airlines,Kirksville,Bae Jetstream 3201,13,2,13
+2004,Med Flight Air Ambulance - Private,San Diego,Learjet 35A,4,1,5
+2004,Private - Hendrick Motorsports Inc.,Martinsville,Beech 200 Super King Air,8,2,10
+2004,Venezolana,Caracas,BAe 3101 Jetstream 31,19,2,3
+2004,China Eastern Airlines,Baotou,Bombardier CRJ200,47,6,53
+2004,Business Jet Services,Houston,Grumman Gulfstream G3,0,3,3
+2004,Presidental Airways Inc. - Air Taxi,Bagram,CASA 212-CC,3,3,6
+2004,Glow Air,Montrose,Canadair CL-601-2A12 Challenger,3,3,3
+2004,Lion Air,Solo,McDonnell-Douglas MD-82,156,7,25
+2004,Guardia Nacional de Venezuela,El Junquito,PZL-Mielec M28,13,3,16
+2004,Airline Transport,Jeddah,Ilyushin II-76TD,0,7,1
+2004,NHR Táxi-Aéreo,Uberaba,Embraer EMB-110 Bandeirante,0,2,2
+2005,AirNow,Keene,Embraer EMB-110 Bandeirante,0,1,1
+2005,Colombian government,Manguipayan,Black Hawk,18,2,20
+2005,Tura Air Enterprise,Tura,Antonov AN-2,7,2,9
+2005,U.S. Marines,Rutbah,CH53E Sea Stallion,29,2,31
+2005,Farnair Hungary,Lasi,Let 410UVP-E4,0,2,2
+2005,Royal Air Force,Al Taji,Lockheed Hercules C.1,8,2,10
+2005,Kam Air,Kabul,Boeing B-737-200,96,8,104
+2005,Air West,Khartoum,Ilyushin 76TD,0,7,7
+2005,Circuit City Stores - Charter,Pueblo,Cessna 560 Citation V,6,2,8
+2005,Missionary Aviation Fellowship,Bimin,de Havilland DHC-6 Twin Otter 300,10,3,2
+2005,Indonesian National Police,Sarmi,CASA 212 Aviocar,14,4,15
+2005,Air Global,Chrallave,Cessna 500 Citation I,0,2,2
+2005,Loganair,Campbeltown,Pilatus-Britten Norman BN-2B-26 Islander,1,1,2
+2005,Regional Airlines,Varandey,Antonov 24,45,7,28
+2005,Air Transport,Mwanza,Ilyushin IL-76TD,0,8,8
+2005,West Caribbean Airways,El Embrujo,Let-410UVP-E,12,2,8
+2005,U.S. Air Force,Rovie,Lockheed Hercules MC-130H,0,9,9
+2005,GT Air,Enarotali,de Havilland Canada DHC-6 Twin Otter 100,15,3,18
+2005,Saha Airline Services,Tehran,Boeing B-707-3J9C,157,12,3
+2005,Bulgarian,Baghdad,Mil Mi-8,0,11,11
+2005,Fuerza Del Peru,Pisco,Let 410UVP,11,2,13
+2005,Airwork NZ,Stratford,Swearingen SA.227AC Metro III,0,2,2
+2005,Kisangani Airlift,Kisangani,Antonov AN-26,7,4,10
+2005,Aero-Tropics,Lockhart River,Swearingen SA-227AC Metro III,13,2,15
+2005,Transportes Aereos Don Carlos - Charter,El Portezulo,Beech 65-A80 Queenaire,9,1,10
+2005,Zambia Air Force,Mongu,Yunshuji Y-12,8,5,13
+2005,Charter - Maniema Union,Walungu,Antonov AN-12BP,22,5,27
+2005,Marsland Aviation,Khartoom,Antonov AN-24B,36,6,7
+2005,Ecuatair,Baney,Antonov AN-24B,54,6,60
+2005,Air France,Toronto,Airbus A-340,297,12,0
+2005,Tuninter,Palermo,ATR-72-202,35,4,16
+2005,Copterline,Talinn,Sikorsky S-76C,12,2,14
+2005,Helios Airways,Grammatikos,Boeing 737-31S,115,6,121
+2005,West Caribbean Airways,La Cucharita,McDonnell Douglas MD-82,152,8,160
+2005,TANS Peru,Pucallpa,Boeing B-737-244,92,6,40
+2005,Kavatshi Airlines,Isiro,Antonov 26B,7,4,11
+2005,Mandala Airlines,Medan,Boeing 737-230,112,5,99
+2005,Air Kasai,Brazzaville,Antonov AN-26A,11,3,14
+2005,Wimbi Dira Airways,Aru,Antonov 12V,96,4,2
+2005,Bellview Airlines,Lisa,Boeing B-737-2L9,111,6,117
+2005,Islamic Republic of Iran Air Force,Tehran,Lockheed C-130B Hercules,84,10,94
+2005,Southwest Airlines,Chicago,Boeing B-737-7H4,98,5,0
+2005,Sosoliso Airlines,Port Harcourt,McDonnell DC-9-32,103,7,108
+2005,Chalk's Ocean Airways,Miami Beach,Grumman G73T Turbo Mallard,18,2,20
+2005,Azerbaijan Airlines,Nardaran,Antonov AN-140-100,18,5,23
+2006,Evolga,Karkov,British Aerospace BAe-125-700A,0,3,3
+2006,US Army,Tal Afar,UH-60L Black Hawk,0,12,12
+2006,Service Air,Bukalaza,Antonov 12,0,6,6
+2006,Iranian Revolutionary Guard Corps Air Force,Orumiyeh,Dassault Falcon 20,8,3,11
+2006,Slovak Air Force,Telkibanya,Antonov AN-24V,35,8,42
+2006,Air Cargo Carriers,Watertown,Shorts 360-100,1,2,3
+2006,TriCoastal Air,Paris,Swearingen SA.226TC Metro II,0,1,1
+2006,Team Air,Rio Bonito,Let L410UVP-E20,17,2,19
+2006,Kenya Air Force,Marsabit,Harbin Yunshuji Y-12-II,13,4,14
+2006,Lybian Arab Air Force,Kousséri,Antonov 74TK-200,0,6,6
+2006,U.S. Government,Lashkar Gah,Antonov AN-32B,12,4,2
+2006,Armavia,Adler,Airbus A320-211,105,8,113
+2006,Saskatchewan Government Northern Air Operations,La Ronge,Convair CV-580,0,3,1
+2006,Air São Tomé,São Tomé Island,de Havilland Canada DHC-6 Twin Otter 300,2,2,4
+2006,Chinese Air Force,Yaocun,KJ-2000,35,5,40
+2006,Chadian Air Force,Abéché,Lockheed C-130 Hercules,0,7,5
+2006,Yeti Airlines,Jumla,de Havilland Canada DHC-6 Twin Otter 300,6,3,9
+2006,Mango Airlines,Sake,Antonov AN-12B,2,3,5
+2006,Sibir,Irkutsk,Airbus A-310-324ET,195,8,125
+2006,Pakistan International Airlines,Multan,Fokker F-27 Friendship 200,41,4,45
+2006,Afghan Army,Afghanistan,Mil Mi-8,14,3,17
+2006,Tracep,Bukavu,Antonov AN-28,14,3,17
+2006,AirNow,Pownal,Embraer 110 Bandeirante,0,1,1
+2006,Air Algerie,Piacenza,Lockheed L-100-30 Hercules,0,3,3
+2006,Pulkovo Airlines,Donetsk,Tupolev Tu-154M,160,10,170
+2006,Comair,Lexington,Canadair CRJ-200ER,47,3,49
+2006,Iran Air Tours,Mahad,Tupolev Tu-154M,137,11,29
+2006,Royal Air Force,Kandahar,British Aerospace Nimrod MR-2,12,2,14
+2006,Russian Army,Vladikavkaz,Mi-8,12,3,12
+2006,Nigerian Air Force,Vandeikya,Dornier 228,15,3,13
+2006,Gol Airlines,Sao Felix do Araguaia,Boeing B-737-8EH,153,8,154
+2006,Atlantic Airways,Stord,BAe 146-200,12,4,4
+2006,Russian Air Force,Tashkent,Antonov An-2,13,2,15
+2006,ADC Airlines,Abuja,Boeing 737-2B7,100,5,96
+2006,Trigana Air Service,Puncak Jaya,de Havilland Canada DHC-6 Twin Otter 300,9,3,12
+2006,Aerosucre Colombia,Leticia,Boeing 727-23F,2,3,5
+2006,Iranian Revolutionary Guard Corps Air Force,Tehran,Antonov 74T-200,32,6,38
+2006,Air ambulance - Mercy Air Services,Cajon Pass,Bell 412,0,3,3
+2007,Adam Air,Parepare,Boeing B-737-4Q8,96,6,102
+2007,Moldovan Aeriantur-M Air Cargo,Balad Air Base,Antonov 26B-100,30,5,34
+2007,US Army,Baghdad,Sikorsky UH-60L Black Hawk,10,4,12
+2007,Regional Compagnie Aerienne Europeenne,Pau,Fokker 100,50,4,0
+2007,Garuda Indonesia Airlines,Yogyakarta,Boeing B-737-497,133,7,22
+2007,Heli-USA Airways,Princeville,Aerospatiale AS350BA Rotocraft,6,1,4
+2007,Inter-Island,Hanea,Mc Donnell Douglas 369FF Rotocraft,4,1,1
+2007,Bahia Taxi Aéreo Bahia Taxi Aéreo Bahia Taxi Aéreo,Fazenda Nossa Senhora de Lourdes,Rockwell 500S Shrike Commander,2,2,4
+2007,UTAir Airlines,Samara,Tuolev 134AK,50,7,6
+2007,Transaviaexport Airlines,Mogadishu,Ilushin Il-76TD,5,6,11
+2007,Air Services,Kopinang,Pilatus Britten Norman BN-2A-27 Islander,4,1,3
+2007,Russian,Shatoi,Mi 8,15,3,18
+2007,Kenya Airways,Dizangue,Boeing B-737-8AL,105,9,114
+2007,French Air Force,El-Thamad,de Havilland Canada DHC-6 Twin Otter,5,4,9
+2007,Safe Air Complany,Walikale Airstrip,Let 410UVP,1,2,3
+2007,Peruvian Air Force,Pampa Hermosa,de Havilland Canada DHC-6 Twin Otter 300,17,3,13
+2007,Paramount Airlilnes,Freetown,Mi-8,20,2,21
+2007,University of Michigan Health System,Milwaukee,Cessna 550 Citation II,4,2,6
+2007,Mongolian Defense Ministry,Selenge province,Mi-8,19,3,15
+2007,Karibu Airways,Kamina,Let 410UVP,22,3,1
+2007,PMT Air,Sihanoukville,Antonov AN-24V,16,6,22
+2007,TAAG Angola Airlines,M'Banza Congo,Boeing 737-2M2,69,9,5
+2007,Jett Paqueteria SA,Culiacan,North American CT-39A Sabreline,0,3,3
+2007,Liard Air,Muncho Lake,de Havilland DHC-6 Twim Otter 100,3,2,1
+2007,TAM,Sao Paulo,Airbus A-320-233,181,6,187
+2007,Djibouti Airlines,Shinile,Antonov AN-26V,3,6,1
+2007,Taquan Air Service,Rudyerd Bay,de Havilland DHC-2 MK.1 Beaver,4,1,5
+2007,Atran,Moscow,Antonov AN-12BP,0,9,9
+2007,Air Moorea,Moorea,de Havilland Canada DHC-6 Twin Otter 300,19,1,20
+2007,SeaWind Aviation,Ketchikan,de Havilland Canada DHC-2 Beaver,9,1,6
+2007,China Airlines,Okinawa,Boeing 737-809,157,8,0
+2007,Two Taxi Aero,Curitiba,Embraer EMB-110P1 Bandeirant,0,2,2
+2007,U.S. Army,Kirkuk,UH-60 Blackhawk helilcopter,12,2,14
+2007,Great Lakes Business Complany,Kongolo,Antonov AN-32,12,3,14
+2007,Galaxy Kavatsi Airlines,Goma,Antonov AN-12BP,6,2,8
+2007,One-Two-Go Airlines,Phuket,McDonnell Douglas MD-82,123,7,90
+2007,Karibu Airways,Malemba Nkulu,Let 410,5,1,1
+2007,Africa One Congo,Kinshasa,Antonov AN-26,17,5,21
+2007,Nacional de Aviacion,Cubarral,Let 410 UVP-E10A,15,2,17
+2007,Juba Air Cargo,Khartoum,Antonov 12,0,4,0
+2007,Atlasjet Airlines,Isparta,McDonnell Douglas MD-83,50,7,57
+2007,Evergreen Alaskas,Whittier,Eurocopter Deutschland BK117C1,3,1,4
+2007,Castle Aviation,Columbus,Cessna 208B Caravan I Super Cargomaster,1,1,2
+2008,Transaven,Los Roques,Let 410 UVP-E3,16,2,18
+2008,Macedonian Air Force,Blace,Mi-17,10,1,11
+2008,British Airways,London,Boeing 777-236ER,136,16,0
+2008,Polish Air Force,Miroslawiec,CASA C-295M,16,4,20
+2008,Dirgantara Air Service,Malinau,CASA NC-212-200,0,3,3
+2008,Santa Barbara Airlines,Merida,ATR-42-300,43,3,46
+2008,BHS - Brazilian Service Air Taxi,Macae,Eurocopter AS332L2 Super Puma,17,3,5
+2008,United Nations Mission,Bethani,Mi-17,7,3,10
+2008,Blue Wing Airlines,Lawa,Antonov An-28,17,2,19
+2008,Avtex Air Services,Bundeena,Swearingen SA227AC Metroliner III,0,1,1
+2008,Kata Transportation,Chrisinau,Antonov An-32,0,8,8
+2008,Hewa Bora Airways,Goma,McDonnell Douglas DC-9-51,86,8,3
+2008,Government of Equatorial Guinea,Annobon Island,Antonov An-32B,8,5,13
+2008,Naftogaz,Crimea,Mil Mi-8T,18,2,20
+2008,Chelan Air Service,Stehekin,de Havilland Canada DHC-2 Mark I Beaver,4,1,2
+2008,Island Express Service,Two Harbors,Eurocopter AS350D Astar,5,1,4
+2008,Moskovia Airlines,Chelyabinsk,Antonov An-12,0,9,9
+2008,Servicio Aereo Nacional,Panama City,Bell UN-1N Huey,9,3,11
+2008,TACA International Airlines,Tegucigalpa,Airbus A-320-233,131,5,3
+2008,PHI Air Medical,Huntsville,Bell 407,1,3,4
+2008,Sudan Airways,Khartoum,Airbus A-310-324,203,11,32
+2008,Wiggins Airways,Hyannis,de Havilland Canada DHC-6 Twin Otter 100,0,1,1
+2008,Thai Army,Bannang Sata,Bell UH-1N,8,2,10
+2008,Indonesian Air Force,Salak Mountain,CASA NC-212,13,5,18
+2008,Juba Air Cargo,Malakal,Antonov 12BK,6,2,7
+2008,Air Methods,Flagstaff,Bell 407,5,2,6
+2008,Ababeel Aviaition,Khartoum,Ilysushin Il-76TD,0,4,4
+2008,USA Jet Airlines,Saltillo,Douglas DC9-15F,0,2,1
+2008,Centurian Air Cargo,Bogota,Boeing B-747-209BSF,0,8,0
+2008,East Coast Jets,Owatonna,British Aerospace BAe-125-800A,6,2,8
+2008,Pacific Coastal Airlines,North Vancouver Island,Grumman G-21A Goose,6,1,5
+2008,Junction City Fire Department,Junction City,Sikorsky S-61N,11,2,9
+2008,Royal Thai Air Force,Sunat Tanon,Bell Huey UH-1H,8,2,10
+2008,Fly 540,K-50 Airport,Fokker F-27 Friendship 500,0,3,3
+2008,Spanair,Madrid,McDonnell Douglas MD-82,166,6,154
+2008,Itek Air,Bishkek,Boeing B-737-219,83,7,68
+2008,Conviasa,Toacaso,Boeing B-737-291,0,3,3
+2008,Air Tahoma,Columbus,Convair CV-580,0,3,3
+2008,Aerogulf,Dubai,Bell 212,5,2,7
+2008,Aeroflot,Perm,Boeing B-737-505,82,6,88
+2008,Global Executive Aviation,Columbia,Learjet 60,4,2,4
+2008,Maryland State Police,Camp Springs,Aerospatiale SA365N-1 Dauphin II,4,1,4
+2008,Yeti Airlines,Lukla,de Havilland Canada DHC-6 Twin Otter 300,16,3,18
+2008,Air Angles Inc.,Aurora,Bell 222,1,3,4
+2008,Falcon Aviation Group,Fallujah,Antonov An-12,0,7,7
+2008,Pacific Coastal Airlines,Thormanby Island,Grumman G-21A Goose,7,1,7
+2008,XL Airways leased from Air New Zealand,Perpignan,Airbus A320-232,0,7,7
+2008,Webstas Aviation Services Inc.,San Juan,Rockwell International 690B,2,1,3
+2008,Rotorcraft Leasing Co,Sabine Pass,Bell 206-L4 Jet Ranger III,3,2,3
+2008,Alantis Aviation,Turks and Caicos Islands,Britten Norman BN-2A Trislander Mk3,11,1,12
+2008,Continental Airlines,Denver,Boeing 737-500,110,5,0
+2009,Empire Airlines leased from FedEx,Lubock,ATR-42-320,0,2,2
+2009,Petroleums Inc,Houma Louisiana,Sikorsky S-76C++,7,2,8
+2009,Afghan Army,Adraskan district,Mil Mi-17,0,13,13
+2009,US Airways,New York,Airbus A320-214,150,5,0
+2009,Aerotaxi Manaus,Manacapuru,Bandeirante EMB-110P1,26,2,24
+2009,Continental Connection,Clarence Center,Bombardier DHC-8-402 Q400,44,5,49
+2009,Flight Service,Chanco,Bell UH-1H,12,1,13
+2009,Aerolift,Luxor,Antonov 12V,0,5,5
+2009,Turkish Airlines,Amsterdam,Boeing 737-8F2,127,7,9
+2009,Aerolift,Lake Victoria,Ilyushin Il-76T,7,4,11
+2009,Cougars,St. Johns,Sikorsky S-92A,16,2,17
+2009,Eagle Cap Leasing,Butte,Pilatus PC-12/45,13,1,14
+2009,FedEx,Tokyo,McDonnell Douglas MD-11,0,2,2
+2009,Bond Offshores,Crimond,Eurocopter AS 332L2 Super Puma 2,14,2,16
+2009,Indonesian Air Force,Bandung,Fokker F-27 Friendship 400M,18,6,24
+2009,Aviastar Mandiri,Wamena,British Aerospace BAe-146-300,0,6,6
+2009,Bako Air,Massamba,Boeing B-737-200,5,2,7
+2009,Venezuelan Army,El Alto de Rubio,Mi-35,16,2,18
+2009,Indonesian Air Force,Madiun,Lockheed C-130 Hercules,98,14,112
+2009,Service Air,Isiro,Antonov An-26,0,4,4
+2009,Air France,Natal,Airbus A330-203,216,12,228
+2009,Strait Air,Port Hope Simpson,Britten-Norman BN-2A-27 Islander,0,1,1
+2009,Indian Air Force,State of Arunachal Pradesh,Antonov An-32,6,7,13
+2009,Aviastar Mandiri,Wamena,de Havilland Canada DHC-6 Twin Otter 300,0,3,3
+2009,Yemenia Airway,Mitsamiouli,Airbus A310-324,142,11,152
+2009,Pakistan Army,Peshawar,Mil Mi-17,24,2,26
+2009,Caspian Airlines,Qazvin,Tupolev 154M,153,15,168
+2009,Vertical-T Air,Kandahar Airport,Mil Mi-8,0,16,16
+2009,Aria Airlines,Mashad,Ilyushin Il-62M,138,15,16
+2009,Merpati Nusantara Airlines,Ampisibil Village,de Havilland Canada DHC-6 Twin Otter 300,13,3,16
+2009,Bangkok Airlines,Koh Samui,ATR-72-212A,68,4,1
+2009,Liberty Sightseeing Tours,New York,Eurocopter AS-350BA,7,2,9
+2009,Airlines PNG,Port Moresby,de Havilland Canada DHC-6 Twin Otter 300,11,2,13
+2009,Aero Fret Business,Nganga Lingolo,Antonov An-12BK,2,5,7
+2009,Kazakhstan border guard service,Ugamsk Gorge,Mil Mi-8,0,10,10
+2009,SA Airlink,Merebank,British Aerospace Jetstream 41,0,3,1
+2009,Omniflights Inc.,Georgetown,Eurocopter AS350-B2,2,1,3
+2009,Victoria Air,Manila,Douglas DC-3C,0,4,4
+2009,Azzi,Sharjah,Boeing 707-330C,0,6,6
+2009,Divi Divi Air,Bonaire,Britten-Norman BN-2A-8 Island,9,1,1
+2009,Russian Ministry of Interior,Mirny,Ilyushin Il-76,0,11,11
+2009,Russian Navy,Mongokhto,Tupolev Tu-142M3,0,11,11
+2009,Rwandair,Kigali,Canadair CRJ-100ER,12,3,1
+2009,Mountain Lifeflight,Reno,Aerospatiale AS350,0,3,3
+2009,Avient Aviation,Shanghai,McDonnell Douglas MD-11F,0,7,3
+2009,Seair Seaplanes,Lyall Harbour,de Havilland Canada DHC-2 Beaver MK- 1,7,1,6
+2010,Alaska Central Express,Sand Point,Beechcraft 1900C-1,0,2,2
+2010,Ethiopian Airlines,Na'ameh,Boeing 737-8AS,82,8,90
+2010,Piquiatuba Taxi Aereo,Senador Jose Porfírio,Embraer EMB-110C Bandeirante,8,2,2
+2010,Philippine Air Force,Cotabato City,GAF N22B Nomad,6,2,8
+2010,Yemeni Arm,Saada,Helicopter,9,2,11
+2010,Kamchatka Airlines,Yelizovo,Mi-8,15,3,10
+2010,Polish Air Force,Smolensk,Tupolev 154M,88,8,96
+2010,Airborne Freight Company Union,Monterey,Airbus A300B4-203F,0,5,5
+2010,Interisland Airlines,Pampanga,Antonov An-12BP,0,6,3
+2010,Afriqiyah Airways,Tripoli,Airbus A330-202,93,11,103
+2010,Blue Wings Airlines,Poeketi,Antonv An-28,6,2,8
+2010,Pamir Airlines,Salang pass,Antonv An-24B,38,6,44
+2010,Air India Express,Mangalore,Boeing 737-8HG,160,6,159
+2010,Aero Service,Yangadou,CASA 212 Aviocar,9,2,11
+2010,Aéropro,Quebec,Beechcraft A100 King Air,5,2,7
+2010,Romainian Air Force,Tuzla,Antonov AN-2,10,4,12
+2010,Airblue,Islamabad,Airbus A321-231,146,6,152
+2010,US Air Force,Elmendorf AFB,McDonnell Douglas C-17A Globemaster III,0,4,4
+2010,All West Freight,Denali National Park,Fairchild C-123K,0,3,3
+2010,Katekavia Airline,Igarka,Antonov An-24 V,12,3,12
+2010,GCI Communications Corp.,Dillingham,de Havilland Canada DH-3T Otter,8,1,5
+2010,AIRES Colombia,San Andreas Island,Boeing B-737-73V,125,6,2
+2010,Branch River Air Service,Kaminshak Bay,de Havilland Canada DHC-2 Beaver,3,1,4
+2010,Agni Air,Bastipur,Dornier 228-101,11,3,14
+2010,Henan Airlines,Yichun,Embraer ERJ-190-100LR,91,5,44
+2010,Filair,Bandundu,Let 410UVP-E,17,3,19
+2010,Venezuelan National Guard,Buena Vista,Mi 17V-5,0,10,10
+2010,United Parcel Service- UPS,Dubai,Boeing B747-44AF,0,2,2
+2010,Sky Dive New Zealand,Fox Glacier Airstrip,Fletcher FU-24-954,8,1,9
+2010,Conviasa Airline,Puerto Ordaz,ATR 42-320,47,4,17
+2010,International Security Assistance Force,Chopan district,Sikorsky UH-60 Black Hawk,0,10,10
+2010,Tajik National Guard,Rasht Valley,Mi-8,0,28,28
+2010,National Air Cargo,Kabul,Lockheed L-100 Hercules,0,8,8
+2010,Tracep,Bugulumisa,Let 410UVP,0,2,2
+2010,Aerocaribbean,Guasimal,ATR-72-212,61,7,68
+2010,JS Air,Karachi,Beechcraft 1900C-1,17,4,21
+2010,NARZ,Strezhevoy,Mil Mi-8T,0,7,7
+2010,Sun Way,Karachi,Ilyushin Il-76TD,0,8,8
+2010,Dagestan Airlines,Moscow,Tupolev Tu-154M,160,9,2
+2010,Tara Air,Palunge Hill,de Havilland Canada DHC-6 Twin Otter,19,3,22
+2011,Kogalmavia,Surgut,Tupolev Tu-154B-2,116,8,3
+2011,Iran Air,Orumiyeh,Boeing B-727-286,93,12,77
+2011,Majuba Aviation,Plettenberg Bay,Pilatus PC-12/47,7,2,9
+2011,Manx2,Cork,Swearingen SA-227BC Metro III,10,2,6
+2011,Central American Airways,Santa Ana Francisco Morazan,Let L-410 UVPE-20,12,2,14
+2011,Trans Air Cargo,Pointe-Noire,Antonov 12BP,5,4,9
+2011,United Nations,Kinshasa,Canadair CL-600 CRJ-100ER,29,4,32
+2011,Pawan Hanss Ltd.,Tawang,Mil Mi-172,0,18,18
+2011,AmazonavesAir Taxi,Manaus,Piper EMB-810C Seneca,6,1,7
+2011,Merpati Nusantara Airlines,Kaimana,Xian MA-60,21,6,27
+2011,SOL Lineas Aereas,Prahuaniyeu,Saab 340A,19,3,22
+2011,RusAir Airlines,Petrozavodsk,Tupolev Tu-134,43,9,47
+2011,Silk Way Airlines,Bagram Air Base,Ilyushin76TD,0,9,9
+2011,Hewa Bora Airways,Kisangani,Boeing B-727-100,108,7,77
+2011,Angara Airlines,Strezhevoy,Antonov An-24RV,33,4,7
+2011,NOAR Linhas Aéreas,Recife,Let L-401UVP-20,14,2,16
+2011,Royal Moroccan Air Force,Guelmim,Lockheed C-130 Hercule,71,9,80
+2011,Asiana Airlines,Jeju,Boeing B-747-48EF,0,2,2
+2011,U.S. Army,Tangi Valley,Boeing CH-47 Chinook,0,38,38
+2011,Avis Amur,Omsukchan,Antonov 12,2,9,11
+2011,First Air,Resolute Bay,Boeing B-737-210C,11,4,12
+2011,LifeNet,Mosby,Eurocopter AS350B2,3,1,4
+2011,Chilean Air Force,Juan Fernandez Island,CASA C-212 Aviocar 300DF,17,4,21
+2011,Aerocon,Trinidad,Swearingen SA-227BC Metroliner III,7,2,8
+2011,YAK Service,Yaroslavl,Yakovlev 42D,37,8,44
+2011,FANA Forca Aerea Nacional Angolana,Huambo,Embraer 120ER Brasilia,34,2,30
+2011,Private - Aero Trans Corp,Reno,North American P-51D-15-NA Mustang,0,1,1
+2011,Arctic Sunwest Charters,Yellowknife,De Havilland Canada DHC-6-300 Twin Otter,7,2,2
+2011,Buddha Air,Kathmandu,Beechcraft 1900D,16,3,19
+2011,Nusantara Buana Air,Bohorok,CASA NC-212 Aviocar 200,14,4,18
+2011,Airline PNG,Madang,de Havilland Canada DHC-8-102,28,4,28
+2011,Northern Thunderbird Air Inc.,Vancouver,Beechcraft 100 King Air,7,2,1
+2011,Blue Hawaiian,Kilohana,Eurocopter EC-130 B4,4,1,5
+2011,Fuerza Aerea Mexicana,Santa Catarina Atoyzingo,Aerospatiale AS 332L1 Super Puma,7,1,8
+2011,Sundances Inc.,Henderson,Aerospatiale AS-350 B2 Ecureuil,4,1,5
+2012,TRACEP Congo Aviation,Namoya,Antonov AN-28,3,3,3
+2012,Jet One Express,San Juan,Convair CV-340,0,2,2
+2012,Turkish Army,Kabul,Sikorsky S-70A-28,0,12,12
+2012,UTAir,Tyumen,ATR 72-201,39,4,33
+2012,Bhoja Airlines,Islamabad,Boeing 737-236,121,6,127
+2012,Fuerza Aerea Colombiana,Sabanagrande,Bell 212,11,2,13
+2012,Sukhoi,Cidahu,Sukhoi Superjet 100-95,39,6,45
+2012,Agni Air,Jomsom,Dornier 228-212,18,3,15
+2012,Allied Air,Accra,Boeing B-727-200,0,4,0
+2012,Dana Air,Lagos,McDonnell Douglas MD-83,146,7,153
+2012,HeliCusco,Hualla Hualla,Sikorsly S-58ET,12,2,14
+2012,Illegal flight,Serov,Antonov An-2R,12,1,13
+2012,Indonesian Air Force,Jakarta,Fokker F-27 Friendship 400M,0,7,7
+2012,Aviatour's Fly'n Inc.,Masbate Island,PA-34-200 Seneca I,2,2,3
+2012,Alfa Airlines,Talodi,Antonov An-26-100,26,6,32
+2012,Petropavlovsk-Kamchatsky Air Enteprise,Palana,Antonov An-28,12,2,10
+2012,Sita Air,Kathmandu,Dornier 228-202,16,3,19
+2012,Fly Montserrat,Antigua,Britten-Norman BN-2A-26 Islander,3,1,3
+2012,Sudanese Air Force,Omdurman,Antonov An-12BP,16,6,15
+2012,Yemen Air Force,San'a,Antonov An-26,0,10,10
+2012,Aero Service,Brazzaville,Ilysushin Il-76T,0,7,7
+2012,South African Air Force,Ladysmith,Douglas C47-TP,5,6,11
+2012,Starwood Management LLC,Iturbide,Learjet 25,5,2,7
+2012,Air Bagan,Heho,Fokker 100,65,6,27
+2012,Kazakhstan Border Guards,Shymkent,Antonov AN-72-100D,20,7,1
+2012,Red Wings Airlines,Moscow,Tupolev TU-204-100V,0,8,5
+2013,Med-Trans Corporaion,Clear Lake,Bell 407,2,1,3
+2013,Transaereo 5074,Los Roques,Britten Norman BN-2A-27 Islander,5,1,6
+2013,SCAT Air,Kyzyltu,Canadair CRJ-200ER,16,5,21
+2013,South Airlines,Donetsk,Antonov AN-24RV,41,4,5
+2013,Compagnie Africaine d' Aviation,Goma,Fokker 50,4,6,7
+2013,Ace Air Cargo,Dillingham,Beechcraft 1900C,0,2,2
+2013,Lion Air,Denpasar,Boeing B-737-8GP,101,7,0
+2013,National Air Cargo,Bagram Air Base,Boeing B-747-428BCF,0,7,7
+2013,Ornge Air Ambulance,Moosonee,Sikorsky S-76,2,2,4
+2013,Indian Air Force,Gaurikund,MI 172 V5,15,5,20
+2013,Asiana Airlines,San Francisco,Boeing B-777-28EER,291,16,3
+2013,Rediske Air,Soldotna,de Havilland Canada DHC-3T,9,1,10
+2013,Ethiopian Air Force,Mogadishu,Antonov An-12,0,6,4
+2013,United Parcel Service,Birmingham,Airbus A300F-622R,0,2,2
+2013,Associated Aviation,Lagos,Embraer 120RT Brasilia,13,7,16
+2013,MASwings,Kudat,de Havilland Canada DHC-6 Twin Otter 310,14,2,2
+2013,Lao Airlines,Pakse,ATR-72-50,44,5,49
+2013,Aerocon,Riberalta,Swearingen SA227-AC Metro III,16,2,8
+2013,Indonesian Army,Pujungan,Mil- Mi-17B-5,13,8,13
+2013,Bearskin Airlines,Red Lake,Swearingen SA227-AC Metro II,5,2,5
+2013,Tararstan Airlilnes,Kazan,Boeing 737-53A,44,6,50
+2013,Bond Air Services Ltd.,Glasgow Scotland,Eurocopter EC135 T2,2,1,3
+2013,Mozambique Airline,Bwabwata National Park,Embraer ERJ-190AR,27,6,33
+2013,Heringer Taxi Aero,Cachimbo,Britten Norman BN-2A-3 Islander,3,2,5
+2013,IrAvia,Irkutsk,Antonov 12,3,6,9
+2014,Scoala Superioara de Aviatie Civla,Petreasa Romania,Britten Norman BN-2A-27 Islander,5,2,2
+2014,Algerian Air Force,Ain Kercha,Lockheed C-130H-30 Hercules,73,4,76
+2014,Nepal Airlines,Sandhikhark,de Havilland Canada DHC-6 Twin Otter 300,15,3,18
+2014,Libyan Air Cargo,Grombalia,Antonov 26,6,5,11
+2014,Malaysia Airlines,South Indian Ocean,Boeing 777-200,227,12,239
+2014,Helicopters Inc,Seattle,Urocopter AS350 B2,1,1,2
+2014,Lineas Aereas Comerciales,Ramos Arizpe,British Aerospace BAe 125-700A Hawker,6,2,8
+2014,Suomen Urheiluilmailijat,Jamijarvi,Aerocomp Comp Air 8,7,1,8
+2014,Alisansa Colombia,San Vicente del Caguan,Douglas DC-3C,0,6,6
+2014,Laos Air Force,Xiang Khouang province,Antonov 74TK-300,11,6,16
+2014,Ukraine Air Force,Lugansk,Ilyushin 76MD,40,9,49
+2014,Skyward International Aviation,Nairobi,Fokker 50,0,4,4
+2014,Vietnam People's Army Air Force,Thach That district,Mil Mi-171,21,2,18
+2014,Malaysia Airlines,Hrabove,Boeing 777-2H6ER,283,15,298
+2014,TransAsia Airways,Magong,ATR 72-500,54,4,48
+2014,Air Algerie,Aguelhok,Mc Donnell Douglas MD-83,110,6,116
+2014,Sepahan Airlines,Tehran,HESA Iran-140-100,40,8,39
+2014,Ukraine Air Alliance,Tamanraset,Antonov An-12BK,5,2,7
+2014,Safari Express Cargo,Mwanza,Fokker F-27 MK 500,1,2,3
+2014,Hevlift,Port Moresby,de Havilland Canada DHC-6 Twin Otter 300,7,2,4
+2014,Air Evac Lifeteam,Wichita Falls,Bell 206L,1,3,2
+2014,Air Sirin,Uvira,Antonov An-26,0,6,6
+2014,AirAsia,Java Sea,Airbus A-320-216,155,7,162
+2015,Syrian Air Force,Abu adh Dhuhur Air Base,Antonov An-26,35,2,37
+2015,Transasia,Taipei,ATR 72-600,53,5,43
+2015,Private,Villa Castelli,Both Eurocopter AS350B3,8,2,10
+2015,Germanwings,Digne-Les-Bains,Airbus A320-211,144,6,150
+2015,Promech Air,Ella Lake,de Havilland DHC-3T Vazar TurbineOtter,8,1,9
+2015,Indonesian Air Force,Medan,Lockheed C130-B Hercules,110,12,122
+2015,Colombia Air Force,Agustin Codazzi,CASA CN-235-100,0,11,11
+2015,Komala Air,Ninia,Pacific Aerospace,4,2,1
+2015,Trigana Air Service,Tangok mountain,ATR 42-300,49,5,54
+2015,Senegalair,Dakar,Hawker Siddeley HS-125,5,2,7
+2015,Rainbow King Lodge,Iliamna East Wind Lake,de Havilland Canada DHC 3T Turbine Otter,6,1,3
+2015,U.S. Army,Jalalabad,Lockheed C-130J Hercules,5,6,11
+2015,Avistar Mandari,Masamba,de Havilland DHC-6 Twin Otter,7,3,10
+2015,Trigana Air Service,Ilaga,de Havilland DCH-4T Caribou,0,4,4
+2015,Metrojet,Hasna,Airbus A321-231,217,7,224
+2015,Allied Services Limited,Juba,Antonov 12BK,38,5,41
+2015,Alpine Adventures,Fox Glacier,Aerospatiale AS 350B2 Ecureuil,6,1,7
+2015,Turuhan Avia,Igarka,Mil MI-8T,22,4,15
+2016,West Air Sweden,Akkajaure Lake,Canadair CRJ-200,0,2,2
+2016,Daallo Airlines,Mogadishu,Airbus A321-111,72,4,1
+2016,Tara Air,Dana,de Havilland DHC-6 Twin Otter 400,20,3,23
+2016,Kasthamandap Airlines,Kathmandu,PAC 750XL,9,2,2
+2016,True Aviation Ltd.,Cox's Bazar,Antonov AN-26,0,4,3
+2016,Ecuador Army,Fatima Pastaza,IAI Attava 201,19,3,22
+2016,Flydubai,Rostov-on-Don,Boeing 737-8KN,55,7,62
+2016,Marquise Aviation Corp.,Magdelen Islands,Mitsubishi MU-2B 60 Marquise,5,2,7
+2016,Smoky Mountains,Pigeon Forge,Bell 206L,4,1,5
+2016,Sunbird Aviation,Kiunga,Britten-Norman Islander,11,1,12
+2016,CHC Helikopter Service,Sorta,Eurocopter EC225LP Super Puma M2+,11,2,13
+2016,EgyptAir,Egypt,Airbus A320-232,56,10,66
+2016,Indian Air Force,Bengal,Antonov 32,23,6,29
+2016,Heart of Texas Hot Air Balloon Rides,Lockhart,Kubicek BB85Z Hot Air Balloon,15,1,16
+2016,Emirates,Dubai,Boeing 777-31H,282,18,0
+2016,Hageland Aviiation,Russian Mission,Cessna 208 Grand Caravan,4,1,5
+2016,AE Aviation,Malta International Airport,Swearingen SA277-AT Expditer,3,2,5
+2016,LAMIA Bolivia,La Union,Avro RJ-85,68,9,71
+2016,Indonesian Police,Tanjung Pinanga,M28 Skytruck,8,5,13
+2016,Pakistan International Airlines,Havlien,ATR-42-500,42,6,48
+2016,Indonesian Air Force,Wamena,Lockheed C-130H Hercules,10,3,13
+2016,Aerosucre Colombia,Puerto Carreno,Boeing 727-2JOF,0,6,5
+2016,Russian Air Force,Adar,Tupolev 154B-2,84,8,92
+2017,My Cargo Airlines,Bishkek,Boeing 747-412F,0,4,4
+2017,Australian Corporate Jet Centres PTY. LTD,Melbourne,Beechcraft B200 Super King Air,4,1,5
+2017,Swan Aviation,Istanbul,Sikorsky S-76C,5,2,7
+2017,ETA Air Charter,Mautaer,Britten-Norman BN2 Islander,4,2,6
+2017,Air Cargo Carriers,Charleston,Shorts 300-200,0,2,2
+2017,Summit Air,Tenzing,Let L-410UVP-E20,0,3,2
+2017,Myanmar Air Force,Dawei,Shaanxi Y-8F-200W,108,14,122
+2017,Angel Flight,Mount Gambier,Socata TB1-10 Tobago,2,1,3
+2017,USMC,Itta Bena,Lockheed KC-130T Hercules,14,2,16
+2017,Air Force of the Democratic Republic of the Congo,Kinshasa,Antonov An-12B,6,6,12
+2017,Guicango,Cuílo,Embraer EMB-120ER,4,3,7
+2017,Valan International Cargo Charter,Abidjan,Antonov AN-26-100,4,6,4
+2017,Costal Aviation,Empakaai,Cessna 208B Grand Caravan,10,1,11
+2017,West Wind Aviation,Fond-du-Lac,ATR42-320,22,3,1
+2017,Naure Air,Punta Islita,Cessna 208B Grand Caravan,10,2,12
+2018,People's Liberation Army Air Force,Zhengchang,Shaanxi Y-8GX-3,7,5,12
+2018,Papillon,Grand Canyon,Eurocopter EC 130B4,6,1,3
+2018,Saratov Airlines,Argunovo,Antonov AN-148-100,65,6,71
+2018,Iran Aseman Airlines,Kohangan village,ATR 72-212,60,6,66
+2018,Russian Air Force,Latakia,Antonov An-26,33,6,39
+2018,Mc Aviation,81 miles SW o fShahre Kurd,Canadair CL-600-2B16 Challenger 604,8,3,11
+2018,Libertys,New York,Eurocopter AS 350B2,5,1,5
+2018,US-Bangla Airlines,Kathmandu,de Havilland Canada DHC-8-402Q Dash 8,67,4,51
+2018,Algerian Air Force,Boufarik AB,Ilyushin 76-TD,247,10,257
+2018,Southwest Airlines,Philadelphia,Boeing 737-7H4,144,5,1
+2018,US Air Force,Port Wentworth,Lockheed HC-130H Hercules,0,9,9
+2018,Cubana,Havana,Boeing 737-201,107,6,112
+2018,Fly SAX,Njabini,Cessna 208B Grand Carivan,8,2,10
+2018,Rovos Air,Pretoria,Convair CV-340,16,3,1
+2018,Ju Air,Flims,Junkers JU-52,17,3,20
+2018,Russian Air Force,Latakia-Khmeimim Air Base,Ilyushin Il-20M,0,15,15
+2018,Air Niugini,Chuuk,Boeing 737-8BK,35,12,1
+2018,Lion Air,Jakarta,Boeing 737-MAX 8,181,8,189
+2018,Fly Jamaica Airways,Georgetown,Boeing 757-N23,120,8,1
+2019,Saha Air,Karaj,Boeing 707-3J9C,13,3,15
+2019,Atlas Air serving Amazon,Houston,Boeing 767-375ER,0,3,3
+2019,Laser Aereo Colombia,Vereda La Bendicion,Douglas DC-3,11,3,14
+2019,Ethiopian Airlines,Bishoftu,Boeing 737 Max 8,149,8,157
+2019,Archipelagos Service Aereos,Puerto Montt,Pilatus-Britten Norman BN-2B-27 Islander,5,1,6
+2019,TVPX Aircraft Solutions,Monclava,Canadair CL-600-2B16-Challenger,11,2,13
+2019,Aeroflot Russian International Airlines,Moscow,Sukhoi Superjet-100-95B,73,5,41
+2019,Indian Air Force,Lipo,Antonov An-32,5,8,13
+2019,Pakistan Army,Rawalpindi,Beechcraft B300 King Air,0,5,5
+2019,Private,Toledo,Convair CV-440F,0,2,2
+2019,Ukraine Air Alliance,Lviv,Antonov An-12BK,1,7,5
+2019,Busy Bee Congo,Goma,Dornier 228-201,17,2,19
+2019,Bek Air,Almaty,Fokker 100,95,3,12
+2020,Sudanese Air Force,Geneina,Antonov An12-A,9,9,18
+2020,Ukraine International Airlines,Shahriah,Boeing 737-8KV WL,167,9,176
+2020,Pegasus Airlines,Istanbul,Boeing 737-86J,171,6,3
+2020,Lion Air Inc.,Manila,IAI 1124A Westwind II,5,3,8
+2020,Pakistan International Airline,Karachi,Airbus A320-214,91,8,97
+2020,Air India Exppress,Calicut,Boeing 737-8HG,184,6,20
+2020,South West Aviaiton,Juba,Antonov 26B,5,3,7
+2020,Ukraine Air Force,Chuguev,Antonov An26SH,20,7,26
+2021,Sriwijaya Air,Jakarta,Boeing 737-524,56,6,62
+2021,South Sudan Supreme Airlines,Pieri,Let L-410UVP-E,8,2,10
+2021,Soloys,Butte,Eurocopter AS350B3 Ecureuil,5,1,5
+2021,Nigerian Air Force,Kaduna,Beechcraft B300 King Air 350i,7,4,11
+2021,Myanmar Air Force,Pyin Oo Lwin,Beechcraft 1900D,12,2,12
+2021,Philippine Air Force,Patikul,Lockheed C-130H Hercules,88,8,49
+2021,Kamchatka Aviation Enterprise,Palana,Antonov An 26B-100,22,6,28
+2021,Aeroservice,Kazachinskoye,Let L-410UVP-E20,14,2,4
+2021,Med Jet,El Cajon,Learjet 35A,2,2,4
+2022,China Eastern Airlines,Wuzhou,Boeing 737-89P WL,123,9,132
+2022,Tara Air,Lete Pass,de Havilland Canada DHC-6 Twin Otter 300,19,3,22
+2022,Meridian,Eleftheroupolis,Antonov An-12,0,8,8
+2022,Precision Air,Bukoba,ATR 42-500,39,39,19
+2022,LATAM,Lima,Airbus 320-271N,102,6,0
+2022,AeroPaca SAS,Medellín,Piper PA-31-350 Navajo Chieftain,6,2,8
+2023,Yeti Airlines,Pokhara,ATR 72-500-72-212-A,68,4,72
+2023,Manaus Aerotaxi,Barcelos,Embraer EMB-110P1 Bandeirante,12,2,14
