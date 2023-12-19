@@ -8,10 +8,10 @@ University of Malta - Applied Machine Learning (ICS5110) - Assignment1
 
 
 ## Summary
-A demo project predicting the outcome of an aircraft flight by comparing 3 individual Machine Learning techniques:
+A demo project predicting the fatalities of an aircraft flight crash by comparing 3 individual Machine Learning techniques:
 
-* Random Forest
-* One Class SVM
+* Isolation Forest
+* Support Vector Regression
 * KNN
 
 ## Usage
